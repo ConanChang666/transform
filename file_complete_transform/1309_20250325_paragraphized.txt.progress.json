@@ -1,0 +1,13 @@
+{
+  "done": {
+    "1": {
+      "in_hash": "d5afbce486edc1143a0577f060c4ef094baff131",
+      "out_hash": "4be7e6856ae487b2bb6df8f9bf75fedb9541e893",
+      "char_ratio": 0.5555125725338491,
+      "sent_ratio": 0.21904761904761905
+    }
+  },
+  "order": [
+    1
+  ]
+}

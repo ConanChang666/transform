@@ -1,0 +1,69 @@
+{
+  "done": {
+    "1": {
+      "in_hash": "ceae7c028e095d50e74080de986348d1069867da",
+      "out_hash": "9fb98ed53a43d758dccf73d7a4b2a6da604f8afb",
+      "char_ratio": 0.4851628968665698,
+      "sent_ratio": 0.20275590551181102
+    },
+    "2": {
+      "in_hash": "65872abc584123fc66deafc7600017dee7a247b6",
+      "out_hash": "2c3af63d8d76a52ef3243bdb92a306938b84cfa7",
+      "char_ratio": 0.4253638253638254,
+      "sent_ratio": 0.06321839080459771
+    },
+    "3": {
+      "in_hash": "f1a9aa937c63479658e7bbde677374b4a020f8c9",
+      "out_hash": "aac75da169494784b5b45d553e1606c5c825a9c7",
+      "char_ratio": 0.3925,
+      "sent_ratio": 0.33140655105973027
+    },
+    "4": {
+      "in_hash": "ed0c2f370ee69c6ec6fd570c1e0dd360f45fdef4",
+      "out_hash": "4c7e5f85772edf08981969a25a7fdf5729f4f743",
+      "char_ratio": 0.4178267193018907,
+      "sent_ratio": 0.00202020202020202
+    },
+    "5": {
+      "in_hash": "ebeaa5e33a74985acacffc555d03d5e4a71575be",
+      "out_hash": "287ae8c58eb9fb19f346e4b39ebb4877e9148d34",
+      "char_ratio": 0.33639207507820645,
+      "sent_ratio": 0.07272727272727272
+    },
+    "6": {
+      "in_hash": "844e30fde8c749a1dd6656857d5224a3e0c8ec46",
+      "out_hash": "401ff3bb9cc914f1524f9e95696c639043cdac05",
+      "char_ratio": 0.35281837160751567,
+      "sent_ratio": 0.10931899641577061
+    },
+    "7": {
+      "in_hash": "0f0b03d683cd70373bba7a92a112299de209f256",
+      "out_hash": "b5927c72b4e1296d37c49282309d836d930e38e5",
+      "char_ratio": 0.3742714404662781,
+      "sent_ratio": 0.05142857142857143
+    },
+    "8": {
+      "in_hash": "e25e0dac1a4d9dfb14b97ff0c67f4fd076aa74ba",
+      "out_hash": "bf1dec849971d3b3d8b4625b64524aad9d1e0643",
+      "char_ratio": 0.2961650687786578,
+      "sent_ratio": 0.0456140350877193
+    },
+    "9": {
+      "in_hash": "ab8aa5847c533c7aff0bdb2fda7267f48e7d6dc1",
+      "out_hash": "f19f80903c1d85324e863852ddb4f4f69d885702",
+      "char_ratio": 0.3140565639510342,
+      "sent_ratio": 0.02867383512544803
+    }
+  },
+  "order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+}
