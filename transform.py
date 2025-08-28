@@ -5,7 +5,7 @@
 - .env 批次：自動掃資料夾、輸出到指定資料夾
 - 單檔模式（保留原 CLI）
 - 429/401 掛機等待重試（自動解析等待秒數 / 重新讀 .env）
-- 多模型輪替（遇 429 換下一個）
+- 多模型輪替（遇 429 換下一個；所有模型都滿了才睡）
 """
 
 import os, re, sys, json, argparse, unicodedata, hashlib, time
@@ -183,7 +183,7 @@ USER_PROMPT_TEMPLATE = """請將下列逐字稿內容改寫為「段落式逐字
 {chunk}
 """
 
-# ---------- Groq 呼叫：429 直接換模型 ----------
+# ---------- Groq 呼叫：429 直接換模型（SDK/HTTP 皆支援） ----------
 RE_TRY_AGAIN_S  = re.compile(r"try again in ([0-9\.]+)s", re.I)
 RE_TRY_AGAIN_MS = re.compile(r"try again in (\d+)m([0-9\.]+)s", re.I)
 
@@ -193,15 +193,24 @@ def _model_list_from_env() -> List[str]:
         return [m.strip() for m in txt.split(",") if m.strip()]
     return [os.getenv("TRANSFORM_GROQ_MODEL", "llama-3.1-8b-instant")]
 
+def _parse_retry_seconds_from_msg(msg: str) -> Optional[float]:
+    if not msg:
+        return None
+    m = RE_TRY_AGAIN_MS.search(msg) or RE_TRY_AGAIN_S.search(msg)
+    if m and len(m.groups()) == 2:  # XmYs
+        return int(m.group(1)) * 60 + float(m.group(2))
+    if m:
+        return float(m.group(1))
+    return None
+
+# ---------- Groq 呼叫：顯示目前使用模型 + 429 立即標示切換 ----------
 def call_groq(model: str, system_prompt: str, user_prompt: str,
               temperature: float=0.0, timeout: int=60, max_tokens: int=4096) -> str:
-    WAIT_401 = _env_int("TRANSFORM_WAIT_ON_401", 600)
     WAIT_429_FALLBACK = _env_int("TRANSFORM_WAIT_ON_429", 90)
     WAIT_5XX = _env_int("TRANSFORM_WAIT_ON_5XX", 60)
     WAIT_MISC = _env_int("TRANSFORM_WAIT_ON_MISC", 30)
 
     url = "https://api.groq.com/openai/v1/chat/completions"
-
     cur_idx = 0
     models = _model_list_from_env()
 
@@ -209,76 +218,67 @@ def call_groq(model: str, system_prompt: str, user_prompt: str,
         load_dotenv(override=True)
         api_key = os.getenv("GROQ_API_KEY", "").strip()
         if not api_key:
-            print(f"[WARN] 缺少 GROQ_API_KEY，{WAIT_401}s 後重試…")
-            time.sleep(WAIT_401)
-            continue
+            raise RuntimeError("缺少 GROQ_API_KEY")
 
         model = models[cur_idx % len(models)]
+        print(f"[USING] 嘗試模型：{model}")
 
         try:
-            if USE_SDK:
-                client = Groq(api_key=api_key, timeout=timeout)
-                resp = client.chat.completions.create(
-                    model=model, temperature=temperature, max_tokens=max_tokens,
-                    messages=[{"role":"system","content":system_prompt.strip()},
-                              {"role":"user","content":user_prompt.strip()}],
-                )
-                return (resp.choices[0].message.content or "").strip()
-            else:
-                import requests
-                headers = {
-                    "Authorization": f"Bearer {api_key}",
-                    "Content-Type": "application/json"
-                }
-                payload = {
-                    "model": model,
-                    "temperature": temperature,
-                    "max_tokens": max_tokens,
-                    "messages": [
-                        {"role":"system","content":system_prompt.strip()},
-                        {"role":"user","content":user_prompt.strip()},
-                    ],
-                }
-                r = requests.post(url, headers=headers, json=payload, timeout=timeout)
+            import requests
+            headers = {
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json"
+            }
+            payload = {
+                "model": model,
+                "temperature": temperature,
+                "max_tokens": max_tokens,
+                "messages": [
+                    {"role":"system","content":system_prompt.strip()},
+                    {"role":"user","content":user_prompt.strip()},
+                ],
+            }
+            r = requests.post(url, headers=headers, json=payload, timeout=timeout)
 
-                if r.status_code == 401:
-                    print(f"[WARN] 401（Key 無效/不可用）。{WAIT_401}s 後重試…")
-                    time.sleep(WAIT_401); continue
+            if r.status_code == 401:
+                print(f"[WARN] 401（{model} 無效或不可用）→ 換下一個模型")
+                cur_idx += 1
+                continue
 
-                if r.status_code == 429:
-                    # 不睡，直接換下一個模型
-                    msg = ""
-                    try: msg = r.json().get("error", {}).get("message", "")
-                    except: pass
-                    print(f"[WARN] 429（{model}）：{msg} → 換下一個模型")
-                    cur_idx += 1
+            if r.status_code == 429:
+                print(f"[WARN] 429（{model} 限速/額度）→ 換下一個模型")
+                cur_idx += 1
+                if cur_idx % len(models) == 0:
+                    # 一輪都試過 → 才 sleep
+                    wait_s = None
+                    ra = r.headers.get("Retry-After")
+                    if ra:
+                        try: wait_s = float(ra)
+                        except: wait_s = None
+                    if wait_s is None:
+                        msg = ""
+                        try: msg = r.json().get("error", {}).get("message", "")
+                        except: pass
+                        m = RE_TRY_AGAIN_MS.search(msg) or RE_TRY_AGAIN_S.search(msg)
+                        if m and len(m.groups()) == 2:
+                            wait_s = int(m.group(1))*60 + float(m.group(2))
+                        elif m:
+                            wait_s = float(m.group(1))
+                    if wait_s is None:
+                        wait_s = WAIT_429_FALLBACK
+                    print(f"[INFO] 全部模型都限速，睡 {wait_s:.1f}s 後再試一輪…")
+                    time.sleep(wait_s)
+                continue
 
-                    # 全部模型都試完一輪仍 429 → 這時候才睡一下，再重來一輪
-                    if cur_idx % len(models) == 0:
-                        wait_s = None
-                        ra = r.headers.get("Retry-After")
-                        if ra:
-                            try: wait_s = float(ra)
-                            except: pass
-                        if wait_s is None:
-                            m = RE_TRY_AGAIN_MS.search(msg) or RE_TRY_AGAIN_S.search(msg)
-                            if m and len(m.groups()) == 2:
-                                wait_s = int(m.group(1))*60 + float(m.group(2))
-                            elif m:
-                                wait_s = float(m.group(1))
-                        if wait_s is None:
-                            wait_s = WAIT_429_FALLBACK
-                        print(f"[INFO] 所有模型都滿了，睡 {wait_s:.1f}s 後再試一輪…")
-                        time.sleep(wait_s)
-                    continue
+            if 500 <= r.status_code < 600:
+                print(f"[WARN] 服務端 {r.status_code}（{model}）→ {WAIT_5XX}s 後重試")
+                time.sleep(WAIT_5XX)
+                continue
 
-                if 500 <= r.status_code < 600:
-                    print(f"[WARN] 服務端 {r.status_code}（{model}）。{WAIT_5XX}s 後重試…")
-                    time.sleep(WAIT_5XX); continue
-
-                r.raise_for_status()
-                data = r.json()
-                return (data["choices"][0]["message"]["content"] or "").strip()
+            r.raise_for_status()
+            data = r.json()
+            print(f"[OK] 使用 {model} 成功")
+            return (data["choices"][0]["message"]["content"] or "").strip()
 
         except Exception as e:
             print(f"[ERROR] {model} 呼叫失敗：{e}，{WAIT_MISC}s 後重試…")
@@ -383,7 +383,8 @@ def run(input_path: str, output_path: str, model: str,
 # ---------- 批次模式（讀 .env） ----------
 def env_bool(key: str, default: bool) -> bool:
     v = os.getenv(key)
-    if v is None: return default
+    if v is None:
+        return default
     return str(v).strip().lower() in ("1","true","yes","y","on")
 
 def run_batch_from_env():
@@ -418,7 +419,8 @@ def run_batch_from_env():
     print(f"[BATCH] 共 {len(files)} 個檔案。輸出到：{out_dir}")
     fail = 0
     for p in files:
-        if not p.is_file(): continue
+        if not p.is_file():
+            continue
         stem = p.stem
         output_path = os.path.join(out_dir, f"{stem}_paragraphized.txt")
         per_chunk_dir = os.path.join(out_dir, "chunks", stem) if per_chunk else None

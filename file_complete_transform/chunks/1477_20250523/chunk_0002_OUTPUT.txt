@@ -1,0 +1,47 @@
+其實是真的會非常佔空間。好，那水冷呢？當然水冷其實它就是整個系統的核心。就是Copper就是銅材質。就是你把它放在裡面，裡面就會有一個U形的結構。就是你把水冷系統放在裡面，水就會流過去，去帶走晶片的熱。
+
+好，那所以就是說，如果你導Liquid Cooling的話，你可以增加你的單位面積算力。就是你可以增加你的Computing Power per square feet。就是你的算力的密度是會提升的。好，那所以我們知道就是，因為我們知道就是，水的密度比空氣高對不對。所以水其實更有效的去帶走這個晶片的熱。好，那所以如果我們用PUE來看的話，水冷的PUE一定是1.1以下。
+
+就是1.2 1.1以下。甚至有些性能更好可以1.6以上。1.6以下。好，那所以這中間的差異你就想，如果我導水冷液冷的話，我就可以增加我的Cold Structure。就是在我的電費上吭噴。就是類似我們講的就是那個Power Consumption。
+
+就是我們Power Consumption我們可以Save大概30%-40%。好，那所以這個就是也是錢嘛。就是電費因為現在大家就是缺電嘛。能源危機。可是其實這個是一個非常重要的點就是，如果你現在有的Data Center，其實你的電就這麼大。可是你要Upgrade到另外System的時候，你可能還是只有這些電去做這些Generate這些的算力。
+
+就是你唯有改變你的散熱的方式，你才有辦法去增加你的算力。好，那這個就是這個部分。好跟大家分享。就是那這個就是我們可以做到Total Solution的部分。就是好，那做到Total Solution的部分。你可以看到這個。
+
+就是這個是Rake Manipal。就是等一下都歡迎到我們的BOOST。就是我們BOOST在一樓。就是J0106可以他去看。就是很多東西你都可以在那邊實體看。就是這個是Rake Manipal。
+
+就是我們放在機櫃的後方。就是然後這個是Rake。就是然後這是Building Manipal。就是這是我們第一次展出的Building Manipal。就是甚至Coplay。就是我們有展出不同。
+
+就是for AMD NVIDIA INTEL。就是不同的Solution都有展。就是那我們甚至也有做ASIC的Coplay。就是ASIC Solution。可是ASIC的部分就沒有展。就是因為這是客製化。
+
+就是好然後Inner Manipal。就是C IRS。就是這個我們已經就是兩個的。就是一邊是輕短板。就是DLC。就是那一种就叫做Emergent Cooling。
+
+就是那以現在欧美的趨勢來講。就是Direct to Chip。就是就是用RAC的形式。就是就會先。就是因為Emergent Cooling。就是其實還是有議題。
+
+就是跟技術的。就是不太成熟。就是就是需要再多一些時間。就是去研發。就是至少Direct to Chip。就是現在是。
+
+就是開始是導入在。就是這個市場上面。就是好。就是那Direct to Chip。就是其實又可以分成。就是兩種solution。
+
+就是一种是Liquid to Air。就是一种是Liquid to Liquid。就是那他們兩個。就是到底有什么不一樣。就是他們兩個都是一樣。就是都是用Coplay。
+
+就是好。就是都是用Coplay。就是就是用。就是都是用Liquid。就是去pick up這晶片的熱。就是可是Liquid to Air呢。
+
+就是我這個Liquid出來之後。就是我要用Fan。就是用風扇。就是去給這個Liquid降溫。就是可是Liquid to Liquid呢。就是我的CDU需要。
+
+就是這個piping需要connect to。就是Isolated Cooling System。就是就是我需要。就是我需要。就是外接我的冰水主機。就是或者大樓水。
+
+就是一些基礎建設。就是去cool down我這個Liquid。就是好。就是所以Liquid to Liquid。就是跟Liquid to Air。就是它中間的差異就是。
+
+就是你是用什麼。就是去降這個液體的。就是如果你是Fan話。就是就是Liquid to Air。就是如果你是外接一些冰水主機話。就是就是Liquid to Liquid。
+
+就是那我這邊有個。就是我們公司。就是一個影片。就是跟大家分享一下。就是這影片我們都放在YouTube里面。就是你如果打Aura StickLiquid Cooling。
+
+就是你就會看到這個。就是可以搜尋到這個影片。就是或者是公司的官網。就是也可以有這個影片。就是好。就是那這個影片就是告訴我們說。
+
+就是Echo Play怎麼去放GB300。就是GB200。就是然後B200。就是然後或者是甚至Memory。就是不是只有CPU。就是GPU用水冷。
+
+就是甚至Memory就是Fanless。就是這樣子的概念。就是就是整個都是Fanless。就是就是都可以在這邊看到。就是好。就是先看一下。
+
+就是這是GB200的部分。就是好。就是然後這是CPU加Memory。就是好。就是然後這是B200的那种Solution。就是就是8顆晶片的那种Solution。
+
+就是那這個你可以到樓下看。就是我們也有個Center Detector。就是就是防止漏水的裝置。就是然後這個概念是指。
