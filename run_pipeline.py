@@ -179,3 +179,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+'''
+pip install transformers sentencepiece tqdm opencc-python-reimplemented
+python3 watch_and_translate.py
+'''
