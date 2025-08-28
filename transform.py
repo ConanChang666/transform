@@ -4,8 +4,8 @@
 支援：
 - .env 批次：自動掃資料夾、輸出到指定資料夾
 - 單檔模式（保留原 CLI）
-- 429/401 掛機等待重試（自動解析等待秒數 / 重新讀 .env）
-- 多模型輪替（遇 429 換下一個；所有模型都滿了才睡）
+- 401/429/5xx 都會直接換下一個模型（整池都滿了才 sleep）
+- 多模型輪替（照 .env TRANSFORM_MODELS 順序輪替）
 """
 
 import os, re, sys, json, argparse, unicodedata, hashlib, time
@@ -102,7 +102,7 @@ def coverage_check(src_lines: List[str], out_text: str) -> Dict[str, float]:
     return {"char_ratio": out_chars / max(src_chars, 1),
             "sent_ratio": out_sent_n / max(src_sent_n, 1)}
 
-# ---------- 標點後處理（可選） ----------
+# ---------- 標點後處理 ----------
 def ensure_zh_fullwidth_punct(text: str) -> str:
     def repl_punct(m):
         seg = m.group(0)
@@ -155,124 +155,55 @@ def reflow_to_paragraphs(text: str, min_sent: int = 3, max_sent: int = 6) -> str
     if buf: paras.append("".join(buf))
     return "\n\n".join(paras)
 
-# ---------- 工具：環境變數 ----------
-def _env_int(key: str, default: int) -> int:
-    try:
-        return int(os.getenv(key, str(default)).strip())
-    except Exception:
-        return default
-
 # ---------- Prompt ----------
 SYSTEM_PROMPT = """你是一位專業逐字稿整理編輯，任務是將「逐句切開的逐字稿」重排成「可閱讀的段落式逐字稿」。
-**最重要規則：不得刪除、改寫、濃縮任何一句原文內容**。你可以：
-- 調整標點與換行
-- 合併多句同主題為自然段
-- 在必要處加入最少量的連接標點（如頓號、逗號、句號），但不得新增實質內容
-- 使用中文全形標點（。！？、；：）並於句末補齊適當標點
-- 若偵測到說話者（如「主持人：」「發言人：」或姓名），保留其標示
-**關鍵輸出格式**：
-- 同一段落內不得逐句換行；句子之間直接連續書寫
-- 僅能用「空行」分隔段落，每段建議 3–6 句，主題切換時才換段
-輸出僅包含整理後的文字，不要加任何前後說明。"""
+**最重要規則：不得刪除、改寫、濃縮任何一句原文內容**。
+"""
 
-USER_PROMPT_TEMPLATE = """請將下列逐字稿內容改寫為「段落式逐字稿」，**不刪減任何一句話**、**不摘要**、**不改動專有名詞與數字**。
-允許的操作只有：調整標點、換行與段落合併，維持原話語序與意思。請使用中文全形標點，並為中文句末補齊「。」「！」「？」等適當標點。
-**同一段落內不得逐句換行，僅用「空行」分段；每段 3–6 句，遇主題切換再換段。**
-
-【逐字稿片段（按原始順序）】
+USER_PROMPT_TEMPLATE = """請將下列逐字稿內容改寫為「段落式逐字稿」，**不刪減任何一句話**、**不摘要**。
+【逐字稿片段】：
 {chunk}
 """
 
-# ---------- Groq 呼叫：429 直接換模型（SDK/HTTP 皆支援） ----------
-RE_TRY_AGAIN_S  = re.compile(r"try again in ([0-9\.]+)s", re.I)
-RE_TRY_AGAIN_MS = re.compile(r"try again in (\d+)m([0-9\.]+)s", re.I)
-
+# ---------- 模型清單 ----------
 def _model_list_from_env() -> List[str]:
-    txt = os.getenv("TRANSFORM_MODELS", "").strip()
-    if txt:
-        return [m.strip() for m in txt.split(",") if m.strip()]
-    return [os.getenv("TRANSFORM_GROQ_MODEL", "llama-3.1-8b-instant")]
+    raw = os.getenv("TRANSFORM_MODELS", "").strip()
+    if not raw:
+        return [os.getenv("TRANSFORM_GROQ_MODEL", "llama-3.1-8b-instant")]
+    return [m.strip() for m in raw.split(",") if m.strip()]
 
-def _parse_retry_seconds_from_msg(msg: str) -> Optional[float]:
-    if not msg:
-        return None
-    m = RE_TRY_AGAIN_MS.search(msg) or RE_TRY_AGAIN_S.search(msg)
-    if m and len(m.groups()) == 2:  # XmYs
-        return int(m.group(1)) * 60 + float(m.group(2))
-    if m:
-        return float(m.group(1))
-    return None
-
-# ---------- Groq 呼叫：顯示目前使用模型 + 429 立即標示切換 ----------
+# ---------- Groq 呼叫 ----------
 def call_groq(model: str, system_prompt: str, user_prompt: str,
               temperature: float=0.0, timeout: int=60, max_tokens: int=4096) -> str:
-    WAIT_429_FALLBACK = _env_int("TRANSFORM_WAIT_ON_429", 90)
-    WAIT_5XX = _env_int("TRANSFORM_WAIT_ON_5XX", 60)
-    WAIT_MISC = _env_int("TRANSFORM_WAIT_ON_MISC", 30)
-
     url = "https://api.groq.com/openai/v1/chat/completions"
-    cur_idx = 0
     models = _model_list_from_env()
+    cur_idx = 0
 
     while True:
         load_dotenv(override=True)
         api_key = os.getenv("GROQ_API_KEY", "").strip()
         if not api_key:
-            raise RuntimeError("缺少 GROQ_API_KEY")
+            print("[ERROR] 缺少 GROQ_API_KEY")
+            time.sleep(60)
+            continue
 
         model = models[cur_idx % len(models)]
         print(f"[USING] 嘗試模型：{model}")
 
         try:
             import requests
-            headers = {
-                "Authorization": f"Bearer {api_key}",
-                "Content-Type": "application/json"
-            }
-            payload = {
-                "model": model,
-                "temperature": temperature,
-                "max_tokens": max_tokens,
-                "messages": [
-                    {"role":"system","content":system_prompt.strip()},
-                    {"role":"user","content":user_prompt.strip()},
-                ],
-            }
+            headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+            payload = {"model": model, "temperature": temperature, "max_tokens": max_tokens,
+                       "messages": [{"role":"system","content":system_prompt.strip()},
+                                    {"role":"user","content":user_prompt.strip()}]}
             r = requests.post(url, headers=headers, json=payload, timeout=timeout)
 
-            if r.status_code == 401:
-                print(f"[WARN] 401（{model} 無效或不可用）→ 換下一個模型")
-                cur_idx += 1
-                continue
-
-            if r.status_code == 429:
-                print(f"[WARN] 429（{model} 限速/額度）→ 換下一個模型")
+            if r.status_code in (401, 429) or (500 <= r.status_code < 600):
+                print(f"[WARN] {r.status_code}（{model}）→ 換下一個模型")
                 cur_idx += 1
                 if cur_idx % len(models) == 0:
-                    # 一輪都試過 → 才 sleep
-                    wait_s = None
-                    ra = r.headers.get("Retry-After")
-                    if ra:
-                        try: wait_s = float(ra)
-                        except: wait_s = None
-                    if wait_s is None:
-                        msg = ""
-                        try: msg = r.json().get("error", {}).get("message", "")
-                        except: pass
-                        m = RE_TRY_AGAIN_MS.search(msg) or RE_TRY_AGAIN_S.search(msg)
-                        if m and len(m.groups()) == 2:
-                            wait_s = int(m.group(1))*60 + float(m.group(2))
-                        elif m:
-                            wait_s = float(m.group(1))
-                    if wait_s is None:
-                        wait_s = WAIT_429_FALLBACK
-                    print(f"[INFO] 全部模型都限速，睡 {wait_s:.1f}s 後再試一輪…")
-                    time.sleep(wait_s)
-                continue
-
-            if 500 <= r.status_code < 600:
-                print(f"[WARN] 服務端 {r.status_code}（{model}）→ {WAIT_5XX}s 後重試")
-                time.sleep(WAIT_5XX)
+                    print("[INFO] 全部模型都失敗，休息 60s 後再試一輪…")
+                    time.sleep(60)
                 continue
 
             r.raise_for_status()
@@ -281,8 +212,12 @@ def call_groq(model: str, system_prompt: str, user_prompt: str,
             return (data["choices"][0]["message"]["content"] or "").strip()
 
         except Exception as e:
-            print(f"[ERROR] {model} 呼叫失敗：{e}，{WAIT_MISC}s 後重試…")
-            time.sleep(WAIT_MISC)
+            print(f"[ERROR] {model} 呼叫失敗：{e} → 換下一個模型")
+            cur_idx += 1
+            if cur_idx % len(models) == 0:
+                print("[INFO] 全部模型都呼叫失敗，休息 60s 後再試一輪…")
+                time.sleep(60)
+            continue
 
 # ---------- checkpoint / 存檔 ----------
 def load_ckpt(ckpt_path: str) -> Dict:
@@ -450,7 +385,7 @@ def run_batch_from_env():
     ok = len(files) - fail
     print(f"[BATCH DONE] 成功 {ok}，失敗 {fail}")
 
-# ---------- 參數解析（保留單檔模式） ----------
+# ---------- 參數解析 ----------
 def parse_args():
     p = argparse.ArgumentParser(description="逐字稿 → 段落式逐字稿（支援 .env 批次 + 多模型輪替）")
     p.add_argument("--input", help="單檔：輸入檔")
@@ -466,7 +401,7 @@ def parse_args():
     p.add_argument("--reflow", type=lambda x: str(x).lower()=="true", default=True)
     p.add_argument("--min_sent_per_para", type=int, default=3)
     p.add_argument("--max_sent_per_para", type=int, default=6)
-    p.add_argument("--batch", action="store_true", help="啟用 .env 批次模式（不用再打參數）")
+    p.add_argument("--batch", action="store_true", help="啟用 .env 批次模式")
     return p.parse_args()
 
 if __name__ == "__main__":

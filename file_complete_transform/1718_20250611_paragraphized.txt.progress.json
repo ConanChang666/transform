@@ -1,0 +1,20 @@
+{
+  "done": {
+    "1": {
+      "in_hash": "32cb2717779bbf4979092b6a57df4d701fcc2875",
+      "out_hash": "c5d28aa2e9c08c28d79380be271e2ff7202b1be0",
+      "char_ratio": 0.43017924135056274,
+      "sent_ratio": 0.04710144927536232
+    },
+    "2": {
+      "in_hash": "b4c84a8a3c76c7aa1ffb2765ff5fb9efa1c2858b",
+      "out_hash": "368fe297570f73d6be6f072a42a928d9d89b71b0",
+      "char_ratio": 0.412166003411029,
+      "sent_ratio": 0.03482587064676617
+    }
+  },
+  "order": [
+    1,
+    2
+  ]
+}
