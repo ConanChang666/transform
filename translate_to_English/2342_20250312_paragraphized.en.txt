@@ -1,0 +1,217 @@
+The following is a re-arranged paragraph-by-word transcript:. We are honored to have you join us today at the Taiwan Maoxi Electronics Co., Ltd. to attend the corporate briefings held by the new Taiwan government. The briefings will be uploaded to the public information observation station after the meeting.
+
+First of all, I would like to introduce you to the leaders of today's meeting: Mr. Tong Yixian, Mr. Lu Jianzhi, General Manager and Spokesperson, Deputy General Manager of Marketing Business Department, Mr. Zhang Zhida, and Mr. Yang Yafei Finance Office. Next, we would like to ask the company to explain the operation and future prospects for you.
+
+This is a summary of the results of our operations in 2024. Our revenues in 2024 amounted to $89.4 billion, which is almost 28 percentage points higher than in 2023. During this period, we felt slowly digesting the stock of the entire industry chain as a result of the pandemic in 2023. So in the second quarter of 2024, we felt that the entire market was in a temperate condition.
+
+We now have cash in our company, as well as cash at the end of 2024, with an estimated amount of $8.91 billion at the end of 2024. The billion is 24.62 billion. We also see that the number of pieces we ship also increased by 14 percentages, that is, to 49 million 3000 pieces. Compared to that 43 million pieces in 2023, the 434,000 pieces are about 36000 pieces per month.
+
+Gross profit in business is also increased from 4.4% to 20.7% in 2024. That in the interests of business, we have a 4.5 million interest in our business. So this part of the business is outside the business, and that most of it is the benefit of foreign currency exchange, so there are 46 million. So adding that the net profit in the current period is 91 million. So the earnings per share is $0.58. Our company also announced on February 20, that the company's board of directors resolved to pass the distribution of this second half of 2024 cash dividend, which is $0.3 per share.
+
+So in this balance sheet, we can see that our total assets are 33.6.5 billion yuan at the end of 2024. This includes current assets, about 20.63, and real estate use of full assets, etc. So the current liabilities are $59.1 billion. So the total amount of balance sheet is 24.6.2 billion. So the net value per share is also 14.89 at the end of 2023, which rose to 15.5.1 billion.
+
+This is our report of the year 2024. Then, we asked General Manager Lu Jianzhi, then further explanation of the operation of 2024 and our sales, as well as a plan for the future development of public device technology. Thank you. I am Lu Jianzhi, first of all, to report the monthly revenue performance of 2024.
+
+So in the current situation of the order and delivery, we can see that there are some limitations to the market. Then from the second quarter we have a clear feeling that the whole scene and the customer's needs are starting to rise. Then this is in addition to the market's expectations, the customer's order is also a very important benefit. So under such circumstances, we maintain the fourth quarter of the fourth quarter to take advantage of this situation, we make our revenue performance, which is close to 85 to 90%. Then, and monthly revenue is close to 1.7 to 1.77.5 billion.
+
+Let's take a closer look at our revenue performance in 2024. So if we compare from the quarter to YY in 2023, the first quarter of 2021 and the first quarter of 2024 is less than the first quarter of 2023. But since the second quarter, we have surpassed our revenue in 2023.
+
+The second is 27% of the second group with analog 9% of the product. 7% of the other products such a product distribution. Up to 2024, our turnover increased to 18.9 billion. But our product distribution remained quite proportional.
+
+Then I want to report that we are in these years, the whole wafer production of a proportion of the distribution. Then, like we are the output ratio of each month, the largest product is still in the green area, the bottom MOSFET IGDP of this block. Then we just have an important part in the specification of the customer needs two collective parts, the DIAL part, the small part of the capacity we are using analog original class raw materials and other products to meet.
+
+So until 2024, the number of shipments of our standard vehicles was still 12.3% higher than in 2023. Then this is to show that we are on the market of this standard, and we continue to have a stable performance in the year. Thank you. The following pages I want to report is the technical blueprint for the development of power devices over the next few years.
+
+So the first thing I want to report is the part of the MOSFET, which is the part of the MOSFET in the power device, especially with high pressure MOSFET, the high pressure SGT MOSFET as the main focus of our development.
+
+## Scripting. **Trade Operations Report**. **1, Technical Development Direction**. * MOSFETs containing MOSFETs from MOSFETs. * These are the MOSFETs that we are actively developing next. * And using these products to meet the needs of power devices in the market is a major development.
+
+* Next I would like to report is FSIGPT. * FSIGPT has been working on the trading market for many years. * It is also a product that is locked in the power device. * Below our development. * Specially aligns our IGPT direction to the 7th generation of the latest product in Infineon. * It adapts our product capabilities to the needs of the market.
+
+* This is what we believe in in the future. * The service of the customer above. * Can get a better service to the customer. * In conjunction with IGPT we have developed FRED. * FRED is a fast recovery of the diodes. * The diodes inside this diodes.
+
+This is similar to the verse in which the Prophet (peace and blessings of Allah be upon him) said: "And We have made the Qur'an easy for you, and We have made it easy for you.
+
+* Can be matched with IPPT. * Except for FRED. * I would like to report another. * Called PTC FRED. * This refers to the FRED of the positive temperature coefficient. * This is more suitable for that temperature coefficient.
+
+* Power devices especially need this in parallel. * The semiconductor components required in the power devices. * It is expected to be in the near future. * It will also help us. * On the IPPT marketing.
+
+* There will be some good results. * Last I want to report is. * This is the third part. * I want to report is the TDS part. * That TDS is the same as the focus we have developed over the years. * This is specifically targeted to consumer products.
+
+* Low tolerance required or ultra-low tolerance TDS required. * And TDS with high volatility resistance. * Or TDS required for CAMBUS in the car. * All of these kinds of TDS are in the category of our new product development. * This part of our business is also important in the future.
+
+* Below. **2. Summary of operations**. * Trade is now the main business of all of us. * OEM-made chip manufacturing business. * Customers who are mainly locked in cars. * Industrial as well as Smart Power application market.
+
+* In 2024, the proportion of automotive products. * It is still 47% in this very high proportion. * It was a very important part of a trade revenue project. * In the FSIGVT in the past, our input and the next generation of FSIGVT will be closer to the market demand. * It is also possible to obtain a guarantee for trade revenue.
+
+* Automotive and industrial products. * Our relative customers are very stable. * That is to say, especially for future development. * As reported on the above three pages. * We are in SIC FSIGVT FRIV and SGVMOSFET.
+
+* The development of these products, such as GDL. * We will continue to develop the products with the platform in the next time. * The main revenue instructions can then be brought to the future of trade. * The above is our report. * Thank you.
+
+* In fact, Chinese customers are a part of it. * In fact, it is more than 67 per cent. * All customers outside China. * So.
+
+* Made in this China mature production capacity. * In fact, the existing operation of Maosi. * Not too much influence. * Of course I believe in Chinese customers. * When the demand for manufacturing capacity is selected. * He will prioritize the production capacity in China.
+
+* However, it is a matter of Moses. * We have been planning for many years. * It's not really a big reliance on China. * So, the whole thing is above the OEM market. * China's OEM capacity.
+
+We do not have any tags for Let's Do It Now [Stereo] lyrics. - [Stereo] lyrics. - [Stereo] lyrics. - [Stereo] lyrics. - [Stereo] lyrics. - [Stereo] lyrics. - [Stereo] lyrics. - [Stereo] lyrics. - [Stereo] lyrics. - [Stereo] lyrics. - [Stereo] lyrics. - [Stereo] lyrics. - [Stereo] lyrics. - [Stereo] [Stereo] lyrics. - [Stereo] [Stereo] lyrics. - [Stereo] [Stereo] lyrics.
+
+* Domestic freight and e-commerce. * All are sent a trade. * Guaranteed for Australia. * More impact. * This is in social media. * See him.
+
+* I have also introduced it. * Prerequisites are possible. **4. Circum Carbide capacity overview**. * The relative capacity of the Circum Carbide system is 52,000 units per month. * If I fill in the current product portfolio with 52,000 pieces. * When we develop the SIC capacity.
+
+* We have made some reconfiguration of the capacity. * After the configuration is complete. * We should be able to get more than 50,000 pieces on the capacity of Circus. * The part of the capacity of the SIC is currently 3,000 pieces. * That is, as the market changes. * Of course, we will gradually increase the share of the SIC capacity.
+
+**5、Other**. **6、Other**. **7、Other**. **8、Other**. **9、Other**. **10、Other**.
+
+**11、Others**. **12、Others**. **13、Others**. **14、Others**. **15、Others**. **16、Others**.
+
+**17、Others**. **18、Others**. **19、Others**. **20、Others**. **21、Others**. **22、Others**.
+
+**23、Other**. **24、Other**. **25、Other**. **26、Other**. **27、Other**. **28、Other**.
+
+**29、Others**. **30、Others**. **31、Others**. **32、Others**. **33、Others**. **34、Others**.
+
+**Three, Other**. **Three, Other**. **Three, Other**. **Three, Eight, Other**. **Three, Other**. **Three, Other**. **Four, Other**.
+
+**Fourth, Other**. **Fourth, Other**. **Fourth, Other**. **Fourth, Other**. **Fourth, Other**. **Fourth, Other**. **Fourth, Other**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**. **42、Others**.
+
+**45, others**. **45, others**. **46, others**. **47, others**. **48, others**.
+
+**49、Others**. **44、Others**. **44、Others**. **44、Others**. **45、Others**. **46、Others**.
+
+**47、Others**. **47、Others**. **48、Others**. **49、Others**. **40、Others**. **41、Others**.
+
+**45, others**. **45, others**. **45, others**. **46, others**. **47, others**.
+
+**48, Other**. **49, Other**. **420, Other**. **4. **4. **4.
+
+**4.**4.**4.**4.**4.**4.**4.
+
+**4.**4.**4.**4.**4.**4.**4.
+
+****4.**4.**4.**4.**4.**
+
+This is the second question here is what other products other than automotive products, such as what is the percentage of industrial shipments? Here is a simple response, that is, the car products we have just reported as we have about 46% of revenue, the rest is in the industry, and a few of them are in the logic and IC products. That can also be said, the industrial products are probably 20 to 25%, so we have the main shipping ratio. Next, there is a advanced question is that the process of buying and selling 8" wafers, what is the role of Maoxi here?
+
+The future direction of development is still locked in the power device, which in addition to the power device, we have a lot of product planning and future production direction are all in the direction of the development of the car. I think you should note that although we have a lot of future product planning, but where the tin and potassium nitride, the market price is relatively high, so when our capacity comes out, it may account for a large proportion of revenue, it will dilute other products. So, in short, the future product development will be our most important proportion of revenue.
+
+If you are looking for a product that is not suitable for your company, please contact us. If you have any questions, please feel free to contact us. If you have any questions, please feel free to contact us. If you have any questions, please feel free to contact us. If you have any questions, please feel free to contact us. If you have any questions, please feel free to contact us. If you have any questions, please feel free to contact us. If you have any questions, please feel free to contact us. If you have any questions, please feel free to contact us.
+
+I have seen a new topic, which is what the SIC substrate is like. I now see a new topic: Is there an existing SIC client, or does the client have to give forecast or the current needs, how does the client feel about us urgently? Here I tell you, is that at the same time I built this production line, there are already a few customers come in with us for the development of the joint development, which is certainly not necessarily our customers will be the future customers.

@@ -1,0 +1,197 @@
+<think> Ok, now I need to process the verbatim text of the user and organize it into paragraph verbatim text. First of all, I want to read the rules of the user carefully to ensure that the user does not delete, rewrite, or consolidate any original text. The user emphasizes that all sentences must be retained, so I want to check the verbatim text to make sure that there are no omissions or errors. Next, I will look at the verbatim fragments of the user's verbatim text.
+
+First of all, I will merge sentences of the same topic into paragraphs. For example, the introduction of parts of the meeting management team, including CEO Xu Zhida, Associate Zhang Jialing, etc., should be placed in the same paragraph. Then, the company profile section, from the creation of history to the business philosophy, to the product line and business model, these content needs to be segmented. It is important to note that some sentences may belong to the same paragraph, but the timestamp may not be continuous. For example, the part of the company history, from 100. 84 to 114. 92 seconds of the content is about the company history, and should be combined into paragraphs.
+
+In addition, the financial reports section from 447. 40 to 509. 44 seconds, need to integrate business income, business gross profit, business expenses, and other data into a coherent paragraph. Here pay attention to the correct representation of the figures and percentages to ensure the accuracy of financial data. During the processing process, I will check whether there are duplicated or need to adjust the sequence of sentences.
+
+This is required, but based on the example responses provided by the user, timestamps are removed, so I will follow the example and keep only the text content. Finally, I will read the whole finishing paragraph verbatim to ensure smoothness and logic, and check if all the original sentences are correctly contained, with no omissions or errors. If there are uncertain places, further confirmation may be required, but according to the example provided by the user, it should be handled smoothly. </think> Here are the finished paragraph verbatim verbatim (fully retain all the original sentences and adjust the paragraph structure):
+
+Now I am going to introduce you to the management team. Mr. Xu Zhida, Chief Executive Officer. Mr. Zhang Jialing, Spokesperson, Mr. Ji, and everyone in the afternoon. Next, I will pass the time to the management team. Thank you.
+
+We welcome you to join this year's e-newsletter. Today's presentation will be divided into three parts, with the opening of Q&A time. First, I will introduce you to the company's profile and financial reports, and then we will further explain the outlook by our CEO.
+
+Our goal is to become a benchmark enterprise in the industry and to make a positive contribution to society. Next we will see the company's history is strict. This year's start date can be traced back to 1979, we were originally an AIDC business unit under the economic computer. By 2008, we officially split into independent electronic this year, focusing on the field of automatic identification and data collection.
+
+The next year is 2009, we listed on the OTC market, and in September 2022, we switched to a listed company. The AIDC industry in which we were in the early stages of the adoption of barcodes, but with the evolution of technology, we have expanded to multidimensional barcodes, RFID, image recognition, and even the integration of IoT intelligent solutions. This year, electronic products from R&D, manufacturing, marketing, and free brand unitec are introduced to the world.
+
+Next, let's take a look at the product line. Our products are mainly divided into five categories: first, industrial-grade mobile computers, second, barcode scanners, third, ID solutions, fourth, iOS-compatible devices, and fifth, software applications.
+
+In addition, there are industrial tablets with larger screens that allow us to meet the needs of different fields. In the bar code scanner section, we believe that everyone is familiar with everyday life, such as the scanners seen in convenience stores and retail stores. Our products cover handheld, wearable and pocket-based devices, we support both end and end barcodes, using CCD and Laser technology, as well as wired and wireless models.
+
+iOS products are compatible with Apple devices, with Apple-certified, pocket-sized Reader, and Zillay barcode scanners, which can be directly combined with iPhone or iPad to transform into a powerful data collection tool. In addition to hardware products, we have integrated our own software development, and introduced a variety of application scenarios to help customers build overall solutions, further enhance the value of the products.
+
+In addition, we work with value-based agents around the world to enter the final client with products that are integrated into systems, software developers, or resellers. The end user is an enterprise organization and the product is the key equipment they need to operate. For customers with large projects, we also offer direct sales services.
+
+In addition, some of our business are ODM-oriented and tailor-made solutions for our customers. Our products are widely used in retail management, government agencies, logistics transportation, manufacturing sites, warehousing management, on-site services, medical accounts, etc. We can see the application scenarios of our products.
+
+In the medical field, we are involved in accurate identification of patient drugs and equipment. And again, we are the global marketing network. This year, there are 14 offices and 18 marketing service locations around the world, and more than 1200 partners. As a brand, we are not only a tree planting subsidiary, we also attach great importance to the support and operation of our partners around the world to ensure that our products can be effectively promoted to the world.
+
+This quarter, our revenue came to NT$5.64 billion, a 7% increase compared to the same period last year. This growth is mainly due to the continuous optimisation of our portfolio, coupled with the effective control of raw materials and manufacturing costs, which allowed us to increase our gross profit to $1.92 billion, an annual increase of 13.5%. Overall, we have seen significant progress in the efficiency of our price strategy and cost.
+
+Let's take a look at a few key profit margins. In the gross profit margin portion, we increased to 34. 09%, which is nearly 2 percentage points higher than the same period last year.
+
+[509. 44-511. 50] This is an increase of nearly 2.9% compared to the same period last year. [511. 50-518. 40] The portion of our business profit was rebounded to 2. 65% from -1. 4% last year. [518. 40-520. 96] It illustrates the growth of our revenue at the same time. [520. 96-523. 78] Our fee control is also in place. [523. 78-528. 64] In the net interest rate portion we increased from 2.8% to 4. 52%. [528. 64530. 96] We increased more than 2 percentage points each year.
+
+[530. 96-534. 54] represents the continuous improvement of our overall operational efficiency. [534. 54-536. 84] Overall, we see these three rates. [536. 84-538. 38] is a comprehensive increase. [538. 38-541. 44] Therefore, we strengthen our overall operational constitution. [541. 44-546. 32] In addition, we add the previous quarter after our external revenue. [546. 32-549. 12] 3,225 million.
+
+[549. 12-562. 20] The year-over-year increase was over 114%. [552.1 20-556. 30] Our net profit after deduction of income tax was 2546 million. [556. 30-559. 62] The same period last year grew 112%. [559. 62-562. 96] Our earnings per share was 0.24. [562. 96-566. 80] is one of the best performances we have performed in recent years. [566. 80-566. 82] is one of the best performances we have performed in the same period in recent years.
+
+[566. 84-569. 92] Next is the balance sheet. [569. 92-572. 22] As of the end of the first quarter of this year. [572. 22-575. 80] Our total assets are NT$2.52 billion. [575. 80-578. 62] An annual increase of about 5.6%. [578. 62-581. 68] is mainly due to the expansion of our operating scale. [581. 68-583. 74] and the increase in cash positions.
+
+[583. 74-586 80] We explain what we are about in terms of the composition of assets. [586. 80-590. 90] In the cash section we are $53.6 billion. [590. 90-592. 70] Increases 16.3% year-on-year. [592. 70-596. 80] shows that our capital flexibility and security buffers are sufficient. [596. 80-599. 88] The receivable portion is $45.2 billion. [599. 88-601. 40] Increases 17% year on year.
+
+[601. 40-605. 24] The growth of our first quarter shipments is echoed. [605. 24-608. 84] The part in the inventory is $457 billion. [608. 84-610. 36] Increases by 10.2% year-on-year. [610. 36-613. 96] We reflect the high season's stockings and customer needs. [613. 96-616. 26] We are stable in other assets. [616. 26-619. 08] The overall asset structure remains balanced.
+
+[619. 08-622. 66] The total amount of our debt is $64.3 billion. [622. 66-624. 44] has increased by 10.3% year-on-year. [624. 44-626. 76] is mainly related to accounts payable. [626. 76-629. 32] Increases in demand for operational expansion. [629. 32-632. 14] Our overall debt ratio is 25.5%. [632. 14-634. 18] maintains a conservative level.
+
+[634. 18-637. 26] shows that the use of our financial leverage is stable. [637. 26-641. 86] Total equity is 18.77 billion. [641. 86-643. 14] Increases 4% year-on-year. [643. 14-646. 98] reflects the ongoing accumulation and profitability of our operations. [646. 98-651. 34] Our liquidity ratio in liquidity is 371%. [651. 34-653. 64] The trajectory ratio is 273%.
+
+[65. 64-655. 44] We are all above the average level. [655. 44-656. 72] shows that our short-term long-term at [656. 76-659. 06] capacity is very adequate. [659. 06-662. 64] Overall, our balance sheet structure is solid. [662. 64-665. 44] capital flexibility. [66. 44-665. 72] has sufficient financial reasons.
+
+[665. 72-669. 04] The future growth and demand for investment. [669. 04-672. 38] Finally, we look at the cash flow statement. [672. 38-674. 16] In terms of business activities. [674. 16-678. 78] Our net cash flow for the current period is about $2167 million. [678. 78-681. 84] is mainly due to the increase in inventory and payables. [681. 84-686. 72]
+
+[686. 72-689. 28] This is a normal profit cycle change. [689. 28-692. 60] also reflects the unintelligentness of our market demand. [692. 60-697. 22] In terms of investment activities, we have net cash flow of about $1.8 billion. [697. 22-700. 80] mainly allocates some of our upfront funds to annual time deposits. [700. 80-702. 34] is a prepayment for fund management. [702. 34-704. 38] improves our fund efficiency.
+
+[704. 38-709. 24] In part of the investment activity we net cash out of about 783 million. [709. 24-712. 84] is mainly used for the repayment of the principal of our lease. [712. 84-7414. 36] Overall. [714. 36-716. 68] While the net cash out of the current period is about $77 million. [716. 68-720. 26] but mainly from conservative capital arrangements. [720. 26-727. 68] As at the end of the first quarter, we still hold $53.6 billion in cash and forward cash.
+
+[727. 68-7332. 30] Maintain good liquidity and a buffer for financial security. [732. 30-743. 86] Above is the financial highlights of the current issue. [734. 86-736. 40] Thank you for listening. [736. 40-738. 70] Next is the report on earnings outlook. [738. 70-743. 04] We may refer to the chief executive to follow you in advance. [743. 04-745. 10] Online investment advanced.
+
+[745. 10-746. 12] Hello everyone. [746. 12-747. 66] Good afternoon. [747. 66-749. 20] I'm electronic this year. [749. 20-750. 98] Chief Executive Officer Zhida. [750. 98-752. 78] Outlook for the future. [752. 78-754. 32] That's our company.
+
+[754. 32-756. 36] The engine of future growth. [756. 36-759. 68] I explain it in four parts. [759. 68-761. 74] The first is UPID. [761. 74-763. 28] Promotion of business. [763. 28-766. 86] The second is Window on Arm. [766. 86-770. 44] The third is the logistics and face-to-face market.
+
+[770. 44-775. 82] The fourth is the intelligent automation solution. [775. 82-780. 94] The fifth is the business promotion of RFID. [780. 94-785. 04] This chart can be seen. [785. 04-788. 88] This data shows the RFID label. [788. 88-790. 16] It arrives. [790. 16-791. 94] 2028.
+
+[791. 94-794. 50] The compound growth rate of its label. [794. 50-795. 78] The number of inbound and outbound. [795. 78-798. 86] There is a 24% growth rate. [798. 86-802. 96] Most of these are in service. [802. 96-805. 26] There are 57%. [805. 26-807. 82] Revenues are 29%.
+
+[807. 82-811. 66] occupies 29% of the exports of this label. [811. 66-814. 22] The logistics industry is 7%. [814. 22-819. 08] The medical industry is 4%. [819. 08-820. 62] It is in this picture. [820. 62-821. 90] In this market. [821. 90-823. 94] In these four markets the application of the market.
+
+[823. 94-826. 00] can be seen to serve the business. [826. 00-828. 30] is actually part of this. [828. 30-831. 38] The stage of high import of the market. [831. 38-832. 66] The market. [832. 66-834. 96] Continues to grow. [834. 96-838. 04] That is the Unicor.
+
+[838. 04-839. 56] And Zara. [839. 56-842. 64] Used RFID to replace it. [842. 64-843. 92] Barcodes. [843.42-846. 22] This stock list is made. [846. 22-848. 52] There is also a checkout application. [848. 52-850. 06] This is the main thing.
+
+[850. 06-852. 12] This decreases. [852. 12-854. 42] Check out. [854. 42-854. 72] The time the customer waits. [85. 72-858. 76] Also decreases. [858. 76-659. 54] The quarterback. [85. 54-860. 56] Product.
+
+[860. 56-862. 36] Inventory. [862. 36-8664. 92] is also a reduction in the amount of deposits. [86. 96-866. 24] It is a service business. [866. 24-867. 52] is the most used. [867. 52-869. 56] The main application. [869. 56-872. 64] The other retail store is mainly used.
+
+[872. 64-873. 92] Smart Retail. [873. 92-876. 48] and surrounding application scenarios. [876. 48-879. 56] Of course, there are some products used in high value. [879. 56-881. 86] Smart Retail. [881. 86-883. 64] Mostly [883. 64-884. 92] Unmanned stores.
+
+[889. 98-889. 80] The application of the checkout. [889. 80-892. 60] The Walmart already uses RFID. [892. 60-894. 40] Management of the supply chain. [894. 96-896. 24] Most.
+
+[896. 24-898. 04] is also. [898. 04-900. 08] Speed up the efficiency of the operation. [900. 08-901. 62] is also reduced. [901. 62-903. 92] Quarterly inventory of goods. [903. 92-906. 22] Reduces stagnant inventory. [906. 22-907. 24] The logistics industry.
+
+[907. 24-911. 60] is used for tracking smart warehousing and supply chain. [911. 60-914. 16] is like the United States of America BetaExpress. [914. 16-918. 00] has used this RFID in the United States. [918. 00-920. 56] to speed up printing operations. [920. 56-921. 58] That is. [921. 58-923. 88] is primarily aimed at reducing manpower.
+
+[923. 88-924. 66] Resolved. [924. 66-927. 48] The problem of human shortage. [927. 48-929. 52] The fourth is the medical industry. [929. 52-931. 58] The medical industry is the main one. [931. 58-9332. 60] This. [932. 60-933. 88] This is done.
+
+[933. 88-935. 42] Controlling the management of drugs. [935. 42-939. 20] Also, patients. [937. 20-939. 00] Division of management. [939. 00-941. 04] Also known as animal management. [941. 04-943. 10] Also known as animal management. [943. 10-944.3. 38] Most of them refer to.
+
+[944. 38-945. 40] Pets. [945. 40-945. 72] is also the management of the fine wood industry. [948. 72-950. 78] for. [950. 78-951. 54] Yes. [951. 54-954. 62] This year the electronic product development in RFID has been. [954. 62-955. 90] Many years.
+
+[955. 90-956. 66] Yes. [956. 66-957. 94] Also many years. [957. 94-962. 30] It is in addition to the RFID reader with this physical key button. [962. 30-965. 12] It also has RFID reader with grip. [965. 12-967. 42] There is also RFID module. [967. 42-970. 74] There is also a long memory RFID reader.
+
+[970. 74-973. 06] That we started last year. [973. 06-975. 36] We also have three products at the end of the year. [975. 36-978. 94] I went on sale. [978. 94-983. 04] I have one to explain to you. [983. 04-984. 58] The first one is PA728. [984. 62-986. 16] The first UHF.
+
+[986. 16-988. 72] This is for retail.
+
+The following is a re-arranged paragraph type transcription:. There is also an application of clothing and catering. Applications are short memory RFID Reader. It is characterized by this PDA contains the module of barcode and RFID Reader. The read memory is short memory is 1.2 m. It has the so-called portable convenience, as well as light weight.
+
+The PA7281 also includes 4G and WiFi. It is actually a mobile computer, as well as a mobile phone. It contains GEN2's latest Protocol, the standard for communication. Therefore, the RFID read performance is particularly good. The second is the RP300.
+
+This product is a short memory RFID reader for storage logistics and retail applications. This product is multi-platform and is multi-purpose. It can be used on its own, can read barcodes, can read labels. Of course, it can also be used with iPhone phones, or memory PDAs. At present, this machine RP300 is already in Apple's MF-i certification.
+
+This product features two blue keys, which can be used to read barcodes and RFID tags separately. It is very convenient to use. It also provides 7000mAh long-lasting battery that can be used for a long time. I think the main product is simple to operate and durable, which is its characteristic. Next page
+
+The other one is RM300 Plus. This is a module that can't be used alone, it's a module to work with this product. This RM300 Plus actually looks like a camera, camera module. A camera module like a phone.
+
+The technology of the product is also a bit more complex, so the general hardware equipment manufacturers are buying this kind of RPID module out of the way, in combination with their hardware on the top. The RPID module itself was developed, and it is also because it is self-developed, so its read performance or the hardware and software control is also very good. This is our strength.
+
+I don't think the effect is good. But the architecture of this Window on ARM is used on the tablet but can play its mid-end, small size and low price features. This year's RT12 Window is the CPU of this CoreComp6490. It contains a BuccleReader Engine. With the Windows operating system, this software can be used efficiently to meet the needs of IoT customers.
+
+If our Windows on ARM platform for RT12 is available, it is easy to replace the Windows Tablet if it is available. This machine was launched in D3T this year. This year's Computex has shown that the effect is good, and many customers need this template to test.
+
+It is also the logistics and cold chain market. In this market, I believe that the whole quality of life has increased more and more attention to this food safety. Therefore, the cold chain market is actually flourishing. According to this figure, it is estimated that by 2023, the market in the cold chain will reach US$952 billion.
+
+This year we have also developed a range of products for the cold chain market. The first product is HTC30 Plus. This product is a standard mobile cable for storage and cold chain logistics applications. It contains a heater, which is heated. It can be used in a -30°C environment.
+
+Its case has a 2, 4m drop resistance design. So it can be used in high-priced warehouses. HTC30 Plus also comes with a professional long-distance 8CM engine. It can block barcodes up to 32m away. So it can improve the efficiency of the operation or prevent injury to the operator.
+
+The other machine is also designed for warehousing, namely RuinScanner MS633LR. This is a RuinScanner, which weighs very light, almost 67 grams, which is 10 to 20% lighter than RuinScanner in the general market. The product is simple to use, so it can be used for a long time, and the hands are particularly thin. The current MS633LR is a professional heavy-duty bar code engine, so it is very flexible to block the distance it is plugged in, so it can increase the efficiency of the operation, so it is a good product, it is a good product. The last one is WD200 Plus, it is a wearable mobile computer, it is just like Apple's watch, and it is designed for wearable use.
+
+That machine weighs only 130 grams, which is about 50% lighter than the industry's mobile computer. The lightness of the WD200 Plus is going to be upgraded to Android 15 in the future, that is, the WD200 Plus will be a wearable mobile computer with a weight of less than 150 grams, the largest size, and can be upgraded to Android 15 or more, so we are good at this product.
+
+In addition, the distributor, such as economic computers. In recent years, the company has set up an automation department, mainly in Zig Plus's AMR equipment, and then with our company's own developed WMS logistics warehousing system, the other is the automatic pick-up system PTL and self-pick-up system WES system.
+
+The three of them are similar to its function, but only the volume of the volume operation is large and small. The volume of the container robot such as the P series is relatively small, where the volume is PubRig Pig, and the volume of the volume is RSP. This rack, such as the RSP, can reach 9 meters high.
+
+In addition, the transportation system, there is the so-called M series of material box handling, and the unmanned intelligent pusher. In the decomposition system, there is the floor-to-ceiling decomposition of the S series, which is the so-called decomposition system is the product of the inspection, distributed to each car, that is the decomposition system.
+
+In addition, the shipping-to-man settlement system is relatively average, from electricity supplier distribution from semiconductor, electronics, automobiles. The last page is the customer base of GIGA equipment currently used in Taiwan, such as MOMO, like PC Home, like the building in the home, like the deep-seated warehouse, like the Lake Galle.
+
+<think> Ok, now I need to deal with the text snippets provided by the user and sort them into paragraph-based texts. First, I want to read the user's requirements carefully to ensure a complete understanding of the task. The user emphasizes that the original text cannot be deleted, rewritten or condensed in any sentence, so it must be kept as it is, just adjust the format.
+
+First of all, I will check the textual content provided to see if there is a duplicate or need to pay special attention. For example, the user provided the fragments in timestamp and the corresponding sentences, some sentences may not be coherent, such as mixed with non-Chinese content in the middle, and some timestamps between, such as 1818. 08 to 1823. 00 there is no content, but the user's fragments in 1823. 00 began to have "ддд are", etc., which may need to be preserved as it is. Next, I need to sort the corresponding sentences in order and merge them into paragraphs.
+
+In addition, some sentences may be repeated, such as "Europe is also growing" appear twice, need to keep the same as, without any modification. During the process, also pay attention to the continuity of timestamps, to ensure that each sentence is in the correct position. For example, in the fragment provided by the user, some timestamps have a larger interval, such as between 1818. 08 to 1823. 00 no content, but the content continues later, which may mean that the middle omits, but the user requests not to delete anything, so all timestamps and corresponding sentences must be kept.
+
+In addition, the VIP question section mentioned by the user needs to separate the question and answer, but maintain the order of the original sentences. For example, with regard to the impact of tariffs and exchange rates, the user provides a detailed answer, and the content needs to be arranged in chronological order to form a coherent paragraph. Finally, check if there are missing sentences or formatting errors, make sure that all the content is converted correctly and without adding any additional content. For example, there are duplicate sentences in the fragments provided by the user, such as "Europe also grows" appear twice, must be preserved as if they are not merged or deleted.
+
+The following is the collated paragraph verbatim script (totally retains all the original content, only in the format of adjustment): --- Like a brokerage computer. The Great Wall Industrial. GIGABYTE are all Toyota customers. GIGA PLUS customers.
+
+And there are others of us who have not seen him, and they have not seen him, but they have seen him, and they have known him, and they have known him, and they have known him, and they have known him, and they have known him, and they have known him.
+
+Thank you for sharing. [1823. 00-1828. 12] [1828. 12-1829. 92] ER stepping [1829. 92-1832. 72] One play. [1832. 92-1834. 00] Now. [1834. 00-1836. 26] We première face. [1836. 26-1838. 50] To talk about the view you want to use.
+
+[1838. 50-1839. 38] XS [1839. 38-1840. 60] Why not. [1840. 60-1842. 20] Do it. [1842. 20-1843. 20] This. [1843. 20-1843. 66] This. [1843. 66-1845. 02] Only. [1845. 21845. 21846. 30] Also compiled.
+
+[1846. 30-1847. 16] Yes. [1847. 16-1848. 08] Your message. [1848. 08-1849. 14] โ [1850. 14-1851. 04] I have been long enough. [1851. 04-1852. 18] But dzięki. [1852. 18-1852. 96] Good. Growth momentum.
+
+We will grow this year compared to last year. The first is a brief explanation. The second is the performance of the second half of the year. The magnitude will be higher than the first half of the year.
+
+This year, we are talking about growth. Most of us are talking about business. Most of us are in Japan. Japan is the highest growth. It is again Central and South America.
+
+In addition, Southeast Asia, and Taiwan, the four regions have grown, and Europe has grown, and Europe has also grown, and it has grown for seven years.
+
+OK I'm here for a simple explanation. Then there's a guest question. That's the impact of our tariffs and meetings on the company. That's part two of our explanation. That's part two of our tariffs. That's part one of our request.
+
+We ask you to explain here. I would like to say that part of the tariff should be the part that our company actually purchases. In fact, most of it is quoted in U.S. dollars, so we talk about it.
+
+This is the first one. The second one is our company's sales. The distribution is in Japan. There are Europe. There are America. In fact, it is.
+
+We have been given the gift of righteousness, and we have been given the gift of righteousness; we have been given the gift of righteousness, and we have been given the gift of righteousness; we have been given the gift of righteousness.
+
+Another part of the tariffs is that the tariffs section is now out of the United States. There are about 17 percent of our business. This is another part that we currently have in Central and South America. Central and South America is like Brazil. We are now planning to ship directly to these places in Brazil.
+
+So we wanted to minimize this tariff for exports to the United States. [1889. 50-1992. 02] That is the impact of the force on us. [1992. 02-1994. 46] Here I explain. [1994. 46-1997. 78] We have continued to pay attention to the situation in which our recent US dollar depreciation and Taiwan dollar value are added. [1997. 78-2000. 08] We have continued to pay attention. [2000. 08-2003. 98] That overall, our exchange rate fluctuations on the company's operations.
+
+[2003. 98-2007. 98] We do have a certain effect on our operations and financial performance. [2007. 98-2010. 02] That is what I currently assess. [2010. 02-2013. 38] Our risk remains within a controlled range. [2013. 38-2017. 52] This is mainly because the structure of our operations is in accordance with our safekeeping arrangements. [2017. 52-2018. 88] We have a response. [2018. 88-2020. 64] We first explain the operational aspect.
+
+[2020. 64-2023. 82] At present, we have more than half of our revenue from overseas. [2023. 82-2026. 94] It is mainly denominated in US dollars and Japanese yen. [2026. 94-2027. 74] It is the US dollar. [2027. 74-2032. 24] When entering, these revenues will not be lost when converting to Taiwan dollars. [2032. 24-036. 50] It will naturally put pressure on our revenue performance and gross profit structure. [2036. 50-2041. 64] That is why we have a substantial proportion of US dollars' purchases.
+
+[2041. 64-2043. 34] So we are between income and cost. [2043. 34-2046. 54] We will have a degree of natural hedging effect. [2046. 54-2050. 30] This part we can mitigate the impact of exchange rate fluctuations. [2050. 30-2051. 54] That is in the financial aspect. [2051. 54-2054. 04] We also have a complete safe deposition system. [2054. 04-2056. 50] That is for USD orders that have been confirmed.
+
+[2056. 50-2057. 30] or revenue. [2057. 30-2060. 10] The reverse we are dealing with looks at the fluctuations in exchange rates. [2060. 10-2062. 86] Then we adopt interest-free foreign exchange contracts. [2062. 86-2066. 60] Then we help stabilize costs to maintain gross profit. [2066. 60-2069. 16] And we also. [2069. 16-2072. 34] There are also some US dollar time deposits.
+
+[2072. 34-2073. 84] When Taiwan Dollar rises. [2073. 84-2075. 54] These USD assets are going to fall. [2075. 54-2078. 26] We have some exchange losses. [2078. 26-2080. 34] But this is an accounting profit or loss. [2080. 34-2084. 00] does not affect the actual cash flow and profitability. [2084. 00-2087. 14] But the exchange rate at the end of last year was approximately 32.7%.
+
+[2087. 30-2090. 56] At the end of May it had fallen by 29. 9%. [2090. 56-2092. 30] So we had a preliminary estimate. [2092. 30-2095. 06] The evaluation loss of the accounts in this section. [2095. 06-2097. 40] Not higher than 1% of the annual revenue. [2097. 40-2100. 56] Although there was some pressure on the exchange rate performance. [2100. 56-210. 10] But it is still within acceptable range.
+
+Then we will see what we have done, and what we have done, and what we have done, and what we have done, and what we have done, and what we have done, and what we have done; and what we have done, and what we have done; and what we have done, and what we have done; and what we have done, and what we have done; and what we have done; and what we have done, and what we have done; and what we have done; and what we have done, and what we have done, and what we have done.
+
+That's the part. If we look regionally, we're global. That's part of our global presence or Asia-Pacific-based. Asia-based. Then we'll have other key markets.
+
+In 2025, the share of revenue in our main region. We are in the Americas Q1 we are 17%. That's in Europe. We are from 16% of 2024. We are up to 20% of 2025. We are up to 20% of 2025.
+
+We grew 4%. That's the part of the market in Japan. We raised from 8% to 12%. That's the part of the Taiwan region. Taiwan and Akai markets accounted for 51%. 51% of that part.
+
+The second is which order is going to be a value-added distributor. The difference between the sales path. The second is which one is going to go to a value-added distributor. The second is which one is going to go to a value-added distributor.
+
+The second. It says which order is a value-added distributor. It says which order is a value-added distributor. It says which order is a value-added distributor. OK.
+
+This is how we have become a part of the earth; we have become a part of it; we have become part of it; we have become part of it; we have become part of it; we have become part of it; we have become part of it; we have become part of it.
+
+Then there will be the distributor distribution to the dealer. I will explain. RM300 can match. OK. RM300 Plus can match. This year or other manufacturers.
+
+--- (Note: Some non-Chinese content and duplicate paragraphs exist in the original transcript, and are strictly reserved for the original unmodified)
+
+What kind of product should I say OK because it will be certified by Apple MFI If it can be connected directly to Apple's mobile phone after it is a bug Read I just mentioned that it can also work with the general Android phone or our company's PDA or other competitor's PDA can because it can be connected via this type-C, so its stability is higher than the Bluetooth connection via Bluetooth connection There may be signal interference.

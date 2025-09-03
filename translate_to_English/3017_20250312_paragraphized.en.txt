@@ -1,0 +1,89 @@
+The following is a re-edited paragraph-by-text transcript: We welcome you to participate in the corporate briefing session of Chihong Technology Co., Ltd. hosted by Fubon Securities. Today, we would like to introduce you to the management team of the company's representatives. We welcome you to Mr. Shen Qinghang, Mr. Huang Zhumo, Mr. Chen Yicheng, Mr. Chen Chongwei, Mr. Chen Yangjie, Mr. Chen Xinhao, Mr. Shen Xinhao and Mr. Chen Yanliang Finance Department Manager.
+
+Today's law will think we are divided into three sections: the first of which we will have to make a statement about our finance department this year. The second is because you have a lot of ideas after the fourth out, so of course, I would like to know what our company's view of the future. The third I have the Masiu, he will come to briefly tell us about our company's view of the future AI. Then, of course, we will answer the question.
+
+There is one thing I would like to add to this, because our spokesperson Gary and Eric are the general manager of our business, so we have been very busy lately, so they will gradually fade away in the future, then there are two young people sitting in the back, they will slowly transition to them, and hope to provide better service to you. Thank you, Mr. Chairman, for inviting us to Mr. Chen, here is a brief summary of the company's operation.
+
+The Company is not responsible for the accuracy of the report or for any damage arising from the use of the report. Well, we can then see our 2024Q4 quarterly consolidated profit and loss statement. Our 2024Q4 single-quarter revenue reached 209 billion, up about 25% from the same period in 2023.
+
+Gross profit margin is 25% in a quarter, up by 15% compared to the same period in 2023. Net profit margin is also up by 16% in a quarter, which is around 15% compared to the same period in 2023. Below we can see the net profit margin, with a quarter of 11.2 and 11.2% in a quarter, up by 12% compared to the same period in 2023. Finally, we can see the EPS portion, which earned 6.03 quarters in a quarter, up by 38% compared to the same period in 2023.
+
+Our revenue in 2024 was 718 billion, up by 21.3% compared to 592 billion in 2023. The gross profit margin in 2024 was 23.5%, up by 12.4% compared to 20.9% in 2023. The net profit margin also grew from 12.5% in 2023 to 15.1% in 2024, up by 20.8%. The net profit margin in 2024 was 11.4%, up by 26.7% compared to 9% in 2023.
+
+The revenue growth rate of the company's 2018 to 2024 compounded growth rate was an average of 16.3%. You can see that the revenue in 2024 increased by 21% compared to 2023, and the growth rate was higher than the average. It was mainly due to the increase in customer orders due to server demand. Then we saw that the EPS compounded growth rate of 2018 to 2024 was an average of 48.1%.
+
+As you can see, we grew by about 50% in 2024 compared to 2023, with a higher average growth. Mainly the same is the result of strong customer needs and the continuous improvement of the company's product portfolio. Next, we see the AVC revenue mix.
+
+As you can see, our main business heat dissipation and chassis grew by about 22% compared to 2023, while other parts were synchronized growth. The overall revenue grew by about 20%. Next, we saw the main business industry portfolio. In the main business revenue, Server benefited from the strong demand for AI boom and terminal, which accounted for 53% of its main business in 2024.
+
+In addition, some of the revenue from communications and consumer electronics has grown slightly, with no significant change. Overall revenue from the main business increased by 22.5 per cent compared to 2023. Mainly benefited from the strong growth of customer demand. Next, we can see the change in our total revenue from the three modules in 2024, which benefited from the strong demand from the server, reaching 1.8 billion per quarter, nearly 50 per cent from the fourth quarter of 2023. Other product categories, such as chassis system integration and subsidiary Fujitsu's revenue, continued to grow every quarter.
+
+We can see the growth of our main business revenues. We can see the change in our market revenues on a quarterly basis. We can see that the share of server revenue in 2024 is nearly doubled from the 4th quarter to the 4th quarter, compared to the 4th quarter of 2023. The rest of the network control and 3C changes are not so much.
+
+The main reason for the exchange revenue is because the company's collection of U.S. dollars and renminbi is mainly due to the strong US dollar in 2024, so the overall exchange revenue is relatively large compared to the 2023 growth. The rest is mainly due to the rise in other revenues. In 2024, customers have more single-use NRE mold revenues. Basically, as more and more cases each year this will grow. The overall growth is about twice as much as in 2023.
+
+Then we saw the balance sheet, which totaled $999 billion in 2024. The cash portion accounted for $299 billion.
+
+A total of 66,64 million total debt, 335 million equity, and NT$74.47 per share. Basically, the major change in the stock portion compared to 2023, which increased by about 162 million compared to the stock in 2023, mainly because of the recent U.S. government imposed tariffs on various countries, customer pre-stocking, and due to the influence of the Chinese New Year, supply chain was early acquired into safe stock levels.
+
+In 2024, the net cash flow entered a total of 5.1 million, it can be seen that the company's cash water level is still within the safe range, while expanding at the same time to ensure financial stability, in response to the challenges and changes in the international situation of the future. The Q&A section we will answer, and we will give the chairman special support Matthew to report on the succession of the following is the first thing.
+
+That's where the GP300 part has begun to contact, but it's really a good contribution to the end of the year we have to be more clear, and then report with you. And there are investment advanced questions about the development of CDU and Sidecar, and the progress of customer orders. For now, in this case, this product we are in development, we should send NVIDIA certifications for Q2 this year, and if there is any further information we will report with you.
+
+Of course, the heat dissipation of the ASIC chip, in fact, more integration, and design more customization, maybe you can also think, that the power disk is relatively low, is not about the water cold less, that is the opposite, they are more integrated more ASIC on a board, so it is more relevant than the so-called NVIDIA is more complex, and more customization, it is a good thing for us, because our parts are more complex, then the design capabilities are more strong, and then our economic scale, so in the ASIC head, we are basically a lot of exclusive design, so this future we must be a lot more. The U.S. will increase tariffs on trade partners, whether it will affect Vietnam's capacity planning, the U.S. will increase tariffs on trade partners, then how do we think this U.S. tariffs affect OEMs, I think this U.S. tariffs, because he is the equivalent of tariffs, so I personally think that Vietnam will be less, so we will as scheduled expansion in Vietnam will not be because of this stagnant, just said, we have already invested a billion dollars, the third episode is now in the building, we will actually expand in Vietnam, because there are two reasons.
+
+***First question: *** First one. I think Vietnam tariffs are generally similar to Southeast Asia. Or even less. Because that's the second one.
+
+I think that the entire production cost of Vietnam is relative to Mexico. Or other countries in Southeast Asia is relatively cheap. So we will continue to expand in Vietnam. Second, if the customer asks us to go to the United States to make an exhibition.
+
+We will meet with reasonable certification. Because we are. Maybe if there is a chance to visit the Vietnam park to see know. Many of us are automated production. So we go to the United States.
+
+We don't have any difficulties. We just say that the U.S. labor is more expensive. So if there is a reasonable certification, we will work with it. **The second question:** There is a fund raising advanced question.
+
+Tesla's human-robot. The area has a heat dissipation system. Ask for the heat dissipation of the human-robot. What is the heat source of the battery that the main chip solves. And then explains the focus of the heat dissipation of the human-robot.
+
+Now we are mainly focused on American customers. That is what we are talking about right now. The fan is already an adult. Yes, that's an investment advanced question.
+
+The company believes that the difficulty of VCD products is mainly where. How to solve the company. How to observe the market's expectations for the products. I hope to share some manufacturing processes and materials. VCD products we have developed for about eight years.
+
+We had to ship. Then some Chinese customers were sanctioned. The whole thing was stopped. But we are currently shipping. A small amount of shipping.
+
+One of the difficulties for VCD is the main. I think he will have a high temperature when he goes through the wind and sweat. So, in that he will dig the better. So, if the customer is designed according to this so-called rationality.
+
+This one has some knowledge. Of course this is not easy for me to explain here. I think this is also a trend in the future. Yes, that is. **The third question:**.
+
+Investment advanced Q&A's 2024 water-cooled revenue ratio and 2025 expected to rise. That's what I asked our CFO to answer. That's what I said strictly. That AVC is not specific to water-cooled waves for a statistical analysis. That's what we're all about.
+
+Heat dissipation. Our heat dissipation program does include our chassis fan radiator and other products. So this part of our 2024 revenue is about 340%. The water temperature should be about half. So the water temperature should be about 15 to 20%.
+
+That was last year's ha-ha, and that 2025 was expected to increase so much that we just said that we're going to have a lot of growth, so that's the revenue ha-ha, so that's probably thanks.
+
+Cost. **The fourth question:**. There are advanced investment questions about GB200 water cold. There were few suppliers that recognized it.
+
+This is how we reduce our share. In fact, we now see the GB300 implementation of the design. After the oligarch in the reference design. In fact, the supplier has become more comparable.
+
+All of this is true, but I think it is because the whole thing is not what is called an NV to place an order. This is when the NV recognizes the number of suppliers.
+
+But the good news is that the good news is that the good news is that the bad news is that the bad news is that the bad news is that the bad news is that the bad news is that the bad news is that the bad news is that the bad news is that the bad news is that the good news is that the bad news is that the bad news is that the bad news is that the good news is that the bad news is that the bad news is that the bad news is that the good news is that the bad news is that the bad news is that the good news is that the bad news is that the bad news is that the bad news is that the bad news is that the bad news. If you are not sure what you are looking for, or if you are not sure what you are looking for, or if you are not sure what you are looking for, or if you are not sure what you are looking for, or if you are not sure what you are looking for, or if you are not sure what you are looking for, or if you are not sure what you are looking for, or if you are not sure what you are looking for? If you are not sure what you are looking for, then you are not sure what you are looking for, and if you are not sure what you are looking for, you are likely not sure what you are looking for, but if you are not sure what you are looking for, you are likely not sure what you are looking for. If you are not sure what you are looking for, then you are not sure what you are looking for, and if you are not sure what you are looking for, you are likely not sure what you are looking for, but if you are not sure what you are looking for, you are likely not sure what you are looking for. If you are not sure what you are looking for, then you are not sure what you are looking for, and if you are not sure what you are looking for, you are likely not sure what you are looking for, but if you are not sure what you are looking for, you are likely not sure what you are looking for. If you are not sure what you are looking for, then you are not sure what you are looking for, and if you are not sure what you are looking for, you are likely not sure what you are looking for, but if you are not sure what you are looking for, you are likely not sure what you are looking for. If you are not sure what you are looking for, then you are not sure what you are looking for, and if you are not sure what you are looking for, you are likely not sure what you are looking for, but if you are not sure what you are looking for, you are likely not sure what you are looking for. If you do not want to do so, you can do so. If you do not want to do so, you will need to do so. If you do not want to do so, you will need to do so. If you do not want to do so, you will need to do so. If you do not want to do so, you will need to do so.
+
+Title marketing. Even the size of your salary. You can't help the bottom line. Because it's a CSP thing in general. Look at the factory of their CSP.
+
+Data Center construction is basically in the spring and autumn. It is too cold for him to work in the winter. It is too hot for him to work in the summer. Of course, in the case of such a large demand, we basically need to help him back up.
+
+This is a very large stock, you see that just our stock does not increase much. That is, we know that well, there is a thing delay, this is not a good thing, is the GB200delay. Once delay our stock is so good, after shipping, you will see that our stock is going to go down quickly. So this business, you don't have to do bad, good or bad. The second, of course, if you have only a cellular assembly, then you don't make any money.
+
+So I think that this may not be a good thing, but it must be a reasonable profit, a reasonable gross profit, and of course it should be a relatively good thing. So the corresponding, the total net profit will increase. The second I have answered a question, this is the skin of the one who is brave with Fujida, the product separation. That is what I have to mention, because as the chairman of the group, I have this, I have to do the division of these two companies: I want to focus on doing the so-called Sermal and Mechanical. So he focused on doing the cabinet, and then the fan box, slowly extending this motor. As you have just seen the motor, we also know that the CDU Pumpp, even the mechanical motor, the fan, is the good thing.
+
+That's the same thing, so there's another one like, Qi Yong three feet, our three feet to keep the company's normal stability, right. Then the second is that Qi Yong three feet are cabinet cabinet parts, fan fan frame motor. Then the Expansion is also in this direction, and then again, it's heat dissipation, from the air cooler, then the water cooler, even to the VC. The so-called customer difference is that from the so-called US China. The Inductrious saw it, we from this server Telecom, then Communication, and then Inductrious.
+
+This future we do, is a space for us to grow in the future. What is the main purpose of that Husta? The structure, the precision structure, the precision, too thick to do it. The coarse box mechanism is the perfect thing to do, and what he does is the so-called precision parts. So what does it look like? He does it, then he does it, then he does it, then he does it, the so-called QD, the reel, and then this slide, this precision part of the well, of course, he extends to other related fields to it.
+
+So, his three feet are the three feet, that is, the corresponding induction is what, the reel is the handset called consumer. So you say that QD is going to go to the server, the slide QD is going to the server, of course, he will slowly expand, that is, let him achieve a balance between this consumer and this commercial.
+
+This is the fourth quarter of the year in which we were asked about this, the fourth quarter last year, the upgrade of the ratio was almost 9%, and the whole year it was 8.4. That is, we added this to the fourth quarter last year, the sales and marketing costs are generally in R&D, because the R&D costs included the opening of our NRE, the increase of our employees, and the increase of our recruits, so it is a bit higher our operating costs. But you said that the 2025 trend, I think it should be between us, the same, not more than 9%, probably between 9%, is probably our operating costs.
+
+Q2 Q3 Q4: We want to see how we can improve our products and grow our footprints.
+
+Thank you very much for sharing with the company management team. We will be here today to announce the next chapter of the spell, thank you for your investment in advanced participation. Thank you all for your support.
+
+Thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you.

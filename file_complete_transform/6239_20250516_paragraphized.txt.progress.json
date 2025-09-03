@@ -1,0 +1,69 @@
+{
+  "done": {
+    "1": {
+      "in_hash": "0378e1ed2258afa818fc605fcc7d3656904433a1",
+      "out_hash": "ff7213613ad053475a254b5c55026f8ce9fda8c9",
+      "char_ratio": 0.15303156146179403,
+      "sent_ratio": 0.1285444234404537
+    },
+    "2": {
+      "in_hash": "6a50315122bc70cbde89e88945f35ebf755cfc10",
+      "out_hash": "055c3f402a044bdbb5061eae4e2152da552ed821",
+      "char_ratio": 0.4362165525824518,
+      "sent_ratio": 0.03625954198473282
+    },
+    "3": {
+      "in_hash": "054a6bc690b54fca154ff4c8ad862883689e8fc9",
+      "out_hash": "6ced6f47c343f13584d442c6e01e87c634957d6f",
+      "char_ratio": 0.44173441734417346,
+      "sent_ratio": 0.08333333333333333
+    },
+    "4": {
+      "in_hash": "8453cf5ec28aec23f7cf7970d481c461e6a88c9d",
+      "out_hash": "519335cc86c8f90b448673c656cfb85a59d8c195",
+      "char_ratio": 0.6033658840639934,
+      "sent_ratio": 0.1111111111111111
+    },
+    "5": {
+      "in_hash": "2140ce1379962d7af983362712b653c1100165c5",
+      "out_hash": "389efc652634066592cb6bd0a01dd9e4b22c3ec8",
+      "char_ratio": 1.0498856786530866,
+      "sent_ratio": 0.023655913978494623
+    },
+    "6": {
+      "in_hash": "c9305475486f017dc075c8cea55569ce8b354740",
+      "out_hash": "edb728a56d3f9d59d7eca3c7b3318f3fddc0ccbf",
+      "char_ratio": 0.46158624974114726,
+      "sent_ratio": 0.3333333333333333
+    },
+    "7": {
+      "in_hash": "4b6dd8dcb3f5f3764b16c3fdc29b74460c444580",
+      "out_hash": "b9af907b18ff62659dc170b51bc6826a5cc8f378",
+      "char_ratio": 0.4469712631796568,
+      "sent_ratio": 0.12854030501089325
+    },
+    "8": {
+      "in_hash": "229528f048ee39924da58f3a89dd1f2ac4690b7d",
+      "out_hash": "2a5f035f61204c209e7cd89100b4037ca4c2aafa",
+      "char_ratio": 0.5368903709879116,
+      "sent_ratio": 0.059548254620123205
+    },
+    "9": {
+      "in_hash": "a1317a8bcffa33bd87a315ac1c42e48d79eb7e85",
+      "out_hash": "b3747b432d7efd1e2cfcbfed7c0e6c75704c786d",
+      "char_ratio": 0.41915677445763405,
+      "sent_ratio": 0.07058823529411765
+    }
+  },
+  "order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+}

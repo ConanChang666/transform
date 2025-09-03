@@ -1,0 +1,27 @@
+以下是重排后的段落式逐字稿：。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目。我们在做强猫介绍的时候，之前只会讲到四间公司：Penstar、Meta Wells、Champion和Outop。我们在24年的营收是落在约125亿台币。主要的产品营收贡献现在已经从以往的Discrete转变为Mosfet。主要的应用是车用。
+
+右上角是Champion，CMC宏观店2024的营收是8.16亿。主要的产品是Power Management IC。主要会应用在的地方是Gaming Power Supply。左上角的MeldX InMall2024年的营收是9.9亿新台币。主要的产品是Touch Panel Display。应用是在Automotive IPC Military。
+
+左下角的是Outop版价。2024年的营收是32亿新台币。主要的产品是Connector。F-Cable USB Type-C。主要的应用是车用、Medical Communication和Consumer。右下角的Penstar是我们近年来设立的一间Design House。
+
+主要是针对ESD这一类产品去做产品设计跟开发。主要初期主要会应用在的地方是MDX。MDX跟PC相关的。最下面是Meta Wells。主要未来主要会开发产品是MCU、Power Management IC和Signal Chain IC。主要的应用是Computing Monitor、Motor Fan和Industrial PC等。
+
+这是我们2024第四季合并的产品和Income Statement。我们可以看到营收在第四季的时候是3011.5个million NDD。QoQ是减少9.7个百分点，YY是减少0.6个百分点。Growth Margin在第四季的时候是31.1百分点，QoQ增加了1.9个百分点，YY增加了5.7个百分点。在Operating Margin上面，第四季是6.2个百分点。QoQ是减少0.8个百分点，YY是增加1.2个百分点。
+
+纯利率Net Profit Margin身上，我们第四季是7.5个百分点。QoQ是减少1.2，YY是增加1.4个百分点。在2024的第四季，我们的EPS是落在0.54个百分点。这是针对刚刚有提到的四大项的一个图表呈现的方式。我们可以看到营收上YY其实差异性不大。但是我们可以看到在Growth Margin和Operating Profit Margin和Net Profit Margin的状况下，也是非常健康的。
+
+YY也是持续上升的一个状态。这一页是Balance Sheet。主要还是会依照我们以公开发行的季报数字为准。这个是我们选我们Selected一些比较重要的项目。想要跟大家去做分享。在第四季，我们可以看到我们的Inventories在Dollar side已经来到降到27亿。
+
+占总资产是9.5个百分点。YOY verse2023年第四季的时候那个时候是30亿。其实降了约9个百分点。我们可以看到下面的这些关键指标。在AR turnover days是122天。Inventory turnover days是117天。
+
+Cash from operation activity是在8.46亿。这是刚有提到的指标。当然其实大部分都是应该说我们全部都是持续往非常正面的方向去前进，无论是我的库存占比又或者是我的AR跟Inventory turnover days又或者是我的AR跟Inventory turnover days。其实状况都是非常健康的。这个是我们在2024年全年的损益表。我们可以看到2024营收来到合并收来到125亿多。
+
+YY是少1.3个百分点。但是我们可以看到无论是什么样的情况，我们可以看到无论是什么样的情况，无论是Gross Profit Dollar Sign又或者是在Gross Margin上面，我们YY都呈现正成长的部分。在2024年我的Gross Margin来到28.7个百分点。YY增加3.4个百分点。在Operating Margin是6.5。YY是减少0.1个百分点。
+
+在全年度我们2024年的EPS是落在2.4新台币。这页是有一些讯息。这些讯息是针对我们Pengi在全球的一些布局。比较旧的一些东西我就不再重述。比较新的会是说我们在日本我们可以看到我们到Tokyo这边或在新加坡或在印度。我们在这一两年我们增加了这四个销售销售据点。
+
+另外在Flare Bin，我们也增加了一条backend的产线。右边我们可以看到2024年营收的Bredown by Regional。中国占58个百分点。台湾14%。DMEA10%。Korea9%。
+
+SEA6%。US2%。Japan1%。这一页是针对于我们的产品整个Product Mix，无论是在产品上或是Market Segment上面的一个Bredown。我们可以看到2024年MOSFET占我整体营收30个百分点。Sharky29。
+
+然后Rectifier14。TVS7。Ciner6%。Switching6%。

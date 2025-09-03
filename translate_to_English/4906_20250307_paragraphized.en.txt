@@ -1,0 +1,275 @@
+<think> Ok, now I need to deal with the user request, sorting the provided transcription fragments into paragraph-based transcriptions. First, I want to read the original content of the user carefully to ensure that I understand the sentence corresponding to each point in time. The user emphasizes that nothing can be deleted, rewritten, or condensed, so it must be arranged strictly in the original order.
+
+First of all, I will check each timestamp and the corresponding sentence to make sure that there are no omissions or errors. For example, the user-provided verbs have some interval between the verbs, such as [53. 00-55. 00] and [55. 00-57. 00], which need to ensure that these sentences are properly connected. At the same time, note that some sentences may be divided into two parts, such as "the part of Optunity we started last year" and "the whole of our business model from so-called", and need to merge these sentences into a coherent sentence.
+
+During the processing process, pay attention to the use of punctuation symbols and verbs to make the paragraphs smoother. For example, use "so", "in addition" and other verbs to bridge different parts. At the same time, make sure each paragraph has a clear theme, such as the challenge and the opportunity to discuss separately.
+
+In addition, there are repeated or similar sentences in the transcript of the user's provision, such as "this is something else to be observed" appear twice, and need to check whether they belong to different parts and remain the same. At the same time, pay attention to the continuity of the timestamp and ensure that there is no time for jumping or misplacement. Finally, read the whole finishing paragraph transcript of the text to check whether all the user's requirements are met: do not delete anything, keep the original order, correct segmentation, and the language is smooth. Make sure that no sentences are missing, and the corresponding sentences are placed correctly at each point in time.
+
+We are now looking at more than 70% of the capacity is expected in Vietnam, but we understand that it is still to be observed. It may be that they are not comprehensive, but that they will target specific products or specific investments, because mainly Vietnam has a lot of entry into the country, capital is also to go to Vietnam factory, which is still to be observed, and this part is still unclear. The change in the international political situation, not only brings challenges, but also brings us some opportunities.
+
+However, there are a few reasons for this change in the situation, one is that for telecommunications operators, his operating costs, he does not want to drag through the middle of the equipment manufacturers, and they also understand that today's equipment manufacturers, his technology in the software and hardware integration technology is more and more able to not need to use this equipment manufacturers, but also more and more accepted. The most important point is that more and more of this telecommunications operator needs to integrate a lot of customized software services, so he must be with the so-called equipment manufacturers direct co-work. For these reasons, his current telecommunications operators, he hopes that the equipment can be placed directly with the manufacturer, so we should be pulled away by the customer push, so we must adjust our business model according to such a situation.
+
+In the future, many equipment manufacturers should gradually fade out of this market, because of the pressure competition, that is, the proportion of future employees, the overall market mix will release a lot of such a mix, so in this part of the text in the future there will be a lot of growth space in the future. The second is the single effect, is the single effect, because the Sino-US technology war and the deterioration of the Sino-US relations, so for the security of national security communications products in China has been greatly limited, and even some of the international chip manufacturers have not started to work in China, for example, 5G communication module, 5G communication module, 5G communication module in the United States, but now this FCC is started to advocate, is based on national security, these devices can no longer be made from China.
+
+In addition, because China's Internet of Things (IoT) products are limited in the telecommunications field, so many of the Internet of Things (IoT) companies in the past have been crushed by China's pressure, low-cost competition, but because of the current economic situation, especially in the middle and high-end this Internet of Things device, in some areas, including the United States and parts of Europe, are excluded, which also makes the whole competitiveness of the Internet of things in Europe and the United States is greatly improved, because in the body of our customers most of the Internet of things is also indirectly benefited.
+
+The second is American-made, because it also mentioned the issue of tariffs, including this one. Now it is Trump coming up to vigorously advocate the American manufacturing of this thing, in response to the establishment of such a localized supply chain, the establishment of the American localized supply chain. In fact, we also have some delusions in the text. Although we do not have a factory in the United States, but we are also looking for a cooperative factory in the United States, a cooperative factory in the United States, this is still in progress, just about this part of the American manufacturing, we have a challenge.
+
+The third is the transformation vibrator. The text gradually shifts from this non-employee to the employee's business model. In this transformation process, some of our original equipment manufacturers, some of our products Face out, will no longer open a new production line.
+
+This year, we are more confronted with what will happen to our employees, and will face the unstable revenue, ups and downs. This year, there will be a transitional vibration adjustment period. However, after this adjustment, especially in the next year, the proportion of our employees accounted for a larger five-fold increase, our entire revenue, growth momentum and our overall profit, especially the improvement of gross profit, will be very significant.
+
+However, this year we will face the pressure of this whole transformation adjustment. In the past business model, most of us were working for the equipment manufacturers, and then the operator directly to the person in this part, is very little, is the employee part. But now, the whole business model will be adjusted, the proportion of the staff is relatively high, directly face this electric training business, rather than through this equipment manufacturer, such a business model. Because we have not come out of the annual report, the annual report will be published by the board, so we can only now disclose to the first three quarter parts.
+
+This significant improvement of gross profit is mainly because we started in 2020, the proportion of our employees climbed, the proportion of the staff rose, this part of the staff accounted for the upper level last year. Overall, although the gross profit is also similar to the revenue, but you see this EPS lower than last year, the main reason is that there are two main reasons, the first point is that in 2023 we will be more profitable here, because we have to pay off the external income of the field, we have to pay off the balance in 2023, this money is relatively large, this money is a relatively large, this is a relatively large proportion of the proportion.
+
+In 2024, there is no mixing of this part, and in 2024, when we are in Q1, you see that the EPS of Q1 is relatively low, mainly because we have returned the funds from the mainland, the funds from the mainland, that there is a tax deduction in the mainland, but this is a one-time, one-time, one-time. In addition, if we adjust our Kunshan factory shrinkage, so the transfer of money, so this is all we have these expenses this year, because our layoff is enough to do, not in which the first three seasons of the year, we all have this layoff part of Kunshan, the expense of the money money, plus one-time return, this China's capital is the tax, so that caused this year's first half-year EPS is a lower, the three-year EPS is relatively low. So it is higher than the average gross profit margin, if it is a mature product, it is lower than the average gross profit margin, that is, the other part, so-called our Connected Home, Connected Home this part of our product is mainly the part of the retail market, this part is Telecom Telecom Telecom Telecom Telecom, which is mainly more than the Retail market, this part of the product is two categories, one is the after-sales grade APLoud, it is a higher gross profit margin, compared to this average gross profit margin, the other part is relatively the general APLoud, not the after-sales level compared to the consumer user of this kind, which is the gross profit margin is relatively low.
+
+Another piece is the module, module products, this 10% is the module, this module is mainly Intel, its wireless network module, that part of the large amount, we will even more than 100 million sets of such shipments, it is relatively low price, so it takes a relatively small proportion, that part, its gross profit margin is also relatively low, and the other part is the correct module.
+
+The proper module is also in this piece. But the proper module. Of course, it has no way to compare with Intel. The amount of Intel is higher. This 5%.
+
+This is the 4G LTE. This is the FWA. This is the FWA. This is the one we now have. This is the main reason.
+
+It's been a long time since the pandemic, and that's what many people want to say, along with this recent inflation, that's the rate of interest.
+
+Adaptation. So many of the telecommunications carriers. He's this. The base building here. The components of Infrastructure are relatively slow.
+
+That's one of the reasons. Of course there are some other factors in the market competition. There are also some factors in the market competition, but this one should be.
+
+Because the base period is relatively low, next year we have the opportunity to have some. New stock. New customer stock. This piece should be in 5G. This part of the opportunity.
+
+There will be a big increase next year, maybe the second half of this year, may be the second half of this year, may be the opportunity.
+
+You may have noticed that there are a few market opportunities out there in India, and that's 3%. That's Aris. That's a lot of others. Some other management integrations.
+
+Or a solution. Including companies that work with investors. Some of the overall solutions we work with. Some of the overall strategy. That's what we're talking about at the moment in the region. We're 60%.
+
+It's all in Europe, but it's not Europe, it's not Europe.
+
+The end user of the product is in Europe. If we use the product. The end user is looking at the customer. It may be said that North America is still large. Because we are part of this. Even for European customers.
+
+It is possible that he has a large part of it. U.S. telecom operator customer. U.S. telecom operator customer. That is direct to North America. About 30%. That is the other.
+
+It is about 10 per cent of the world's population, and it is divided by its region.
+
+That's what we're talking about right now. We're more than 6 percent. We're more than telecom customers. They're more than 6 percent. They're telecom customers.
+
+That's all we have now. That's all we have now. That's all we have now. Global layout. Global layout. Based on the production base. Now focus on Vietnam.
+
+In Vietnam, the whole production capacity is now over 70%.
+
+Another continent. There was a long hand mill that had been stored last year. The Kunshan factory will now shrink. The Kunshan factory will now shrink. Then the capacity will be reduced gradually.
+
+We will be like a fire, like a smouldering fire; like a smouldering fire, like a smouldering fire; like a smouldering furnace, like a smouldering fire; like a smouldering furnace, like a smouldering fire; like a smouldering furnace, like a smouldering fire; like a smouldering furnace, like a smouldering furnace.
+
+So the proportion of Vietnam. It will continue to rise. So the whole production base is mainly in Vietnam. There is also a production line in Taiwan. Taiwan is mainly a small production line.
+
+Do research and development for use. Or some specific products. He will ask for production in Taiwan. That is, follow. Some specific products need to be produced in Taiwan. We will work at the factory.
+
+We also have a assembly plant in the Czech Republic. We have a assembly plant in Eastern Europe. We have some business locations in North America. We have some business locations in North America.
+
+Europe also has a business location in international Germany. That's part of Asia now. India China Vietnam Taiwan has a business location. Even in China we have R&D centers. That's even in mainland China we have R&D centers.
+
+Our current situation in Vietnam. Our current situation in Vietnam. It is the capacity of Vietnam with employees. It is the capacity of Vietnam with employees. The number of employees.
+
+About 2025. We now have nearly 2000 employees. In this Vietnam, this piece is relative to capacity. That's the whole.
+
+This year 2025. The whole production capacity will be a big improvement. It is mainly us. We last year. We also built one. About 13 hectares.
+
+13 And he said unto them, Take heed, and beware of covetousness: for this is the kingdom of heaven, which we have given unto thee.
+
+Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us. So Wi-Fi has always been us.
+
+Wi-Fi has always been us, so Wi-Fi has always been us.
+
+We are now mainly a transitional support for KBM products, mainly because now KBM customers will eventually go into the field of fiber optic, so now is the support for their needs in the transformation process, so these Duxys KBM mainly to support some customers to transform this product, so they will transition to fiber optic products. Well, we have to do the whole of review and outlook for 2024, we will do a summary. The first of our 2023 revenue is close to 2023, the employee's part is more than 2023 is growth, so in 2024 we can see our Broadway margin is a significant improvement, compared to this 2023 Maori is a significant improvement.
+
+In 2024, our Wi-Fi device has more than one million sets of inputs, in the industry we are running very quickly. The technical layout is now mainly now 2. 5G and 10G, but we have completed the product development at 25G and 50G here, and the other part of this Cable Modem Duxys 4. 0 is ready, and the part of the DPI management and application is just that the integration is a lot of this customized service software, we have developed more applications for this user to choose.
+
+That's it, white means, it's in progress now, the white ripple is, it's done.
+
+"This is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth."
+
+The first is the War of Ewha. The War of Ewha also brought some. The opportunity of the defense communications industry. There are drones here. Some of the equipment required for communication. There are also low-track satellites.
+
+This is what they say: 'This is what the Lord says: 'This is what the LORD says: This is the way, walk in it, and this is the way, walk in it; this is the way, walk in it, and this is the way, walk in it.'
+
+This is a part of the Qur'an, a part of it, a part of it, a part of it, a part of it, a part of it, a part of it, a part of it, a part of it, a part of it, a part of it, a part of it, a part of it, a part of it, a part of us, a part of it, a part of it, a part of it, and a part of it.
+
+Such is the case with those who do not have the power to do so, and with those who do not have the power to do so, and with those who do not have the power to do so, and with those who do not have the power to do so, and with those who do not have the power to do so, and with those who do not have the power to do so, and with those who do not have the power to do so.
+
+Rely on the computing power of this cloud. It is usually this machine. Computer, mobile phone computing power is not enough. Of course there will be AI PCs in the future. There will be some computing power of your local.
+
+However, there are still a lot of peripherals. Or the computer is ours. The traditional PC. This won't be eliminated immediately. You can't get the PC at once.
+
+This AI PC is a future trend. But you still exist. A lot of traditional laptops. A lot of PCs.
+
+It's impossible to get around it. It's very high in computing power. That is, cost considerations follow. This technique is limited, for example, your IP cam. Or one of yours.
+
+IoT. Some terminals. Sensors, etc. So what? So, we have a router in the text.
+
+This is the way of the righteous, and the way of the wicked is the way of the righteous, and the way of the wicked is the way of the wicked.
+
+These computers in the local area. Or these peripherals. Devices. enhanced its computing power. Its local computing power. This AI can be used.
+
+This is what we call a new one, a new one, a new one, a new one, a new one, a new one, a new one, a new one, a new one, a new one, a new one, a new one, a new one, a new one, a new one, a new one, so called a new one, a new one, a new one, a new one, a new one, a new one, a new one, a new one, so called a new one, a new one, a new one, a new one, a new one, a new one, so called AIoT.
+
+This is the new creation, the new creation, the new creation, the new creation, the new creation, the new creation, the new creation, and the new creation.
+
+AI PC is your PC's built-in GPU. It has a lot of computing power itself. But our. Many IoT sensors. or terminal devices. Even now, many laptop PCs.
+
+There is no way to create a GPU. There is a good way to do it, so you can use AI routers in a way that will allow you to do it.
+
+There is no such thing as power. It is a laptop PC or peripheral. The device is equal to it. It affects your local local power. That's it. It makes your IoT consumption.
+
+And we have come to the end of the book, and it is written, and it is written, and it is written, and it is written, and it is written, and it is written, and it is written, and it is written, and it is written, and it is written, and it is written, and it is written, and it is written, and it is written,
+
+In FWA, I just talked about it. The machine in the text is relatively low. The revenue now accounts for 5%. But we can see the market opportunity.
+
+There is a sign of the future, a sign of the future, a sign of the future, a sign of the future, a sign of the cross, a sign of the cross, a sign of the cross, a sign of the cross, a sign of the cross, a sign of the cross, a sign of the cross, a sign of the cross, a sign of the cross, a sign of the cross, and a sign of the cross, a sign of the covenant between us, and a sign of the covenant of the covenant.
+
+"This is the land, this is the land; this is the land, this is the land; this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the land, this is the sea, this is the land, this is the land, this is the sea, this is the sea, this is the sea, this is the sea, this is the sea, this is the sea, this is the sea, this this is the sea, this is the sea, this is the sea, this is the sea, this is the sea, this is the sea, this this this this is the sea, this is the sea.
+
+The special piece is locked. 5G to CAP this piece. 5G to CAP in IoT. Applications in IoT. See you all in the coming years.
+
+It is also a big growth. It is also a big growth. The application area will make it higher. The application area will make it higher. Then we put it in particular. The Indian market will come out.
+
+Since the Indian market has been around for years, the layout of 5G is relatively positive.
+
+In particular, the big infrastructure in the U.S. today, many countries are doing the closing of the infrastructure, so the demand for this fiber is very large and limited. Therefore, in response to such an industry mechanism, we will show you a few articles of the product. The first we have now developed to the Optical Module, this Optical Module is our POM product, we have a module that can plug you directly into the back, you are 2. 5G or 10G of 25G of the 25G of the 25G can plug this Optical Module, then we have to do 800G, the optical module is mainly for the Data Center, this is the optical communication module, this is our POM, 10G, this POM, this POM, this is the whole YYG, that is 25G, and that is KMOMODEP, this is the KMOMODEP product, a product related product of Dustis, there is the whole YYG series. This is the FWA part, then we also have small cell base station, that is what I talk about 5G Red Cap solution, it is FWA, but it belongs to the 5G Red Cap with 5G Red Cap to do it, that is the part of the software, which I just said in the Indian market, they will be more affordable for such a low data rate, they can accept, then this is IPCAM, that IPCAM is 5G Red Cap to say that it uses 5G Red Cap to backhole unlimited, such IPCAM, that is Wi-Fi 7, this is a Wi-Fi 7 product, this is the SAAS we just said that we have some APP Store and then there can be many applications, including you can do erosion control or anti-hacking, or anti-virus is a variety of applications can be launched on this APP Store, that is the part of the software, that is just the AI router, which is just talk with you to the AI, and it has its own it has the ability to support some of some of the local resources.
+
+I would like to ask you to ask the 5G RedCup here you can ask us a little bit about the sound of the microphone. I would like to ask you if there are some more detailed information about the 5G RedCup here that we can share with us, including whether our production line is ready enough and then the size of the order may be roughly how then we might probably see the relevant time and maybe think about how we should go because it sounds like we are going upstream and downstream and downstream, then we may have some more urgent, then now to solve the progress or what the latest situation may be, the price is about this one of the 5G RedCup I just mentioned in relation to the 5G RedCup that I have been working with Zheng and Zhengji.
+
+<think> Ok, now I need to deal with the user's request to organize the provided transcription fragments into paragraph-based transcriptions. First, I need to read the original content provided by the user carefully to ensure a complete understanding of the meaning and context of each sentence. The user specifically emphasizes that nothing can be deleted, rewritten, or condensed, so the original text must be kept intact.
+
+First of all, I will check the original content one by one, paying attention to the timestamps and the corresponding sentences. For example, the first sentence is [2489. 00-2491. 00] may start, and the next one is [2491. 00-2493. 00] shipping. It looks like these two sentences may belong to the same sentence and need to be merged. However, the user requests not to delete anything, so it is necessary to keep the corresponding sentences for each timestamp, while reasonable segmentation. Next, I need to identify the logical structure in the conversation.
+
+At the same time, pay attention to repeated sentences, such as "we are ready" repeated three times, must not be kept completely, can not be omitted. Then, I will consider how to organize these sentences into a natural smooth paragraph while keeping the original intention. For example, on the part of the Indian market, it may be necessary to combine multiple relevant sentences into a paragraph, while the Vietnam capacity portion is separated. At the same time, pay attention to the order of timestamps to ensure that the timeline is correct.
+
+In addition, the cooperation between the user mentioned "performance" and "political text" needs to be clearly segmented to ensure that the information is clear. During the processing process, I will check in a sentence to ensure that the corresponding sentences are placed correctly in each timestamp. At the same time, pay attention to the user mentioned "do not delete any one sentence", so even if some sentences look incomplete or require context, must also be retained. Finally, I will read the whole finishing paragraph typed text to ensure that there is no omission of anything, reasonable structure, consistent with the user's requirements. At the same time, check whether the format is wrong, if the timestamp corresponds correctly, whether the paragraphs are consistent, etc.
+
+It is possible to start shipping. That is, there will be customers in the second half of the year. That is what you are talking about in particular Indian markets, and now you are talking about it. Because I just mentioned that India is asking for a very low price, the amount of it is of course very large. You say that he is very large, you should understand that India is after all a country with a population, and his potential level is very large. But the price conditions are not very good.
+
+So usually this case has to be negotiated with the chip supplier, which means that the customer wants to increase the price again, and then the chip supplier can absorb a little bit of profit, so that the whole thing. So the process of this negotiation there will be more problems to coordinate, that is, the part is still in progress, is still in progress, is still back. But some products have started to do, the customer has started to do some testing, that is, the relevant product research and development is not said to wait until the single confirmation is done. You can see that five of RECAP's FWA we are ready, we are ready, we are ready, we are ready, we are ready, we are ready. So we can see how the price is now, the chip vendor wants to support, how the customer can not pull the price up, and many things have not fully agreed.
+
+But now there is a situation in this section. Thank you, thank you, thank you. I may follow up on the problem, that is to say, we are going to look at how much capacity we have in Vietnam to put on this project. Then, when we talk about the price, we may be able to maintain a stable gross profit margin performance, and then we can add the price to check it for the chip vendor and the athletes.
+
+You don't expect the interest rate to be too good, this is the market, because there is a lot of chips to pressure you. Then we will try not to influence the gross profit rate too much, because this part of the module is responsible for the performance, and the finished equipment is responsible for the policy. In fact, the final article is facing the customer, because the 5G Red Cap MWA must be from the policy to the customer, but the part of the module is of course the performance, but it is also the policy of the production so this cooperation is very special, so I basically don't think that the gross profit rate is not a good business, we can try to make it a good profit space. Well, the capacity of Vietnam is the scale of the production line, I would like to tell you about the plan of Vietnam's current production line.
+
+As we grow our business, we will expand our capacity. In fact, we have a lot of space in Vietnam, and that part I ask Eric to add. We have a total of three factories in Vietnam, then the first factory is now the 10 SND lines, that there is no expansion space, then the second factory is now 4, then there is another expansion space in the future. The third factory is launched in the third quarter last year, then there is only one in the future, then the future is probably the Buddhist base, so it is expected to wait.

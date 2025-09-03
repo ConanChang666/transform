@@ -4,7 +4,7 @@ First, check if there is a speaker, but here it is not like, just a sentence rep
 
 So, I can sort it into a paragraph, which contains multiple sentences, separated by a period, and then separated by an empty line. Or, according to the rules, 3–6 sentences per paragraph, so I can combine every 3–6 sentences into a paragraph, separated by an empty line. For example, the first three sentences are combined into the first paragraph, and the next three sentences are combined into the second paragraph, and so on.
 
-例如：。 請不吝點讚、訂閱、轉發、打賞支持明鏡與點點欄目。 請不吝點讚、訂閱、轉發、打賞支持明鏡與點點欄目。 請不吝點讚、訂閱、轉發、打賞支持明鏡與點點欄目。 . . . 。 但這樣會顯得很冗長，可能更好的方式是把它整理成多個段落，每段包含3–6句，用空行分隔。
+For example: Please like, subscribe, forward, reward support mirrors and dots. Please like, subscribe, forward, reward support mirrors and dots. Please like, subscribe, forward, reward support mirrors and dots. Please do not like, subscribe, forward, reward support mirrors and dots..
 
 For example: Please like, subscribe, forward, reward support mirrors and dots. Please like, subscribe, forward, reward support mirrors and dots. Please like, subscribe, forward, reward support mirrors and dots. Please like, subscribe, forward, reward support mirrors and dots.
 

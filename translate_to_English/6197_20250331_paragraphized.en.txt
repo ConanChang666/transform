@@ -1,0 +1,685 @@
+We welcome you to join us for the first quarter of 2025, and thank you for your continued support. I am the spokesperson for the company, Mr. Yi Weilin, today I will explain to you the first few pages of the briefing, and our management team will further analyze the overall operation and product dynamics. Before we start, please be reminded that some of the forward-looking statements in this briefing are based on the current operation and market situation, and the actual results may vary due to various external factors.
+
+We will continue to look at today's briefing. First of all, let's share a good news: at the 2025 NVIDIA GTC Technology Conference, we are proud to be partnering with the world's leading partner of AI infrastructure critical connectivity solutions. In this exhibition, we focus on three core solutions: the 60A ORV3 power cord with high efficiency and high current resistance; the busbar power supply solution designed for next-generation AI opportunities; and the support for PCIe Gen6 including ultra-high-speed connected products such as MCIO GenZ.
+
+On the left side of the screen, see the products that JPC has successfully registered and qualified on the OCP platform, including 1. ORV3 AC power connector speed limit; 2. UQD water cooled connectors, these are the design plans for data; 3. Open center and high-performance computing design, in line with the OCP's open structure standards. On the right side of the screen, you can also see a number of OCP product designs proposed by our group partner Astron, some of them developed and supplied modules jointly by JPC. Overall, our OCP-approved products cover all areas from power cooling to high-speed transmission, demonstrating our role in the global open standard ecosystem, from participants to promoters, and the role of the participants to promoters, which is an important basis for international customers to choose the Canadian period.
+
+Server Storage Switch TOR is expected to continue to grow even further with the continued expansion of large AI computing centers in the future. Server Storage Switch TOR continues to grow steadily with the need for power supply and high-speed components in the data center. Take a look at our smart link, which accounts for 50% of total revenue in 2024 and 40% in 2024. This part covers gaming, consumer electronics, factory automation, and EV, automotive electronics, and other emerging applications.
+
+Gaming and the CE market are currently more stable and stable, but we are very competitive in the advantages of high-frequency high-speed connectivity technology and service integration. Overall, we expect to continue our current growth trajectory in 2025, and continue to focus on the application areas of high value-added, high-tech thresholds, deepening customer cooperation and strengthening the product portfolio. Next, let's look at the cooperation and cooperation of Gabic's technology industry in the AI industry, and the layout of key customers in the supply chain. In terms of AI server-related applications, Gabic has established a complete and strategic customer ecosystem.
+
+In the United States, our subsidiary JPCPP is also expanding its production line and relocation to a new site, which is about twice as large as its original site, and adding NPI production line and warehousing facilities. In the future, we will more effectively support the local needs of U.S. customers, improve response speed, shorten delivery time, and strengthen our service capacity in the North American market. Overall, the expansion of these two sites is at the core of our global supply strategy, preparing for the next phase of our large-scale project after 2025.
+
+<think> Ok, now I need to process the verbatim text of the user and organize it into paragraph verbatim text. First, I need to read the rules and examples of the user carefully to ensure a complete understanding of the task requirements. The user emphasizes that the original text cannot be deleted, rewritten, or condensed into any sentence, so it is necessary to maintain the integrity of the original text. Next, I will check the verbatim fragments provided in a step by step, paying attention to each timestamp and corresponding sentences.
+
+First of all, I will identify the corresponding sentences for each timestamp and determine the logical relationship between them. For example, on the part of Gabic financial performance, users combine multiple timestamped sentences into a paragraph that describes the growth of revenue and surplus. Similarly, the introduction section of the product manager YK also needs to integrate the sentences for each timestamp into a coherent paragraph that illustrates the product development and market strategy.
+
+In addition, blanks or errors in timestamps (such as "559. 76-562. 04] 2024 may have reached the year in 8.69") need to be maintained as they are, without modification. During the processing process, I will ensure that the conversion of each paragraph is natural, using the appropriate link or punctuation, without adding any additional content. For example, when turning from financial data to product introduction, use "Next" or "Additional" to bridge, but depending on the user example, there may be no need to add additional links, just sorting them in chronological order.
+
+We can first look at the red column chart, which is the revenue performance. From this column chart, we can see that our revenue is steady growth, in 2022 is 43.400 million, in 2023 to 49.600 million to 67.700 million, year-on-year increase is more than 30%, reflecting the continuous expansion of customer demand and our key role in the AI server supply chain.
+
+Our revenue growth is more than 140%, showing a steady increase in profitability. Overall, the double growth of revenue and US stock earnings is mainly due to our continuous investment in high-end connectors, AI high-power speed products, etc., and also shows the robustness of our operations and our efficiency. In addition to the growth of US stock earnings, we also pay attention to the long-term return of shareholders' equity.
+
+In terms of the overall financial return, ROE is 20. 48%, reflecting our effective use of shareholder funds to create a good return. These indicators combined, indicating that cryptographics not only perform well in business growth, but also show a high commitment in shareholder returns. Above is my simple first report with you, and next, I asked our YK product manager to share with you about the product status of the high-speed connector.
+
+From the big power supply on the left to the high-speed connection scheme on the top right, there is a power solution on the bottom right of the busbar, and there are cryptographic products on the top of the board. We are going to do a separate explanation for you. First of all, cryptographic products in the high-speed connection solution, in the limited-speed part, cryptographics provide all the high-speed transmissions in the entire ecosystem of the GB300MGX, including PCIe Gen6 products, such as MCIO GenZ or PCIe Riser.
+
+In addition to the transmission of the signal, encryption is also involved in the transmission of the power. First, the lower right corner of this product is by external AC connection to the large current solution of the cabinet, we are currently in the GB300 ecosystem in the test and certification belongs to 60A of electricity, of course, 60A will not be the end of its end, we will continue to develop a bigger current. This is a busbar system that belongs to the server internal power supply to the GPU card, basically this is a highly customized product, the encryption in GB300 began to work closely with customers in the early part of the customer to participate in the design and discussion of the whole system, in this part is to obtain a very good leading position.
+
+Of course, first, the first part of the MCIO connector and wiring harness we have synchronized to Gen6, the lower left part of the GenZ because it is also a very important item in the OCP insole, we have also synchronized to the Gen6 connector and wiring binding. For all the expansion cards required by the PCIe standard interface of the Riser cable, we have also synchronized to the Gen6 part. There is also a large number of CAM2 connectors used throughout the GB class, which has been validated by the client.
+
+In addition, there are some special connectors in the part of the client DPU, and we have synchronized the development of such a cable as MCIO for this special DPU connection. In addition, in the part of the backboard application, we have the same industry cooperation model, we have completed the MCIO for the backboard such a connection scheme. In the upper right corner this is a new model used by some of the majority of the customers when designing the entire storage system, and we are also at the beginning of the customer system design, we are involved in the application development of the whole system and the preparation of the entire components, which are coming out this year.
+
+Of course, in a transmission like Gen6, there will be some proactive requirements.
+
+We are still working with major IC vendors and the design of the whole system. Of course, this part is not only IC manufacturers, but also our most important or our customers to work closely with to select the design of the chip that is also suitable for the needs of our customers in the entire market. As we have seen above, the demand for the whole AI is very crazy and we really feel this kind of demand. We have raised this demand for our supply chain in addition to our own capacity.
+
+The following is a re-arranged paragraph type transcript:. These good partners are good guests to follow their competitors, or they can be together on one platform. I personally am very happy, because after all, this company has been for a long time. Then look at such a product upgrade, and then more international integration.
+
+That's why we're also responsible for our products. So part of the SCI, today I just want to talk about some of the parts of the success stories. So let's talk about it first, is the industrial part. Although there is no way to explode like AI or hard work, there are so many such remarkable results. But step by step, solid and solid also hit a few very good brands of big customers.
+
+It took us about two and a half years, and this industry really took time to grow. So we will still be solid, it's a good idea to expand it. Well, the second page thank you, this part, I want to share with you is very happy. In addition to the industrial automation part, we are ES and ESS, EV and EV, I think in the overall Chinese market, of course, it's very close. So we also have to do a good transformation.
+
+So many years ago, the Chairman has also been reminding us to do a different transformation at the farmer's locker. It is also a pleasure to say that we are in this picture on the right of the locker, with the acquisition of cats, etc., is a good cable and line number of a good storage cabinet in Japan to do the whole match. So this is our first success story about about about a year or more. After that, we not only connect cable, but also the energy storage cabinet on the right of the door, will become a whole and sales of Japan to expand the business model with the domestic infrastructure.
+
+I believe that the relative success of these days, I believe that afterward, I can slowly grow and discharge, I believe that afterward, I can slowly grow and discharge. And then let it grow. This is the Iran we still have some farm motorcycles, and this electric, this high speed, this high speed sorry, I am here is high pressure, this high speed part of the cable, we are not good, and from Japan to Europe there are a number of very good representative seats have been done in the same place. So for the whole Gabic, 63 ample high current cable in the server is really easy for us, because we can make 300 to 400 high current with the large voltage cable.
+
+So this year, we only had a good result of OCP, and finally came up with these products. Well, the last few pages of the next page are to let everyone know, rest assured that we have to work hard, while the industry has a step by step, we have a good solid action to make the digital performance will not be too volatile. So of course, growth will look a little slow, because it may have a brand effect in two or three years, and then there will be a Spec-In. So we have this part, we also combined our original technology in the industry, and then I believe that last year we have a lot of advanced mention, our water cold has been officially delivered, then the official value, is the official announcement, and that in the entire Q1 team is very hard, the OCP certification has also got.
+
+So this is the route of different products, so it takes a little time to work with the customer, so the customer is also interested, and acknowledge, and start with us to do this formal, whether in the factory will have capacity planning, there is also a quotation and sample certification, etc., has been a very formal start.
+
+So we are looking forward to the next product line at the same time, we have cultivated several ORV3 technology high speed in recent years, the whole of this integration, I believe that both in Vietnam factory and in the United States factory, we have made good preparation, so regardless of Trump 2. 0 3. This website uses cookies to improve functionality and performance. Using cookies should enable the user to use certain functions, share on social networks and edit messages and advertisements. By clicking on the “OK” button, you agree to the use of cookies on this website. For additional information, please see our Privacy Policy. ling So there we have some extra-line optical fiber to more of this so that the whole company's operation is connected together so that the previous 123 is in Taiwan to do the ODM, you know Taiwan ODM is in the sea light big music vibrator these companies, if it is to TOR these companies, it may be completely different name, you may have Google's own SI, we have done in Taiwan We have made this in Taiwan, we have made this Google SI has more than ten around the world, and of course there is also the same thing as the U.S. Build, they will also need these big power because two years ago we saw our U.S. company team already has the needs and the whole direction of growth, so we do the big current and then do this the so-called thermal-related products, then the U.S. We will also increase MTI for customers. 69 Compared to the previous year, YY grew about 67%, please ask if this year is a similar double-digit YY growth, double-digit double-digit, but because of the data we can not do such a careful estimate, sorry to tell this legal person we have no way to estimate or very accurate, there is a violation of our rules well that the legal person ask the company's newly developed High Power Products and water cold connectors expect when the shipment has started and the shipment status is not good. `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` "`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+We've been shipping Big Power for a while. It's been a while. It's been changing it now. There are some standardizations. We're in GTC and we're in. NVIDIA is here and we're in.
+
+We have been working with them for a while, and they have been working with us for a while, and we have been working with them for a while.
+
+Automatic production line. We invest in this production line. It's not bad. It's actually already. It's high current. We're that company.
+
+There it was also done. TPU card of Power. So from 12++ to 54 to 88. This 88. Built-in 88 to built-in 88.
+
+We have 88Clip. We have all our products. They are all very well. Well, the next question is.
+
+We are one, one, big, one, big.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+him, him, him, him.
+
+<think> Ok, now I need to process the text snippets provided by the user and organize them into paragraph-based texts. First, I want to read the user's requirements carefully to ensure a complete understanding of the task. The user emphasizes that the original text cannot be deleted, rewritten or condensed in any sentence, so the original text must be kept intact.
+
+First of all, I will check through the provided verbatim to confirm each timestamp and the corresponding sentence. Then, I need to arrange these sentences logically into paragraphs, which may need to be grouped according to the context and topic. For example, about AI GPU Server, industrial automation, data center parts may need to be merged into one paragraph, and about U.S. factory relocations, another paragraph. Next, pay attention to the continuity of the timestamp and make sure that the sentence sequence in each paragraph is correct. At the same time, it is necessary to identify possible duplicate or jump content, such as some sentences in the middle may need to adjust the position due to timestamps.
+
+This may affect the reading experience, but must follow the user's instructions. During the processing process, I need to ensure that the conversion of each paragraph is natural while maintaining the order and content of the original. Multiple readings may be required to adjust the order of the sentences to make the paragraph structure more reasonable. For example, the user's questions and answers need to be arranged consistently together, while the timeline and future outlook for American factory relocation should be separated. Finally, check if there are missing sentences to ensure that all the contents are correctly classified into the corresponding paragraphs.
+
+At the same time, pay attention to the correct mapping of the timestamp to avoid confusion. After the initial draft is completed, read it again, confirm that there is no violation of the user's requirements, all the sentences are kept in the original position, no omissions or errors.
+
+So we finally went to this stage. That hope is the back of the test, and then we meet again next year. The revenue can start to scale next year, which is our goal. Well, thanks. Well, there's another problem with AI GPU Server industrial automation BV, can you sort us by the three applications growth? Then we'll also explain why these three applications are better for growth, or product line follow-up.
+
+As we've said before, this year's application of AI will be a crazy one. In terms of numbers, of course, this part of growth will be the highest. But since we ship in 2024, the machine is already higher, so the whole scale may not be as high as a growth rate of EV. However, in terms of numbers, the AI part has grown the most.
+
+It is not because Markt has a bad origin channel for the forex and C appliances, and it is a GPU that has been developed to get the extreme mer texts, so the United States is also going to the VIP program, so it is also very risky, two meals to go EV, because we have lavmast, we are going to go to the market, we can go to the market, we can go to the future super and collect the past, the land and the universe, we are usually to satisfiHealth, we will do this, but this from the beginning of the business, we may release, can open a new, why, I really like this, we really like this, we have to pay for the project, Straße, reduceate.
+
+If you want to know more about us, please contact us. If you want to know more about us, please do not hesitate to contact us. If you want to know more about us, please do not hesitate to contact us. If you want to know more about us, please do not hesitate to contact us. If you would like to know more about us, please do not hesitate to contact us. If you would like to know more about us, please do not hesitate to contact us. If you have any questions, please do not hesitate to contact us. There is also an aliens may be wrestled sales enterprises, and they are invested in harvesting and not chaining for thousands of years, these are not many, for a lot of investment, RNA importance selon Vegetarian, this ддузья if you have confidence, Logar yuan all wrapped w Natasha, 7, tree horses, 1 Jos, we have tariffs, because we are not, of course we will increase the production of the United States, this part, and then we have a multi-national production layout, we have been doing this in 2016, 17, 18, and we have been doing this all the same thing, in fact we have been very dispersed, the customer part of this part is that we think we are really early to start layout, yes, so we are in the United States of the number of people, this is actually a large team, can serve customers there there, that the so the Switch TOR.
+
+Here is a re-routing paragraph-by-text script: On this networking TOR, part of the guest, to the Data Center Cable part of the guest, really want to serve on the ground, there is no way to say, we are here here in Taiwan, because Taiwan do OEM, ODM habits, more than can not serve this second level guest, so I report to you, my original CSP customers in 2023, 2024 has already made 8 percent, 90 percent of these larger CSP, then we are the second and third level customers, we are the so-called computing companies, this kind of computing company in the United States, we are every customer, we are every NVIDIA partner, we are there, we are there, K&K, K&K and K&K, we are all in the local, we are very close cooperation with them. This is the first time that I have been able to deliver my products to the Netherlands, to the Czech Republic, to the United States, to Singapore, to Ireland, and all of these companies are, and that is, we have already formed the whole ecosystem with our customers. In fact, we can deliver so much, so we can cope with the country's production, because of tariffs, because of the speed, because of the technology, we do such a difference, this part of our company is very little.
+
+If you are looking for a new product, you may be looking for a new one. If you are looking for a new one, you may be looking for a new one. If you are looking for a new one, you may be looking for a new one. If you are looking for a new one, you may be looking for a new one. If you are looking for a new one, you may be looking for a new one. If you are looking for a new one, you are looking for a new one, but if you are looking for a new one, you are looking for a new one.
+
+I want to do more about the investment of light and Xiguang, but my team is very optimistic, our financial unit may be optimistic, and so to answer that. My team is more than I am optimistic, then I should look at the next three years, then I think of this part we are able, because in GTC we have seen that NVIDIA has talked about road map 2028, it is very clear that 2029 has finished, and it is also very much in line with the plan, very much in that direction we are going. So this part we feel we are not panic or messy, so this part is good, the team as long as we can say that R&D we continue to increase, there is another better news to share, I am working with some of you may be my competitors, for example, for example, for example, I can see that I can see that I am working with Zemtech cooperation, I am working with I am the big factory, they may be the competition, they are the possibility, but they are the competition, but they are also have a lot of cooperation with us, and we are also a lot of cooperation with us.

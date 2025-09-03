@@ -1,0 +1,83 @@
+{
+  "done": {
+    "1": {
+      "in_hash": "3e4b5f34b66a1fa7f12f59a859007212cb5bc578",
+      "out_hash": "57d1af601ea28ce0f6598b75afef01c1de791824",
+      "char_ratio": 0.504468925379339,
+      "sent_ratio": 0.12368972746331237
+    },
+    "2": {
+      "in_hash": "8382e13160a64b7b422f305926a424d1504e7abd",
+      "out_hash": "b96708c5a9d97db780e25dbe44635c8570d859cf",
+      "char_ratio": 0.31212435233160624,
+      "sent_ratio": 0.20545073375262055
+    },
+    "3": {
+      "in_hash": "13f1634fe279887848b07e46c83d2aa780140149",
+      "out_hash": "77e5198e037a51a640aeabcde7011adf3506f85a",
+      "char_ratio": 0.45845390657296403,
+      "sent_ratio": 0.052060737527114966
+    },
+    "4": {
+      "in_hash": "d4714c3489d16a80727c9e42f91ce4d367e8d12b",
+      "out_hash": "c8cf5030d492349291489cb1c03a1e3914965752",
+      "char_ratio": 0.4171702438007918,
+      "sent_ratio": 0.10438413361169102
+    },
+    "5": {
+      "in_hash": "3a3d2491e1e3a8d72defba7e2b8f6b2bc418a93f",
+      "out_hash": "db50cc9d4623cd00a644f7f11510276f7a8a2b1a",
+      "char_ratio": 0.4407200496585971,
+      "sent_ratio": 0.33047210300429186
+    },
+    "6": {
+      "in_hash": "153a65643c8a57f2237e325759891e982bc769c4",
+      "out_hash": "5bc99b0b56222f439f82325b15357a9173794025",
+      "char_ratio": 0.57375,
+      "sent_ratio": 0.10848126232741617
+    },
+    "7": {
+      "in_hash": "415bef2a889a066e1443370613b6663284c09db2",
+      "out_hash": "c42cb6adc0681958ac011cb38ffc0ae4657de58e",
+      "char_ratio": 0.42583333333333334,
+      "sent_ratio": 0.3292181069958848
+    },
+    "8": {
+      "in_hash": "4b75b0040a20b235d3272f31c7ea533446750345",
+      "out_hash": "53781b6b8b1a0bc025c31d4fb01ba7d1a21f2f9b",
+      "char_ratio": 0.3765393446044667,
+      "sent_ratio": 0.08382066276803118
+    },
+    "9": {
+      "in_hash": "1ad2a3a146e15f4f1ae7cb7868f2874cb607714e",
+      "out_hash": "a6ce9ae1e2bfa0eed7c95c9da34d4171b5e397d2",
+      "char_ratio": 0.41533678756476683,
+      "sent_ratio": 0.047619047619047616
+    },
+    "10": {
+      "in_hash": "3273b73e963b2b837371c6332bb7a3956b6f778f",
+      "out_hash": "ba8cfb9b8f478891a4d10fdb7333e4295ba8779a",
+      "char_ratio": 0.38854296388542964,
+      "sent_ratio": 0.05443548387096774
+    },
+    "11": {
+      "in_hash": "b67b015c66da3c137f5f8805242624e55fcc5313",
+      "out_hash": "d4a8f296ae7fe841613cc21898029f05845fbda4",
+      "char_ratio": 1.402836879432624,
+      "sent_ratio": 0.0765661252900232
+    }
+  },
+  "order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ]
+}

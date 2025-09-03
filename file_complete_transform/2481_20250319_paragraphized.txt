@@ -1,0 +1,49 @@
+以下是重排后的段落式逐字稿：。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目。我们在做强猫介绍的时候，之前只会讲到四间公司：Penstar、Meta Wells、Champion和Outop。我们在24年的营收是落在约125亿台币。主要的产品营收贡献现在已经从以往的Discrete转变为Mosfet。主要的应用是车用。
+
+右上角是Champion，CMC宏观店2024的营收是8.16亿。主要的产品是Power Management IC。主要会应用在的地方是Gaming Power Supply。左上角的MeldX InMall2024年的营收是9.9亿新台币。主要的产品是Touch Panel Display。应用是在Automotive IPC Military。
+
+左下角的是Outop版价。2024年的营收是32亿新台币。主要的产品是Connector。F-Cable USB Type-C。主要的应用是车用、Medical Communication和Consumer。右下角的Penstar是我们近年来设立的一间Design House。
+
+主要是针对ESD这一类产品去做产品设计跟开发。主要初期主要会应用在的地方是MDX。MDX跟PC相关的。最下面是Meta Wells。主要未来主要会开发产品是MCU、Power Management IC和Signal Chain IC。主要的应用是Computing Monitor、Motor Fan和Industrial PC等。
+
+这是我们2024第四季合并的产品和Income Statement。我们可以看到营收在第四季的时候是3011.5个million NDD。QoQ是减少9.7个百分点，YY是减少0.6个百分点。Growth Margin在第四季的时候是31.1百分点，QoQ增加了1.9个百分点，YY增加了5.7个百分点。在Operating Margin上面，第四季是6.2个百分点。QoQ是减少0.8个百分点，YY是增加1.2个百分点。
+
+纯利率Net Profit Margin身上，我们第四季是7.5个百分点。QoQ是减少1.2，YY是增加1.4个百分点。在2024的第四季，我们的EPS是落在0.54个百分点。这是针对刚刚有提到的四大项的一个图表呈现的方式。我们可以看到营收上YY其实差异性不大。但是我们可以看到在Growth Margin和Operating Profit Margin和Net Profit Margin的状况下，也是非常健康的。
+
+YY也是持续上升的一个状态。这一页是Balance Sheet。主要还是会依照我们以公开发行的季报数字为准。这个是我们选我们Selected一些比较重要的项目。想要跟大家去做分享。在第四季，我们可以看到我们的Inventories在Dollar side已经来到降到27亿。
+
+占总资产是9.5个百分点。YOY verse2023年第四季的时候那个时候是30亿。其实降了约9个百分点。我们可以看到下面的这些关键指标。在AR turnover days是122天。Inventory turnover days是117天。
+
+Cash from operation activity是在8.46亿。这是刚有提到的指标。当然其实大部分都是应该说我们全部都是持续往非常正面的方向去前进，无论是我的库存占比又或者是我的AR跟Inventory turnover days又或者是我的AR跟Inventory turnover days。其实状况都是非常健康的。这个是我们在2024年全年的损益表。我们可以看到2024营收来到合并收来到125亿多。
+
+YY是少1.3个百分点。但是我们可以看到无论是什么样的情况，我们可以看到无论是什么样的情况，无论是Gross Profit Dollar Sign又或者是在Gross Margin上面，我们YY都呈现正成长的部分。在2024年我的Gross Margin来到28.7个百分点。YY增加3.4个百分点。在Operating Margin是6.5。YY是减少0.1个百分点。
+
+在全年度我们2024年的EPS是落在2.4新台币。这页是有一些讯息。这些讯息是针对我们Pengi在全球的一些布局。比较旧的一些东西我就不再重述。比较新的会是说我们在日本我们可以看到我们到Tokyo这边或在新加坡或在印度。我们在这一两年我们增加了这四个销售销售据点。
+
+另外在Flare Bin，我们也增加了一条backend的产线。右边我们可以看到2024年营收的Bredown by Regional。中国占58个百分点。台湾14%。DMEA10%。Korea9%。
+
+SEA6%。US2%。Japan1%。这一页是针对于我们的产品整个Product Mix，无论是在产品上或是Market Segment上面的一个Bredown。我们可以看到2024年MOSFET占我整体营收30个百分点。Sharky29。
+
+然后Rectifier14。TVS7。Ciner6%。Switching6%。
+
+ESD4 BJT3 SSE 一个百分点。我们可以看到就MOSFET在2024年已经Officially变成我们主要的营收贡献来源。那另外在应用端的话。我们有六大应用。那在车用上面车用占我全国的应用端的话。那在车用上面车用占我全国的应用端的话。
+
+车用占我全年也是30个百分点。那它也是在2024年开始变成说我们主要的营收贡献来源的应用。那另外Consumer21。Industrial and Green Energy也是18个百分点。Computing15 Power Supply13 Communication3 那右边有针对我刚刚上述的这些应用。下面有一些呃Description。
+
+让大家知道说我在六大应用还包含哪一些。那这个是想要让大家知道说。2023年跟2024年。我们在。Burda上面的组合的营收贡献的Various。那我们可以看到刚刚有说24年是MOSFET是30个百分点。
+
+那我在2023。我的MOSFET是27。那时候还是第二大营收贡献来源。那。年对年这样增加了3个百分点的营收占比。
+
+另外这一页是。Market Segment的部分。刚刚提到的车用我们在去年的话。应该在前年2023年的时候。是仅有23个百分点的营收贡献。那在。
+
+呃。在24年。我们的营收贡献是增加到30个百分点。那另外一个比较大的变化会是在Industrial and Green Energy。它在2024的时候是18个百分点。然后在2023的时候是24个百分点的。
+
+那是有做一些策略性的调整。这个是我们最新的Product Road Map。针对我所有Descript的。的有些规划喔。我们可以看到。无论是MOS啊。
+
+或者是SIC这些ESD TBS其实都陆陆续续有一些迭代的计划。最后是车用。我们可以看到。这是我们。2024年车用的。呃一个营收的状况。
+
+那从2017一路到2024逐年营收都是持续上升的情况。那2024 vs 2023的Dollar Sign是YY增加36个百分点。状况是非常非常好的。那我们可以看到就是说。我们在车用的额布局。我们目前。
+
+截止到目前我们总共有2000多个不一样的Part。然后销售给我们的客户。那总共。总共Shipping的4.7个Billion pieces的车用的Component。那这个就是我们今天。法术会大概的内容。
+
+那如果没有问题的话。我们就先到这边。这边为止。谢谢。

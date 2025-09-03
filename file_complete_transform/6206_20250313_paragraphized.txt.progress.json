@@ -1,0 +1,76 @@
+{
+  "done": {
+    "1": {
+      "in_hash": "8a1b8e307cd1571e06f54889a8e781dcf119bef1",
+      "out_hash": "cd3be3f687bff15b5ddf382e5e072afb45887aa2",
+      "char_ratio": 1.1712371781452795,
+      "sent_ratio": 0.32
+    },
+    "2": {
+      "in_hash": "a3d826d302cf44cc9df49d1aa741167e76c40559",
+      "out_hash": "965a2bf847cf6d598234c9c242d652c7be03563e",
+      "char_ratio": 0.34596858638743455,
+      "sent_ratio": 0.01282051282051282
+    },
+    "3": {
+      "in_hash": "5249180d88a1bca17102de31cbad4b1a0a30bd55",
+      "out_hash": "6f064c130807701004198c9de11710b5b9280d29",
+      "char_ratio": 0.49591794012978857,
+      "sent_ratio": 0.08021390374331551
+    },
+    "4": {
+      "in_hash": "7b8b5fd5e2d15724f55d43eb6b960b7e149269e6",
+      "out_hash": "47d56c6fb7ee0f57292554526c114e63e291c76e",
+      "char_ratio": 0.2936524453694069,
+      "sent_ratio": 0.0570409982174688
+    },
+    "5": {
+      "in_hash": "8de7e94aa8688f638dff89a48466dc4600530526",
+      "out_hash": "56f557527e6c61fd94f683d52d2c9c955b474792",
+      "char_ratio": 0.34809862097785205,
+      "sent_ratio": 0.022099447513812154
+    },
+    "6": {
+      "in_hash": "1c16a8564a54067bcfa7e70e94dfef3ca189bd17",
+      "out_hash": "ffa97597e6589a3196c72b4c408dbd27cae11369",
+      "char_ratio": 0.3315171835708298,
+      "sent_ratio": 0.4128595600676819
+    },
+    "7": {
+      "in_hash": "fd8de9b53a5ea43b1a02bbf35899fe1902b1b6f6",
+      "out_hash": "82a3ddd1fdd1612d891c792b44b71abe05ee3dd7",
+      "char_ratio": 0.8864016736401673,
+      "sent_ratio": 0.010810810810810811
+    },
+    "8": {
+      "in_hash": "a05a8a3bf87f541fe37d2eb84a8a6175f154fa93",
+      "out_hash": "ea3a011b917424630edabe354326afa7d18f38e3",
+      "char_ratio": 0.10711314475873544,
+      "sent_ratio": 0.08888888888888889
+    },
+    "9": {
+      "in_hash": "e448b07334e3fb8215e3089acb95ecf94f333b15",
+      "out_hash": "2fd4bbfee8a0c42cef96b89fd9069e887420b61e",
+      "char_ratio": 1.0180142438206954,
+      "sent_ratio": 0.04807692307692308
+    },
+    "10": {
+      "in_hash": "cc9467f752b628327eb6a94a8b20297695e738da",
+      "out_hash": "70cc7f6019dbe48c7e67d5b1dc4eef40b199ae08",
+      "char_ratio": 0.2012779552715655,
+      "sent_ratio": 0.007575757575757576
+    }
+  },
+  "order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ]
+}

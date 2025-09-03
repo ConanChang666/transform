@@ -1,0 +1,89 @@
+<think> Ok, now I need to process the verbatim text of the user and convert it into paragraph verbatim text. First, I need to read the original content of the user carefully to ensure a complete understanding of each part of the structure and content. The user emphasizes that the original text cannot be deleted, rewritten or condensed, so it must be organized strictly in the order and content of the original.
+
+First of all, I will check the format of the original script. It looks like each entry has timestamps and content, for example [0.0 00-9. 10]. My task is to merge these entries into a coherent paragraph while retaining all the original content. It is important to note that some entries can only be duplicated "thank you" or blank, such as [90. 00-120.00], which also need to be retained, but may need to be handled appropriately to avoid unnecessary blanks in the paragraph.
+
+It is important to note the continuity of timestamps, but users may not need to retain timestamps in the final paragraph, so timestamps can be ignored and only retain content. During the processing process, some duplicate "thank you" or empty entries may be encountered. For example, [90. 00-120. 00] is an empty entry, the user requests not to delete anything, so it is necessary to retain it, but it may need to be represented in the paragraph in an appropriate manner, such as leaving an empty or using an ellipsi.
+
+For example, it is necessary to ensure that every question and answer is correctly grouped in order to maintain the continuity of the conversation. For example, questions about exchange rate impact and answers to Mr. Lo's comments should be taken as a paragraph, while questions and answers about Q2's prospects should be taken as another paragraph. There are also some possible formatting questions, such as some non-Chinese characters in the user's original content, such as '‫' and 'ich', 'heh', etc., which may be wrong input or noise, but the user requests do not delete anything, so it must be retained.
+
+At the same time, check whether there are duplicates or redundant content, but no deletions or rewrites can be made according to user requirements, so even if there are duplicates of "thank you", all of them need to be retained. In summary, my steps are: 1. Analyze the original content in a sentence; 2. Merge into paragraphs according to content logic; 3. Keep all the original content, including duplicates and spaces; 4. Ensure the paragraph structure is reasonable, easy to read; 5. Finally check to ensure that all the user's requirements are met.
+
+Now I introduce the meeting management team. Mr. So, Executive Vice President. Mr. Lu Chun-you, Director of the Centre of Finance. Next, I will give the time to the management team. Thank you. We ask for the management team.
+
+Open the microphone. Thank you. Thank you. Thank you. [90. 00-120. 00] [120. 00-125. 00] Thank you. [125. 00-127. 00] Thank you.
+
+[127. 00-129. 00] Thanksgiving. [130. 10-131. 00] Thanksgiving. [131. 00-137. 00] Thanksgiving. [138. 80-139. 30] Thanksgiving. [139. 30-144. 00] Thanksgiving. [144. 00-149. 98] Thanksgiving.
+
+[150. 00-151. 12] Have you heard of it now? [156. 32-157. 76] If you've heard of it, I'm here to make a brief introduction. [159. 92-160. 56] I'm sorry, because there are some mechanical errors on the above. [167. 00-167. 52] Well, I'm here to tell you about an approximate condition of our company.
+
+We have a production site on both sides of the Strait, which is the part of China and Taiwan. The previous board of directors had an announcement that we are about to invest in Thailand. In this section, let's take a look at it again if you are interested. This factory is not ready yet. Let's take a look at Q1's operating results. Q1's revenue is probably slightly better than the same period last year.
+
+The gross profit margin portion has returned to an average level. This is mainly due to the balance of supply and demand in the first LED downstream and the decrease in the bidding competition. The supply and demand structure is already in balance. The second thing is probably the ongoing optimisation of the product portfolio.
+
+In the product portfolio, we can see that the product portfolio in the first quarter is not visible to 40%, the lighting is 8%, the backlight is 15%, the consumer electronics and mobile phone parts are about 23%, and the car parts are about 14%, and the other parts are only 1%. Here we can also see, in fact, in recent years, we can see that the proportion of visible light is actually on the rise, the parts of the car is also on the rise, the parts of the car is also on the rise, and the gross profit is poor, such as backlight and lighting are all down.
+
+In the automotive field, the automotive field is basically in our classification, whether it is the light in the car or outside the light in the car, there is also the car backlight, the car panel backlight, and the car's invisible light part, are all included here. Next is the profit table, the profit table is about low, more people will notice is that I'm maori back, but my overall EPS is down, the main difference is in the industry, the industry is about three-to-three parts, which last year there are some dispensing relationship. Next is the balance sheet, please refer to investors.
+
+[449. 96-450. 96] Thank you. [479. 96-493. 12] [493. 12-495. 32] years old [495. 32-500. 96] ich [500. 88-506. 80] oh [506. 80-509. 40] 40-509. 92] The head of this [509. 40-509. 92] is the exchange rate that affects us [511. 925-559] [51. 925-559] 925-559. 925-559] We want to know that [922-559] 925-559. 925-559] We are currently a part of a foreign exchange of income [925-559. 925-559] [922-559. 925-559. 925°5. 92. 92. 92. This is a part of the exchange rate of 922-556 [922-559. 922-559]. 92] is the current view that should be the same as last year is [595. 92-596. 92] is [596. 92-598. 92] is close to a situation in balance. [598. 92-601. 92] The second half of the year is because of the degree of impact of tariffs. [601. 92-607. 92] is a reference to an impact of an estimated number of [607. 92-613. 92], so it is currently a part of an increase in the growth of an individual figure that we originally expected for the whole year [613. 92-622] is also a part of an increase in the nature of [616. 92-62-667].
+
+3. Keep the abnormal content (such as "age", "ich", "heh", etc.) and empty timestamps, in line with the rules of "do not delete any sentences". 4. Unadjust the order or semantics of the statement, only in accordance with the timestamp and context restructuring paragraph structure.
+
+The following are the re-arranged paragraph verbatim transcripts: [698. 80-700. 76] So here we are asked as a co-answer. [700. 76-703. 72] Well, that's the part of our Thai factory. [703. 72-705. 20] That's why, of course, right now. [705. 20-707. 54] is a previous tariff policy. [707. 54-708. 30] One is unclear.
+
+[708. 30-710. 70] So we are currently targeting Thailand factory. [710. 70-713. 50] A progress is presented with a stagnant one. [713. 50-713. 24] A state. [714. 24-716. 52] That is, of course, the current. [716. 52-719. 44] We hope Thailand factory is set up. [719. 44-721. 74] It is a vision of our original.
+
+[721. 74-723. 08] is one of the non-African Taiwan. [723. 08-725. 18] is a base of the third country of origin. [725. 18-727. 38] to make a mix of capacity. [727. 38-729. 44] Okay, thank you. [744. 24-745. 24] Okay, thank you. [745. 24-746. 24] Thank you.
+
+[746. 24-747. 24] Thank you. [747. 24-748. 24] Thank you. [774. 24-775. 24] Thank you. [804. 24-827. 82] Excellent today. [833. 36-834. 24] Okay, that's what we want to think about today at this time. [834. 24-835. 88] In the company's classification.
+
+[835. 88-837. 70] Unvisible light products. [837. 70-839. 86] is now larger than the average. [839. 86-643. 00] The car's products are also larger than the average. [843. 00-845. 62] We have another visible light part. [845. 62-847. 26] is also larger than the average. [847. 26-850. 44] It is only the currently illuminated and backlighted part.
+
+[850. 44-852. 24] is the performance is flat. [852. 24-854. 14] It is the backlighting part. [854. 14-857. 14] Because last year there was another state in which backlighting was handled. [857. 14-859. 96] So Lu crab is here to help you supplement it. [85. 96-863. 02] Last year we made some strategic changes. [863. 02-865. 06] One of the effects of some coalitions.
+
+[865. 06-868. 06] That's why we're part of a backlighting product. [868. 06-871. 94] is another investment company that has been credited to us. [871. 94-876. 44] Yes, thank you. [893. 02-905. 12] Some colleagues have advanced questions. [905. 12-908. 16] In the past, the company had a whole situation of crediting. [908. 16-909. 94] That year was not a relevant plan.
+
+[909. 94-911. 54] We ask you to answer this question here. [911. 54-913. 32] The present part of the story. [913. 32-916. 78] There is currently no related credit program on the company. [916. 78-919. 22] Okay, thank you. [923. 02-924. 02] Okay, thank you. [924. 02-925. 02] Okay, thank you.
+
+[925. 02-926. 02] Thank you. [926. 02-927. 02] Thank you. [927. 02-928. 02] Thank you. [953. 02-983. 02] [983. 02-1013. 02] [1013. 02-1043. 02] [1043. 02-1073. 02-1075. 02] Okay, we ask you to answer. [1075. 02-1075. 02] We do some estimates before we make an estimate of the budget. [1080. 02-1085. 02] We do some estimates for some parts of the upgrade.
+
+[1085. 02-1091. 02] That's why we've just started our estimate is about six billion down. [1091. 02-1094. 02] That's because it's a number of uncertainties about tariffs. [1094. 02-1097. 02] That's why this part of the word right now is. [1097. 02-1110. 02] Is a relatively uncertain state. [1100. 02-1102] Above. [1102-1103. 02] Thank you.
+
+[1103. 02-1104. 02] Thank you. [1133. 02-1163. 02] Thank you. [1163. 02-1116. 02] Thank you. [1165. 02-1166. 02] Thank you. [1166. 02-1116. 02] Thank you. [1167. 02-1168. 02] Thank you. [1167. 02-1168. 02] Thank you.
+
+[1193. 02-1253. 02] [1223. 02-1253. 02] [1223. 02-1253. 02] [121313. 02-1343. 02] [131313. 02-1343. 02] [1373. 02-1433. 02] [1433. 02-1433. 02] [1433. 02-1433. 02-1493. 02] [1433. 02-1503. 02] hur [1502-1503. 02-1503] [121504] [1504. 02-1505. 02 1505] [02-1509. 02-1510. 02] Good. [1510. 1511. 36] Thank you.
+
+[1516. 02-1517. 02] Okay. [1517. 02-1520. 02] We just might have even had a design from Evencord. [1520. 02-1520. 88] Good. [1520. 88-1521. 92] Yes. [1521. 92-1521. 94] This. [1522. 34-1523. 02] Thanks.
+
+[1523. 02-1553. 00] [1523. 02-1553. 00] [1553. 02-1556. 86] An investment friend asked if this product was a different gross profit order. [1556. 86-1558. 62] We also asked for a reply. [1558. 62-1562. 84] The current part of our company's product category. [1562. 84-1564. 52] The gross profit order is probably the same. [1564. 52-1556. 60] It is still a high part of consumer electronics.
+
+[1568. 60-1570. 72] Then there is the invisible part of the light. [1570. 72-1572. 64] Then there is the test. [1572. 64-1575. 70] The lighting and backlighting part behind it. [1575. 70-1578. 82] This is a condition below average. [1578. 82-1580. 06] This is my reply. [1580. 06-1581. 48] Thank you.
+
+[1583. 02-1585. 02] Thank you. [1613. 02-1618. 70] There are investment friends who ask. [1618. 70-1621. 40] That's how much Photocopier accounted for my overall revenue. [1621. 40-1622. 68] We're asking for a direct response here. [1622. 68-1627. 00] I'm just here for a different description of each product. [1627. 00-1630. 04] The invisible light is about 40%.
+
+[1630. 041-1633. 32] Where Photocopier accounted for 50%. [1633. 32-1634. 30] The proportion is the same. [1634. 30-1636. 02] Thank you. [1634. 02-1673. 02-1703. 02] [1703. 02-1733. 02-1763. 02] [1763. 02-1763. 16] [1793. 02-1794. 80] The reason for our lower gross profit was [1794. 80-1796. 50]
+
+[1799. 36-1803. 00] About seven million copies of an impact figure. [1803. 00-1807. 48] That's why a gross profit margin of last year's Q4 fell in the whole. [1807 48-1809. 44] That's the part of the year. [1809. 44-1811. 70] Because we actually did some degradation of the inventory this year. [1811. 70-1816. 78] That's why we made some of the deprecated portions of the inventory. [1816. 78-1820.
+
+[1820. 62-1824. 20] That portion of the gain is about 20 million. [1824. 20-1827. 20] So we have been in addition to our company. [1827. 20-1830. 08] A continuous optimization of our portfolio. [1830. 08-1834. 72] This also led to a major increase in our gross profit margin this year. [1834. 72-1836. 20] Thank you. [1850. 62-1852. 62] Thank you.
+
+[1880. 62-1905. 92] There are investment friends who ask what the gross interest rate is this year. [1905. 92-1908. 76] We asked Hu to answer. [1908. 76-1910. 60] Well, here I am going to explain. [1910. 60-1915. 78] That is because we haven't actually had some major impact on capital expenditures in recent years. [1915. 78-1918. 82] So it's like we've said before. [1918. 82-1923. 68] The part of our depreciation fees is a continuous downward situation.
+
+[1923. 68-1930. 92] Another part of the optimisation of one of our product portfolio is policy. [1930. 92-1938. 46] So it should be said that a gross profit margin for this year should still maintain a level below one of this year's averages. [1938. 46-1939. 86] That's my reply. [1940. 60-1941. 06] Thank you. [1970. 60-1941. 60] Thank you. [2000. 60-2001. 60] Thank you.
+
+[2030. 60-2031. 76] Shankar. [2031. 76-2032. 70] [2032. 70-2033. 10] OK. [2033. 10-2040. 86] An investment friend asked what percentage of ARVR can contribute to revenue. [2040. 86-2042. 40] We would like to reply here. [2042. 40-2048. 24] Currently, ARVR is working with major vendors.
+
+[2048. 24-2052. 52] That is because the current market is still present in the view more. [2052. 52-2052. 96] Oh. [2052. 96-2057. 20] So the subsequent capacity has increased the same proportion of our share can be synchronized and improved. [2057. 20-2058. 52] Good. [2058. 52-2059. 82] Thank you for your patronage. [2060. 60-290. 58] Do not hesitate to subscribe to subscribe and forward the support of mirrors and dots.
+
+[2090. 60-2120. 58] Mirror and Dot column. [2120. 60-2150. 58] Mirror and Dot column. [2150. 60-2180. 60] [2180. 60-2202. 90] Mirror and Dot column. [2210. 60-2240. 58] Mirror and Dot column. [2240. 60-2270. 58] Mirror and Dot column. [2270. 60-2282. 66] Mirror and Dot column.
+
+[2300. 60-2330. 58] Mirror and Dot column. [2330. 60-2334. 60] Mirror and Dot column. [2360. 60-2390. 58] Mirror and Dot column. [2390. 60-2390. 60] Mirror and Dot column. [2394. 60-2401. 76] Mirror and Dot column. [240. 76-2401.92] Mirror and Dot column.
+
+[2401. 92-2402. 06] Mirror and dot column. [2402. 06-2403. 42] There are investment friends who ask. [2403. 42-2406. 84] Mini LED is outside the application of the car. [2406. 84-2408. 30] There are no other developments. [2408. 30-2410. 22] We would like to go live to reply. [2410. 22-2413. 48] Mini LED is currently developing in the car.
+
+[2413. 48-2415. 42] The car backlight is the main focus. [2415. 42-2417. 92] This is a phenomenon that we are developing.
+
+There are some future electric vehicles in the future will also have a car backlighting screen, so this is our main focus, above, thank you. There are investment friends asked whether the LED price competition here on the road is futile, the competition level of the upstream is relatively large, or is it downstream? We will ask the deputy reply. The price of the road LED is still very competitive, which is of course the upstream competition is relatively large, which is especially the lighting part, the price is OK, thank you.
+
+We are grateful to you for your continued support and support. 1, how much more you like, what we can do a little bit more after the Veces, we try to be useful, or her Build ändern, we both have a little bit later, through the online wall, in the most recent unused water level, in the house, there are many stalls in the curator here.
+
+Do not be afraid to ask for help, do not be afraid to ask for help, do not be afraid to ask for help, do not be afraid to ask for help, do not be afraid to ask for help, do not be afraid to ask for help, do not be afraid to ask for help, do not hesitate to ask for help, do not hesitate to ask for help, do not hesitate to ask for help.

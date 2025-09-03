@@ -1,0 +1,69 @@
+{
+  "done": {
+    "1": {
+      "in_hash": "4630161920cf901330995ce6ce97c8c3ef6f43c2",
+      "out_hash": "3d232bfd55fe4a86ecab62022c1c7cf9d68c2418",
+      "char_ratio": 1.1983402489626556,
+      "sent_ratio": 2.635514018691589
+    },
+    "2": {
+      "in_hash": "d62bf373baf72d4ddfee9f56cc7164b88b425a2a",
+      "out_hash": "a9d6d71428f76188cd71e7733fd05055a5de0b9b",
+      "char_ratio": 0.4156764644569523,
+      "sent_ratio": 0.34385964912280703
+    },
+    "3": {
+      "in_hash": "6fa2efef94117042d56dd5d55736c62606d17096",
+      "out_hash": "676327e6611ac2b93d97919380a414451f124b0a",
+      "char_ratio": 0.27050720100187853,
+      "sent_ratio": 0.044964028776978415
+    },
+    "4": {
+      "in_hash": "e573ee69479accbc68d4fed1ecb05125fd780cb3",
+      "out_hash": "c19d1e3f503fb394db9f9982a2986027aa91249a",
+      "char_ratio": 0.33807829181494664,
+      "sent_ratio": 0.0213903743315508
+    },
+    "5": {
+      "in_hash": "f151a1b9222361e4ed4e63b37a76962349ebde11",
+      "out_hash": "4d268cfb735b5ff98f8d1abac63ac67085606734",
+      "char_ratio": 0.3372093023255814,
+      "sent_ratio": 0.034050179211469536
+    },
+    "6": {
+      "in_hash": "b40c1d0806452fc2dd04908c50ae9a4ae3b90d36",
+      "out_hash": "e1fa76e0c2d4430de354b04247891b90cb0319e8",
+      "char_ratio": 1.0299262381454162,
+      "sent_ratio": 0.8063314711359404
+    },
+    "7": {
+      "in_hash": "da0b5af813aa0cbb126fcbd7653b128d7c6cada6",
+      "out_hash": "a655d0c092f65a1d750f570b15c2ac8458be1ccf",
+      "char_ratio": 0.5697552813218992,
+      "sent_ratio": 0.5347985347985348
+    },
+    "8": {
+      "in_hash": "17760ac92c5575004e17a4e9c615655d74d006f9",
+      "out_hash": "61b7bb186e06b09b6b9b61aabc8a185403194bfd",
+      "char_ratio": 1.1777824093372238,
+      "sent_ratio": 2.8584729981378025
+    },
+    "9": {
+      "in_hash": "c6efad013f83186988f7c1c7fcab827aa4fe75b4",
+      "out_hash": "bab0a1c8d7ec50e5d5d7520e57bb50abec204ec4",
+      "char_ratio": 0.354,
+      "sent_ratio": 0.3333333333333333
+    }
+  },
+  "order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+}

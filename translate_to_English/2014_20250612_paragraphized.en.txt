@@ -1,0 +1,59 @@
+Welcome to participate in the online corporate briefing session of Zhonghong Iron and Steel Co., Ltd. Before the meeting, let's introduce today's spokesperson. Welcome Wang Wenping, Assistant General Manager. Vice President.
+
+<think> Ok, now I need to process the verbatim texts provided by the user and organize them into paragraph verbatim texts. First of all, I want to read the user's requirements carefully to ensure a complete understanding of the task. The user emphasizes that the original text cannot be deleted, rewritten, or condensed, so the verbatim must be retained, while organizing them into a coherent paragraph.
+
+First of all, I will read through the whole transcription, pay attention to the corresponding relationship between timestamps and content. The transcription fragments provided by the user include multiple timestamps and corresponding sentences, some of which may belong to the same topic and need to be merged into paragraphs. For example, the anti-dumping and anti-corruption portion of Ducan's steel may need to be linked together to form a natural paragraph. Next, I need to identify which sentences belong to the same topic or logical unit. For example, from the beginning of the anti-dumping and anti-corruption tax of Ducan's steel, the following sentences discuss Taiwan's tax rates, export highlights, competitiveness improvement, etc., these should be merged into a paragraph.
+
+It is important to note that some sentences may be separated due to the interval between timestamps, but the content is continuous. For example, in relation to the US tariff policy, from questioning to answering, it may be necessary to separate the question and answer from each other, but maintain their integrity. In addition, some sentences may require special processing due to technical issues (such as interrupting sound), but the user requests do not delete anything, so they must be kept even if they look uncoordinated. During the processing process, I will check every time to make sure that there are no omissions or errors. For example, the timestamps "[743. 30-744. 30] and "[744. 30-747. 30] under the US tariff policy" may fall under the same paragraph and need to merge.
+
+In addition, the "Prospect of the raw materials" section mentioned by the user, due to the sound disconnected, may need to retain the original, but make sure that the timestamp and content correspond. For example, the timestamp "[1039. 30-1046. 30] because your voice is a little interrupted" after the content needs to be placed correctly, even if there is a interruption in the middle. Finally, I will read the finishing paragraph script to check whether the user meets all the requirements: do not delete any sentences, keep the original intention, and the paragraphs are naturally smooth. At the same time, make sure that the timestamp and content correspond correctly, without any position or omission.
+
+-- [612. 30-617. 30] is the anti-dumping and anti-corruption tax on steel in Ducane. [617. 30-619. 30] This part. [619. 30-623. 30] Taiwan is relatively low compared to other countries' tax rates. [623. 30-625. 30] This is why. [625. 30-628. 30] is a highlight of the current export of Taiwan. [628. 30-630. 30] This helps.
+
+[630. 30-634. 30] A competitive increase in the downstream customers of the president's side. [634. 30-638. 30] later led to the pick-up of the company here. [638. 30-640. 30] This is just one part. [640. 30-643. 30] is a highlight of the future to be fermented. [643. 30-646. 30] Continues to observe. [646. 30-650. 30] That is to say, this year.
+
+[650. 30-652. 30] China's imports of steel. [652.1 30-655. 30] Because China's steel charges against anti-dumping cases. [655. 30-661. 30] This year's imports have decreased compared to the same period last year. [661. 30-665. 30] Because the imports of the single core are retrospective anti-dumping tax. [665. 30-668. 30] The imports of this piece are relatively conservative. [668. 30-672. 30] It is expected to be the mid-July market.
+
+[672. 30-676. 30] This piece is also to be observed later. [676. 30-681. 30] So the combination of some recent factors above. [681. 30-685. 30] is the current Q2 quarter compared to the first quarter. [685. 30-688. 30] The export volume is quite lower than what was originally expected. [688. 30-694. 30] The export volume for the third quarter is a situation that is currently being observed. [694. 30-697. 30] But in general, it is said.
+
+[697. 30-700. 30] Wait for these uncertainties. [700. 30-705. 30] The opportunity to become clearer in the third quarter. [705. 30-711. 30] Subsequent to the fourth quarter is a condition that is conducive to the stability of the entire steel demand. [711. 30-713. 30] The development of the truth. [713. 30-719. 30] The above is a brief overview of a recent steel market. [719. 30-726. 30]
+
+[726. 30-738. 30] Today we have three questions. [738. 30-741. 30] is my first question. [741. 30-743. 30] OK. [743. 30-744. 30] OK. [744. 30-747. 30] Under the US Tariff Policy. [747. 30-752. 30] The first question is under the US Tariff Policy.
+
+[752. 30-758. 30] The prospect of the world then as well as the steel prices and demand in the major markets. [758. 30-760. 30] Here is what you think. [760. 30-765. 30] This section I ask our Director of the Hon. Hung to explain it. [765. 30-768. 30] Visit the advanced people. [768. 30-770. 30] Here reports with you. [770. 30-772. 30] This tariff statement in the United States.
+
+[772. 30-774. 30] Although the barriers are high. [774. 30-778. 30] But the vast majority of national tax rates are basically the same. [778. 30-783. 30] And the long-term supply of steel in the United States depends on imports. [783. 30-788. 30] The supply and demand are bound to reach a consensus on the volume. [788. 30-791. 30] This is just not the time. [791. 30-793. 30] This takes some time to imitate.
+
+[793. 30-797. 30] The demand for that current market has been suppressed in the short term. [797. 30-800. 30] Because of the uncertainty of Trump's policy, [800. 30-804. 30] leads to a more optimistic attitude of the customer. [804. 30-808. 30] There are some losses if the trade adjustments are made. [808. 30-810. 30] If the policy is relatively stable, the supply chain should be able to make some adjustments to the application. [810. 30-810. 30]
+
+[814. 30-819. 30] In particular, U.S. customers in the current inventory level is relatively low. [819. 30-823. 30] It is not very high capacity utilization. [823. 30-827. 30] So the steel price will be supported. [827. 30-829. 30] The biggest steel production direction recently. [829. 30-833. 30] It is similar to the United Kingdom's announcement that the hot rolling began to soar. [833. 30-836. 30] This is the moment when it is likely to rise.
+
+[836. 30-838. 30] We will continue to observe it. [838. 30-841. 30] Why it is able to resist 25% of the tariffs on this part of me. [841. 30-842. 30] Of course, it is also about waking up. [843.3 30-845. 30] The market outside of the United States. [845. 30-848. 30] I am witnessing relatively intense. [848. 30-854. 30] The current market with better prices belongs to the European Union.
+
+[854. 30-857. 30] The EU has limited relations due to safeguards. [857. 30-869. 30] Unless you say so. [859.1 30-861. 30] There are countries that work together. [86. 30-862. 30] If not, [862. 30-865. 30] is a restriction that leads to a separate country in other countries. [865. 30-869. 30] 13% is a limit.
+
+[869. 30-871. 30] So the price is better. [871. 30-873. 30] But the quantity is limited. [875. 30-879. 30] The demand should be expected to be released. [879. 30-882. 30] If there are many additional infrastructure costs, [885.1 30-888. 30] Some of the infrastructure's more power is released.
+
+[888. 30-891. 30] The price is expected to pass through the middle of the United States. [891. 30-894. 30] But Southeast Asia should look like one. [894. 30-897. 30] Compared to a battlefield of killing. [897. 30-899. 30] Because the United States and Europe are both markets. [899. 30-902. 30] There is no way to remove the next one.
+
+[904. 30-906. 30] In addition, China's factor. [906. 30-908. 30] May be relatively weak at the price. [908. 30-910. 30] Demand for the third quarter. [910. 30-914. 30] The current observation should still be at a certain level. [914. 30-915. 30] Above. [918. 30-921. 30] Explanation of the new vice president of macro.
+
+[921. 30-923. 30] The second question is [923. 30-925. 30]. [925. 30-925. 30] is the current visibility of the order. [929. 30-931. 30] There is also a short term. [931. 30-933. 30] There is also a 2025 year. [933. 30-936. 30] The year-round delivery plan.
+
+[936. 30-939. 30] Here I have an answer. [939. 30-942. 30] The visibility of our current orders is generally general. [942. 30-945. 30] Domestic sales is about one to two months. [945. 30-947. 30] The export is about now. [947. 30-949. 30] Two months to a quarter. [949. 30-951. 30] The tube will be slightly longer.
+
+[951. 30-954. 30] The tube is about three to four months. [954. 30-956. 30] That's because of the recent. [956. 30-958. 30] One of Trump's policies. [958. 30-960. 30] The Hong Kong women's tariffs increased by 25%. [960. 30-962. 30] It is known that the UK is now known. [962. 30-965. 30] There may be a certain level of new years between Mexico and Mexico.
+
+[965. 30-966. 30] Other sections. [966. 30-968. 30] may be predicted by everyone. [968. 30-970. 30] The market is still waiting. [970. 30-974. 30] This tariff increases the degree of digestion effect. [974. 30-976. 30] So the current situation. [976. 30-977. 30] This year.
+
+[977. 30-980. 30] The planning of shipments is affected by this uncertainty. [980. 30-983. 30] We will make a dynamic adjustment at any time. [983. 30-986. 30] The third quarter of this year is expected. [986. 30-989. 30] It is the relative low of this year. [989. 30-992. 30] Plus it is a half-quarter of the cost itself. [992.3 30-996. 30] And then it is the time of the storm.
+
+[996. 30-997. 30] But the fourth quarter. [997. 30-999. 30] If its tariffs are slow. [999. 30-1001. 30] The price of the market can be reflected. [1001. 30-1005. 30] There should be a wave of orgasm in the fourth quarter. [1005. 30-1008. 30] There should be a huge amount of price. [1008. 30-1012. 30] The company currently has a list of domestic sales.
+
+[1012. 30-1014. 30] If the material is good. [1014. 30-1016. 30] If the size of the service needs the customer's needs. [1016. 30-1018. 30] is actually produced within two weeks of shipping. [1018. 30-1020. 30] This is no problem more than above. [1024. 30-1025. 30] Good. [1025. 30-1027. 30] We.
+
+[1027. 30-1029. 30] Thank you. [1029. 30-1031. 30] The reply of the deputy minister. [1031. 30-1033. 30] There is also the third question. [1033. 30-1034. 30] Yes. [1034. 30-1039. 30] Outlook of raw materials. [1031. 30]
+
+Gel This is a place where the demand for raw materials can be high in the next two or three years, and the demand for a high melting of raw materials should increase by about 70 million tonnes. And it is like China, in the second half of the second half of the production policy should be more obvious and accelerate implementation.
+
+Well, then we would like to thank Huang, Huang, Huang, and that director for the clear answer. That's more of a question that Kaiqi is looking for here, so our law will come to an end. Thank you for your participation in the legal process.

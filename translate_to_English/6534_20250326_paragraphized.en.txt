@@ -1,0 +1,263 @@
+<think> Ok, now I need to deal with the user-provided verbatim and convert it into paragraph format. First, I need to read the user-provided rules and examples carefully to ensure a complete understanding of the task requirements. The user emphasizes that the original text content cannot be deleted, rewritten or condensed, so the integrity of the original text must be maintained. Next, I will check the fragments of the verbatim provided and note that each entry has timestamps and corresponding sentences. My task is to reorganize these chronological sentences into coherent paragraphs while keeping the original order and content of each sentence.
+
+In the process, I check the sentences by word, to make sure that no sentences are missing. For example, the verbs provided by the user have some time between the blanks, such as [20. 00] to [23. 00], but the user does not provide this part of the content, so it can be arranged directly according to the existing sentences. At the same time, pay attention to the logical connection between sentences, it may be necessary to adjust the punctuation or add a link according to the context, but the user requests not to rewrite the content, so only the original sentences can be used, which may be separated by lines between paragraphs.
+
+In addition, it is important to note that some sentences may have a duplicate or error in the timestamp, such as [89. 00-93.00], which may be an error or an input error, but according to user requirements, the content cannot be modified, so it must be kept as it is. Similarly, sentences such as "[222. 00-223.00]," which may look wrong, but must be retained. When organizing paragraphs, I group according to the subject of the content. For example, the initial greetings and introduction can be combined into a paragraph, followed by a company introduction and product line description, then a technical R&D and market expansion part, and finally financial information.
+
+At the same time, the technical parts such as the R&D process and product line introduction need to be segmented to ensure that each paragraph topic is clear. Finally, I read the whole converted paragraph verbatim to check if all the original sentences are correctly contained, without missing or repetitive, and the format meets the user's requirements. Make sure that no additional content is added, and all sentences are retained as they are only in paragraph format. </think> The following is the paragraph verbatim verb after the original verbatim content is re-arranged (fully retain all the original sentences, adjust the paragraph format).
+
+First of all, we would like to thank Fubon Securities for the invitation to invest in Fubon Securities for this opportunity. Here, we would like to introduce to you the latest investment advanced report. This is our team, and this is our general manager, Wenren Chen. Today, we will conduct a corporate briefing. Before entering the company briefing, please read the disclaimer in detail.
+
+In the first half of this year, we will introduce to you today, the first corporate briefing session. Before entering this report, today's report is mainly divided into four major steps, the first is the company introduction, the second is the technology research and development, the third is the market expansion, and the last we will talk about our financial information. Before the report, I want to convey to you a concept that agriculture is needed to be changed, and then the company that Gen-Han Biotech is in fact after its establishment in 2013, it is a leading pesticide biotechnology company, Xin Pharmaceutical Company, and it is also considered by the Ministry of Economic Affairs as a credit company.
+
+This is why our mission and vision is to contribute to a global sustainable and healthy ecology, which is very broad, simple, what we are using, high efficiency low carbon, then this, sustainable concept to be carried out, is different from the general pesticide or general fertilizer to carry out. Invulnerable, I still quickly brief brief brief introduction of our company, the company was founded in 2013, the market time 2023, our recovery capital is 1 billion million million million, our chairman Wu Zhengbang, the main business, Chen Chu understand, we have been producing plant regulators, high efficiency, accurate low carbon, and effective fertilizers, this is the company has been developing before, and now is the development. In recent years, the company began to introduce the double-spindle product line, in addition to the efficient fertilizer, one is called ecological fertilizer, then the ice plant is mainly responsible for what, we use what we just talked about sustainability, we use recycled materials such as feathers, chicken feathers, chicken feathers produce a lot of chicken hair every year, there are fish scales, and then the use of Yalin high pressure hydrolysis technology, there are fermentation technology, to produce a special effect of ecological, this made in Zhang Bing, in addition, we also acquired the subsidiary Taiqi, Taiqi is also in Zhang Bing factory, he is mainly responsible for ecology, he is responsible for ecology, so this ice plant and Taiqi biotech company's two main products line, enzyme hydrolysis, and coal hydrolysis, the two are combin together, together become our ecological products, OK, so this positioning let us understand, that our product line, that is the two main line, that is the two spindle of our products, plant, plant, plant, plant, plant, the current the next next next we want to let us to join together, we will be with the next next next next, we will be with the next to join together to join with you to join with us to join with us, we to introduce the next next to join with us, we to introduce the main to introduce to join with the main business, we will be to the next next to join with the next to join with us, we to introduce the main business, we to introduce a new era of the ice industry industry industry industry industry industry industry, we will be a new year.
+
+The following is a re-arranged paragraph-by-word transcription:. 100% of the pesticide companies that were approved by the Board of Agriculture have invested in Maddon USA Manufacturing Center, a subsidiary of the American company, and have opened the 2018 Enterprise Headquarters and R&D Center in Nantou, Taiwan. In 2021, it was approved by the Ministry of Economic Affairs as a new drug company, and obtained factory registration at Zhang Bing Factory.
+
+This is why we are from scientific research, combined with big data analysis database. What is so-called medical food agriculture, big data analysis combined with this database, combined with common physiological characteristics, and combined with the next generation of plant sequencing technology. Seeing the genetic performance and data performance, the overall combine together, found a new drug with potential, or a group of new drugs.
+
+So basically we started to enter our research and development center in Nantou, there are 16 laboratories, from genome metabolism and physiological conditions, as well as so-called cell development and final product testing, all have a very complete full functional verification platform. This functional verification platform can verify that we have selected new drugs from the database, and that they are not really effective, along with their mechanism. Because we know the Australian market, they all have to be organic verification, that our channel requires us to be smart, you are like medicine, this drug down affects the plant heat resistance and cold, or what physiological reaction, you have to give me a reason, it is more convenient, so basically, it shocks the bio-full functional platform, it can reduce our risk, to the market we know the mechanism and know the effectiveness.
+
+So the test is not as low as the so-called medical test period. So the so-called test period is very long. But we have already been struck by the so-called intelligent greenhouse, which can simulate the temperature of the US or the target market, as well as the so-called soil greenhouse, soil characteristics, and we have also established in the local, cooperative with our channel partners, a group, a so-called testing team. These three platforms add up to our registration is very fast, and for our channel customers, it is very safe for our customers, and it is difficult for other companies to do so in Taiwan.
+
+So most of the raw materials are based on foreign sources, so we continue to think about what can create new raw materials, that recycled materials, we use base feathers because base feathers account for more than 80% of the protein, feather phosphorus because it has its phosphorus account for 40%, this so-called collagen, special amino acids and ambience nutrition protein. Most of us use, how to break this base feather, so we use high-temperature hydrolysis technology, as well as microbiological fermentation technology and enzyme hydrolysis technology, cut it into the ecological chain, which is extracted from it. Because we know that early ecosystems are made with synthesis or acid hydrolysis, so we know that the biological activity is a very very good target material with stability function, and can also come out as a very very good potential.
+
+So basically our parent company consists of 50.3% of the R&D department staff, accounting for 50.3% of the R&D department staff, and more than 75% of the R&D department staff, and more than 75% of the R&D department staff, which is a PhD degree, what does it mean? We hired people from the field of biochemical agrochemical fluid and chemical background, and most of the people gathered in our R&D field, and the development of new drug development materials was not for the world to follow us.
+
+Each crop can only be tested twice a year. Sometimes it can only be tested once a year. The land continues until 2024. There are 344 biotests in the land. So this is what we put into it in 2024.
+
+We are talking about the ecology that we have just made. Name it as a precise guide ecology. This is also registered as a big mark around the world. What exactly does a guided ecology mean? Eco biotechnology utilizes special hydrolysis techniques. Thermal hydrolysis.
+
+Enzyme micro-fermentation technology. Different conditions. To look for a group of functional ecology. Especially for us. Especially for rice. And coffee tea.
+
+There are fruit trees, there are so-called fruit trees, there are other things that have special efficacy, so our position is to say, I'm for the crop, I'm for the crop, I'm for the problem it solves.
+
+There is no way to copy this. I believe that hot water oxidation technology is also done. But biotechnology is combine. hot water oxidation technology and enzyme oxidation technology. Three together. So I believe that copying is a very difficult thing.
+
+This is our speciality and innovation. Why choose ecology and sugar and amino acids? In fact, ecology has been said in science, they are a message conveyer, a message comes from the sun.
+
+A cloud comes. It is very fast to produce a function in the plant. Quickly to induce the plant to produce resistance. So it has a fast and functional group of titanium.
+
+Of course, we exhibited a lot. We participated in a lot of so-called awards. The so-called important indicator of the 2017 Asian Science and Technology Park Award. 1721 2224 are all national startup awards.
+
+The Green Chemistry Award was finally awarded in 2025. The Green Chemistry Award was given to the majority of the winners. Taiwan's first-large-scale electric power industry, TSMC Micron.
+
+There is also a so-called first-class semiconductor and photoelectric plant. Agricultural companies have a shocking investment. Why do we use what we use? We use this product.
+
+We do not use hydrolysis technology with high chemical contamination of acid and alkali. We can get a group of active ecology. We are called green hydrolysis technology and green ecological technology. There are 35 awards in our past years. There are 16 awards in R&D and innovation. There are 13 awards in our company.
+
+There are six sustainable awards. That is, after the President and I returned to Taiwan in 2013, we wanted to share with you what we have learned over the years. We are truly committed to research and development, and then we use these results to prove it.
+
+We have R&D strength. And we are tempted to break. A committee to review the results. The market expansion is also very concerned. Our international market layout.
+
+Most of us have been in the past. Taiwan has developed and marketed the U.S. manufacturing nationwide. But our product line remains in the Americas. So we have produced in the past. Our U.S. self-produced partner is Nutrient. We follow Nutrient to expand the market.
+
+That's why we mainly focus on America or Brazil or Australia. This market is the main focus. Last year we started going to Taiwan. In fact, it has been around for years. Then last year we started working with new farmers. Because of the B2B market.
+
+This is a new farm in Taiwan. Sorry. This is a new farm in Taiwan. It's a new farm in Taiwan. It's a new farm in Taiwan. It's a new farm in Taiwan. It's a new farm in Taiwan. It's a new farm in Taiwan. It's a new farm in Taiwan. It's a new farm in Taiwan. It's a new farm in Taiwan.
+
+He has a lot of way system, he has a lot of way, he is, so we sell our economics.
+
+We have our own technology. They put their brands on it. We help him market it. Name them, so new farmers have their own names. And I also use our eco-products.
+
+It is also a sign that we have helped him grow. That is why Taiwan is currently battling with a double-spinway channel system. This is what happened last year and this year. The M2U Indonesia market has begun to break through the sky.
+
+In progress. Including Japan. Japan has followed it since last year. Zhaohui Industrial Co. and Vegetaria. These B2B markets began to conduct MOD. Conduct so-called technical cooperation in the future.
+
+At the moment, I can only explain to you that Japan is currently in the process of making so-called registration. It takes a certain amount of time to register. So at the moment, we take our Futai. Our peptide1 to 8. All of us go to Japan to register.
+
+In the event that registration is mature. We will start doing it. Or do a sweet test locally. Or do a local layout to push up. EU will talk to you. EU.
+
+The EU is now double-axis. One is the EU as a whole. The other is the EU as a whole. The EU is the only bio-technology. He is therefore bio-technology in the EU.
+
+He. He. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU. So biotechnology in the EU.
+
+So bio secondary technology in the EU. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe.
+
+So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe.
+
+So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe.
+
+So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe.
+
+So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe.
+
+So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe. So bio secondary technology in Europe.
+
+So creatures, So creatures, So creatures, So creatures, So creatures, So creatures, So creatures. So creatures.
+
+So creatures, So creatures, So creatures, So creatures, So creatures, So creatures, So creatures. So creatures.
+
+So creatures, So creatures, So creatures, So creatures, So creatures, So creatures, So creatures. So creatures.
+
+So creatures, So creatures, So creatures, So creatures, So creatures, So creatures, So creatures. So creatures.
+
+So creatures, So creatures, So creatures, So creatures, So creatures, So creatures, So creatures. So creatures.
+
+So creatures, So creatures, So creatures, So creatures, So creatures, So creatures, So creatures. So creatures.
+
+So creatures, So creatures, So creatures, So creatures, So creatures, So creatures, So creatures. So creatures.
+
+So creatures, So creatures, So creatures, So creatures, So creatures, So creatures, So creatures. So creatures.
+
+So creatures, So creatures, So creatures, So creatures, So creatures, So creatures, So creatures. So creatures.
+
+So creatures, So creatures, So creatures, So creatures, So creatures, So creatures, So creatures. So creatures.
+
+So creatures, So creatures, So creatures, So creatures, So creatures, So creatures, So creatures. So creatures.
+
+So.
+
+At the end of the century, corn dropped 24% worldwide. Corn dropped 24% since 2050. American corn soybeans were reduced by 39 to 68% this year. With 86 to 92% of the agricultural market, it needed an opportunity to solve the climate environment.
+
+It is mainly aimed at plant growth fertilizers. Pesticides are aimed at insects. So far, climate change is very important. It gives a lot of impact on agriculture. But we all think back. It may be a transition.
+
+There is nothing at the moment. Products are aimed at climate change. Or very very. I dare not say so. Very few products specialize in focus in very hot and very cold. This is because the climate is too unstable.
+
+So, in fact, it has been years. Everyone has started investing. The so-called issue of climate change is on the rise. The second issue is what it is. Climate change is the so-called environmental change. The second issue is the green issue.
+
+As we all know, Taiwan has experienced heavy rain. By 2030, pesticide fertilizers will be halved. By 2040, agriculture net zero carbon emissions will be reduced by 20%. By 2030, it will reduce the use of fertilizers by 20%.
+
+That is to say that it wants to increase the utilization of fertilizers. The United States increased the production of agriculture by 40% by 2050. By 2050, its environmental carbon footprint is halved.
+
+It will use its productivity utilization. Each hectare can be fixed. One hectare can be fixed. I have a fixed amount of crops. It must increase the production of its crops. Therefore, it increases the production capacity by 40%.
+
+So, shock is to see. This is also a crisis. In so-called people to reduce the use of fertilizers, but in reducing the use of fertilizers, it is also necessary to increase the capacity.
+
+It's also stable. It's also enough to feed a group of people. It's your fertilizer or your agricultural preparation. There must be a solution to this problem. The second question is what. Climate change.
+
+How do you solve climate change? So tomorrow's agriculture is slogan. It represents what it is. Responding to global climate change and reducing environmental glitches. How to reduce the use of fertilizers. But not the production and quality.
+
+Or how not to increase the use of fertilizers. But increase production and quality. So production and quality are very important. But the premise is to be safe. To be efficient. Because it is not safe at the moment.
+
+The European Union has made it with the United States. Drop it cancel. Cannot be lost. So the solution will be a very important challenge in the future. But it is also a big celebration in agriculture. A shocking idea of what the solution is.
+
+But this is the question. We want to solve it. We just want to talk to everyone about ecology. What is it? We develop this thing that leads to ecological biostimulants accurately. Maybe you're not familiar with it.
+
+Biostimulants It is defined as biostimulants. It stimulates the physiological process of organisms. Improves plant growth adaptability. Provides non-direct supply of nutrients. Or prevents pests. It is simple to say.
+
+Biostimulants It is different from traditional fertilizers and pesticides. It can go. This is the definition under the EU. It has an impact on the environment. It has an impact on the utilization of nutrients. It has an impact on the quality of life.
+
+It has an influence on the rejuvenation of the soil and the solid nutrients of the root circle. Simply put, ecology may be able to withstand adverse environmental conditions. There is also the efficiency of the nutrition utilization of the soil. There is also the effect on the quality it may have on the direct physical boundaries. Why study ecology.
+
+The ecology is very stable and effective. It is basically composed of 2 to 50 amino acids. The ecology has already been a lot in the field of research. It is included in scientific research in agricultural science research.
+
+But why agriculture is rarely done. The reason is because of early ecological synthesis. The price is very expensive. General agricultural companies are less likely to use it. The way of purifying the ecology or the way of synthesis.
+
+But it can be applied in medicine. But we use low-cost and high-efficiency. It is able to extract the ecology. In fact, it has its functional significance. So look at the plants.
+
+There is also a so-called air hole development control. There are also plants that are not spontaneous adversities related to drought. Anti-sulfate adversities related to antioxidants. In fact, the ecology has a very perfect effect. So we have to use a complete reference. Some paper to prove it.
+
+That shocking biotechnology. We have been working on it in the past. Self-study with Academia Sinica. There is also a successful university. We have been working closely with our ecology. What kind of adversities are there?
+
+Anti-oxidation has a 2 point 6 efficiency. These shocking biotechnology hands are complete. Very complete data to prove. That shocking development of metal ecological technology. I just talked about it. We use thermodynamic hydrolysis technology in Zhangbin factory.
+
+Our pressure is about 10-20 atmospheric pressures. Temperature is 100-200 degrees. Produces tens of thousands of random peptide. What is the raw material of a circular economy source.
+
+What's next? We use special effects. Cut off the fragments we want. What's next. What's next. Combines the ecology of the special functions of microorganisms.
+
+The three combine together. The formation of an innovative person cannot copy. And the future has a very potential of eco-products. Each water gas number is very high. So this is a shocking knowledge source. It is also a shock to talk about why you can be sure of it.
+
+We are the only ones who have the right guidance, and no one can copy it, and the efficiency is very high. OK I've just said it here. I can be big. It's also very fast.
+
+We are currently using most of them. Most of them are chicken feathers. Chicken feathers are made up of more than 60% protein.
+
+Different we adjust a temperature with only one hydrolysis technology. Ecological mass spectrometry will be completely different. So different conditions. This is important. Shocking the different efficiency of mediation.
+
+So we can combine different ecological composition. OK, what next? Innovative nuclear technology and the development of a variety of agricultural new drugs and fertilizers, then we use mechanical hydrolysis and microorganism fermentation, to develop Futai this product, has been officially registered in Taiwan, also began to commission new farmers to test, field trials, and we did a lot of field trials ourselves.
+
+From 2020 to 2024, our revenue from 700 million to the current 1.6 billion, which reflects the company's innovation in products, and the expansion of the international market, the development of new products is growing. Then in terms of revenue and product proportion, we have been using plant growth regulators for the public, so you see until 2024, our proportion of fertilizers, we have some slight changes in the proportion of our plant growth regulators compared to fertilizers, because we have developed some new products in the fertilizers, so our fertilizer products are consistent and stable growth. Next, let's take a look at the global layout of our 2024 market, we have been using the North American market as the major market, and then in the next few years we have expanded to the market in South and Australia, especially in South America.
+
+Our company has always maintained a solid development in terms of profitability and financial indicators, so our liquidity ratio and a long-term capital structure, as well as the balance ratio are very stable, and then the flow of funds is very flexible, so if we have extended capital living expenses, there will not be too much problem in cash flow. That is the part of our current flow of funds, and that is the part of our financial information.

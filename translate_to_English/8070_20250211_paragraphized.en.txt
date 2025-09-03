@@ -1,0 +1,247 @@
+<think> Ok, now I need to deal with user-provided verbatim and convert it into paragraph verbatim. First of all, I want to read the user's requirements carefully to make sure that the task is fully understood. The user emphasizes that it cannot be deleted, rewritten, or condensed with any original text, all information must be retained. This means that I need to check the verbatim to make sure there are no omissions or modifications.
+
+First of all, I will look at the transcripts provided. It looks like most of the content is related to changhua technology's financial reports for the fourth quarter of 2024, including revenues, gross margins, product portfolio changes, etc. But the middle contains some seemingly unrelated sentences, such as "word lyrics Li Zongsheng", "GF resignation", "Covid Yes", etc. These may be errors or noise during the finishing process.
+
+At the same time, it is important to note that some sentences may be duplicated or inconsistent in format, such as "Words Li Zongsheng" appearing multiple times and may need to remain as they are. During the processing process, I will encounter some challenges, such as how to deal with those clearly unrelated sentences, such as "GF resignation", "Covid Yes", etc. According to the requirements of the user, these content must be retained, so I need to keep them in their original position even if they look unrelated to the context. This may affect the consistency of the paragraph, but the user explicitly requests not to delete anything, so I must comply with it.
+
+In addition, it is important to pay attention to whether the format of the timestamp is correct, such as when some timestamps may end up overlap or interval at the next start time, but users do not require adjustment of the timestamp, so it is only necessary to keep it as it should. At the same time, make sure that each sentence starts and ends correctly and avoids confusion. When organizing a paragraph, I try to group relevant financial data and analyze information such as revenue, gross profit margin, product portfolio changes, etc. to improve readability.
+
+At the same time, make sure that the format meets the user's requirements without using any Markdown, keeping the text plain. If there are any questions or uncertain places, I will re-enter the original data provided to the user to ensure the accuracy of the conversion.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng. Lyrics Lee Tsong-Sheng.
+
+The song Lee Chung-Sheng. The song Lee Chung-Sheng. The song Lee Chung-Sheng.
+
+## Q4 2024 Financial Statements will be in alphabetical order. ** Host:** This is a significant increase to 47%. This is also the main reason why the entire long song was fully loaded in Q4 2024. The main reason for the decline in gross profit margin. That's the main reason, but I still want to emphasize.
+
+At least. Our quarterly single-season revenue for the fourth quarter of 2024 was 1% higher than the third quarter. So, the whole consumer comes up. It affects gross profit margins, but our absolute revenue is still growing.
+
+That was the year 2024. A change in the entire Pi chart was made in 2024. It was also very obvious. The whole consumer reached 46%. It was the part of the regulation that followed the public rule. It was the part of the regulation that followed the public rule.
+
+We have been in the past, we have always emphasized our hope. We hope to make a comparison. A stable layout. We hope.
+
+Consumers and non-consumers. Consumers can make up half of all of them. That is, in fact, the absolute amount of consumer is higher than that of 2023.
+
+It's a two-in-one growth. It's a two-in-one growth. It's the norm. It's actually around one percent less than in 2023. It's about one percent less than in 2023.
+
+If we are to be a part of God's kingdom, then we are to be a part of God's kingdom, and to be a part of God's kingdom, and to be a part of God's kingdom, we are to be a part of God's kingdom.
+
+We are in. a cash with capital in the fourth quarter. financial assets here. there are some decreases that are mainly because we have some. there are also some short-term borrowings.
+
+There are also some short-term borrowings. So let's have some reductions in cash and financial assets. There is nothing to do with operation because we have a short-term borrowing. One change. One change. The other.
+
+The sum of assets is one. The part of the shareholders' equity is that. In our non-traditional financial assets. This factor is a measure of public value. So let the entire asset.
+
+There are some decreases in the total assets against our shareholders' equity. Some of them are due to us. In one of the assessments of a public value of a financial asset that is not liquid, that I have just mentioned in the liquidity debt section because of us. There are also some.
+
+Short-term debt. That is. Current liabilities so current liabilities are reduced. The last part of the cash flow is the entire operating activity. The cash flow here is the increase, of course, because we. Fourth quarter.
+
+One of our 4th quarters of the tax money is the one that adds to that and there are some other seasonal ones. Taxes are relatively small. There are a few of us. There are some inflows in the cash flow of the operating activities here are probably more than 300 million. More than 300 million. That in the end we are free cash flow is maintained at a certain level at least we are still more than the 3rd quarter.
+
+There is an increase of about 3 billion. Free cash flow. That's probably what we ended up with at the end. Yes. Income Statement also has a cash flow and a balance sheet. A brief explanation.
+
+That last one we offer each quarter. A quarter of a Guidance. That's what we can now see from the customer's situation with the industry. The situation looks at. At an average exchange rate of 32.5. A hypothetical basis for $1.
+
+We expect that the revenue for the first quarter of 2025 will be based on a hypothetical basis of 28.5%. This is likely between 29.8% and 30.6%.
+
+29.7 billion. Our Q2Q for the first quarter of 2025. It will drop about 6%.
+
+It is expected to increase from 8 to 9%. 8 to 9%. I still emphasize that this forecast has a digital outlook with its risk. So this is for your reference only.
+
+That's us today. Ask one of us. Tech Director to tell us about the latest development of Changke in this part of the mini LED. There's also an evolution of technology. That's what I did. Microphone with time gave us one.
+
+I am a technical advisor to Changhua. Next, I will explain to you. Changhua Technology is the guide of the mini LED. A development process.
+
+That's what I'd like to start with. Car backlighting. The growth momentum of this LED comes in this way. That's what we can see first. Expect the whole 2025. The car market still presents a growing trend.
+
+Electric and intelligent is one of the current applications of the whole car. Development focus. Of course, the car brand this section of the movement. Then the new energy vehicle with the traditional oil car.
+
+These struggles between them. It is still very glued in the development. But we can see that from. backlight LEDs. The amount of growth will be. The world's vehicles go.
+
+The first large-scale trend has evolved. You should all know this now. Whether it's a new energy vehicle or a new generation of intelligent cars. Using the LCD screen can be three times more energy in the past.
+
+Compare high-end models they drive from. Entertainment rear-end entertainment. Entertainment. Historically. Three times as many cars as possible. So even if the number of cars does not grow.
+
+Usage frequency. After the system. It is actually a very large one. The second big product. In the past we might have been 12" 15" in general. But now 30".
+
+Through the screen or even larger size. ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** *** *** *** *** *** *** *** *** *** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+
+This penetration screen from 5 plus 1 to a negative frame is now a trend behind this design. This also means that when the screen size used is increased, the number of cars used by LEDs also increases. [1048. 26-1059. 54] Another trend to pursue a better display effect, UVLED penetration with this multi-screen large screen is introduced one by one. This growth rate is more traditional this LED may be a growth of nearly 10 times the number of times. [1059. 54-1083. 10] So we can expect this usage of LEDs in the future or a huge growth trend.
+
+[1083. 10-1090. 52] From the point of view of the car, Changhua Technology has been a professional manufacturer of wire rods. In response to the introduction of some new types of design, we have many different product structures. [1090. 52-1103. 82] The product design contains a more efficient Freeshift solution or this vertical structure of the vertical heat conduction.
+
+[1124. 56-1143. 50] Another important factor is the fact that there are new products in the mini. Next, I would like to share with you the 2525 product that we have introduced in 2025, a brand new flat heat dissipation stand that uses Changhua's high conductivity. [1143. 50-1160. 20] This new product is expected to be officially announced this year, and we will talk about the application of this vehicle as well as consumer-related applications. One of the key features of this product is the construction of Changhua's high conductivity metal heat dissipation stand. [1160. 20-1188. 66] There is a special optical design for different chip fluorptions to meet a simple structural design and production yield.
+
+[1188. 66-1214. 26] So this product is our integration of all the resources in the past two years, we will start to work with our sales peers this year began to do a promotional action for the backlighting panel or even for the wrist and mid-end customers. [1214. 26-1236. 06] I briefly explained that he had some of the things he designed in the past that were a lot of things. What he launched was a moment of experience with this iPad Pro, but a lot of the things that started to come up with some so-called miniLED will have some glare problems in the side view. [1236. 06-1258. 14] I use a few simple diagrams to report with you, this is a traditional miniLED structure. In general, they may use a chip on board or pager on board such a structure. [1258] They will use a simple process of a backlighting module in order to enable a single optical optical elements that each partition that each segment to enable a single optical layer of a uniformly to achieve a uniformly to achieve a uniformly a uniformity effect. [1266].
+
+[1286. 60-1295. 82] This is the structural diagram of how we can do with our 2525 products. First, we did it with this optical design, so we were able to meet a dimension using only one LED design. [1295. 82-1325. 82] Through this optical design structure, we made some light in this dimension in uniform distribution, so we don't need to use multiple stacks to achieve the effect of uniformity. This luminous leaking part of the side can also be effectively controlled. [1325. 82-1261. 70] You can see this view, so our products can not only help maintain the same performance and reduce costs, but even bring better high dynamic contrasts. [1361. 70-1308. 18] And I want to report with you that we are in the whole NCSP back-up layout we have just mentioned that we can expect to have a much growth in the automotive market.
+
+[1380. 18-1393. 24] That's why our products were first first introduced in 2025, the application of this mini-LED product in this car, in addition to the same structure in the car, we also actively began to consumer TV or monitor esports applications. [1393. 24-1401. 48] We expect that in addition to the automotive market can be fermented, this optical design can also synchronize a certain outlook in the consumer market.
+
+[1426. 56-1442. 22] This is a brief introduction of the development trend and product design of changhua technology in mini-LED.
+
+In 2025, the overall planning of a new product and a layout of the product, which we look forward to following, as this time this stack, a product of a stack, this, the subsequent demand will, showing a gradual growth, a trend.

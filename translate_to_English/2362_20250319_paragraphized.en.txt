@@ -1,0 +1,293 @@
+<think> Ok, now I need to process the verbatim of the user and organize it into paragraph verbatim. First of all, I want to read the user's requirements carefully to ensure a complete understanding of the task. The user emphasizes that the original text cannot be deleted, rewritten or condensed in any sentence, so it is necessary to maintain the integrity of the original word.
+
+First of all, I will check the transcription fragments provided and notice that each entry has timestamps and content. My task is to reorganize the sentences arranged in chronological order into consecutive paragraphs while maintaining the original sequence and content of each sentence. Special attention is needed to maintain the continuity of the timestamps to ensure that the transition between paragraphs is natural, but without changing the original intention. Next, I will analyze the sentences in a sentence to see which sentences can be combined into paragraphs. For example, there are a few sentences in the beginning that are about the presentation process, which can be combined into a paragraph.
+
+When dealing with financial data, it is important to pay attention to the accuracy of the numbers and percentages to make sure that they are not confused when reorganizing paragraphs. For example, financial data for the fourth quarter and full year needs to be separated, but each data point should maintain the structure of the original sentence. At the same time, pay attention to the consistency of the timestamp to ensure that the timing order in the paragraphs is correct.
+
+For example, some sentences may have a jump in timestamp, but it is necessary to keep everything, including possible spelling or duplication. During the processing process, I also need to pay attention to the correct use of punctuation and formatting to ensure that the separation between paragraphs is clear. For example, each paragraph may start with a timestamp, but the user may wish to remove the timestamp and only retain the content. However, according to the example provided by the user, they seem to want to keep the timestamp, so it is necessary to confirm this.
+
+At the same time, ensure logical coherence between paragraphs, without changing the original intention. If there is uncertainty, it may be necessary to re-arrange the original transcription to ensure that each sentence is placed correctly. In summary, the process requires careful procedural processing, keeping the original and structure intact, and integrating fragmented sentences into a smooth paragraph while adhering to the requirements of the user without any deletion or rewriting.
+
+If you are looking for something to do after the conference, we are here to end the video and make the entire presentation process a complete end-to-end QA. Well, thank you, and welcome to the QA. I am Jane, the finance department of Blue Sky. I am here today to explain to you that we have the entire year of 2024 in the fourth quarter of last year. The main simple thing today is that I will be divided into eight parts to explain, which is to include a brief introduction from our company, and a brief introduction to our three major businesses, and finally, our investment case, Taipei Twin Capital and Datong and our future products.
+
+In addition to the business of laptops, we have more than 40 years so far, and the net worth of our board club mall is in China. In addition to the business of laptops, we are also the first big share in the IT mall, which has accumulated a total of 56 million, and the total value of the real estate market is about 13.25 billion. Here, we can tell you, we are the main business group, we can see in front of two, we own 100% of the NB business group and the White House business group, which is our main revenue source, then the main business group is our business.
+
+This year, we will see the revenue of our business gross profit is 52.73 billion yuan, the annual revenue is 8 percent, the annual revenue is 21.3 billion yuan, the annual revenue is 8 percent, the annual revenue is 21.3 billion yuan, the annual revenue is 26 percent, the external expenditure is 26 percent, this composition is here, we will do a further description, that year, the year after the net profit is 17.68 billion yuan, the annual growth is 67 percent, the net interest rate is 7 percent, compared to last year, compared to the year of last year's growth is 33%, tax is 3.02 billion yuan. Next, we can look at this year's revenue, this year's revenue is 88 billion yuan, the next year's revenue is 88 billion yuan, the next year, the next year of our revenue is 88 billion yuan, the next year, the next year of the year of the year of the year of the year of our revenue is more than the year of the year of the year of the year of our revenue is 38. This is the third part of our business economy, where the blue part is also the laptop test group, we can see that this is the second part of this year, we can see that the whole laptop OP is a gradual increase in the proportion, then we look at this year's year-round, this first quarter is relatively suitable, then we can see that from the third quarter of the second quarter, are showing the growth of the main season, but also exceeded 300 million yuan, then the third quarter will be relatively suitable, the third quarter is also a little lower, because the third season is mainly because of the four-farm summer vacation, and the local government introduced some policies to promote consumption, so we also increase our marketing costs, so in this part of the third quarter will be a slight decrease, but in fact, in the whole year, we see that the white meeting of OP is relatively stable, the whole year, the proportion to 11.72 billion yuan, the year will be a 30%, and the white white will be more.
+
+The following is a re-routing paragraph transcript:. We see that the total interest expenditure for this year is $59.8 billion. Compared to the same period last year, there was not much increase, almost flat state. This year, we have $7.8 billion in investment interest, because the overall benefit of 5 losses, so we have $7.8 billion.
+
+Compared to last year, there is also a good performance. Then let's look at the situation than TV. Compared to TV, mainly focus on our white label market. White label market is our specialty. The main advantage is that our products are highly customized.
+
+The main customer base is the regional currency. At present, we have more than 100 logo customer base. That is, we are mainly divided into four series. It is divided into eSports entertainment and commercial and general applications.
+
+Let's take a look at the percentage of our 2024 consoles. Gaming entertainment may be up to 65%. One of the three is from 35%. Next, let's introduce the pie chart of our 2024 full year shipping. The main shipping is from 35%, which is Europe, Japan, Korea, Asia Pacific and the Americas.
+
+As we can see from 2023 to 2024, the total shipments of 2024 will reach 18.9.6 million units. Compared to 13% of last year's growth. But the structure of this whole pie chart does not change much. In fact, we can see that all regions are growing. The main growth is from Europe.
+
+The Asia-Pacific region is about 16%. For the Americas, our main customer base comes from Central and South America. So it is relatively small. But in fact, we can see that compared to last year, it actually grew by about 50%. So let's take a look at our laptop revenue.
+
+Here we see that we have a basic goal of revenue of five billion dollars. We look at these two years. In 2023, the first quarter was a relatively suitable period. So we see that in the first quarter of two years, we have achieved a little bit. But after the second quarter, we are basically overachievers and grow every quarter.
+
+By the fourth quarter of that year, we were able to see an average of 65.3 billion. This is the average of 3 years, compared to our business interests. In fact, we have been pursuing a balance between the rising proportion of laptops in the South China Sea and the shipping of laptops.
+
+So let's take a look at two parts of this figure first. This is part of the year 2023 year-round share of the South China Sea weight is 60.7%. It is a year-round share of its business profit is 900 million yuan. Last year we adjusted the market value of the whole shipment to the South China Sea weight.
+
+Then we look at the change in our share of the South China Sea each quarter. Take a look at our share of the South China Sea in 2024. Also, we mentioned that the first quarter is relatively suitable. So at this time, we were adjusting the share of the South China Sea in the second quarter. At this time, our business benefit has surpassed our target line, which is a target line of $300 million in the third quarter.
+
+By the fourth quarter, we reached $3.56 billion, which is near a new high in the 11th quarter. Well, that's what we're going to see next. Now, it's part of our Broadway. The Broadway part, mainly when we were in 1998, entered the first Broadway in Shanghai, China. Until 2025, there are now 18 ID malls and 10 rental properties. That's what we've been doing in the last 13 years.
+
+Here we can see that there are 4S and this 14S. Here is a little explanation. This so-called 4S, is a slightly lower operating efficiency. It is expected to be the performance of 4S, which is the part that will be actively doing the market culture in the future. 14S is the remaining 14 stores, the current operating skills are better, planning for sustainable development.
+
+Let's take a look at these 14 stores, which have been around for almost 3 years. First, let's take a look at this net interest rate. In 2024, we're constantly adjusting our fees and then throttling them. So we see that in general, the overall net interest rate is 41%. In fact, it's better than last year. The DPS that these 14 stores can contribute to is $1.38.
+
+Now there are mainly 4 department stores, and there is an international high-end hotel. If these total properties 40 add up, it can be free 1 million pieces, about 2.6 billion. The overall area is 668308 square meters. Here we take a look, there are Wuhan stores and Chengdu stores, as well as Xi'an stores and good and evil stores.
+
+We look at the opening of the Wuhan store in 2003, the opening of the hall in 2003, and the opening of the second hall in 2018. The opening of the talk mall in Chengdu store in 2010, the hotel opened in 2016. These two main stores, in fact, in 2024, the revenue of the hall about RMB 400 million. The opening of the Xi'an store in 2017, after the overall evaluation in 2019, we have closed the store, instead of the sale.
+
+Now, we have to look at the overall revenue of Gwangju Department Store. As you can see here, we have drawn a billion billion dollars here, which is the target line of performance. In 2021 and nearly five years in 2023, the two years are soaring. However, the mid-market consumer market in China at present is not a significant negative figure. So in fact, our overall performance in 2024 is a slight recession compared to 2023, probably maintaining a percentage of nearly 90%.
+
+We see this. This orange line is a curved chart of the operating profit rate in the past five years. We can see that it is true. In addition to the two years, it has been relatively high. In fact, in 2024, the 5. 63 is still on the average of the whole.
+
+We are still on the overall average of the 5.63 in 2024. What is the net interest rate part? What is the net interest rate part? We have come to 1.27 this year. It is actually based on the performance of the net interest rate. Because we are going to exclude the impact we have on the whole of the factors this year.
+
+This year we have eliminated all the factors we have to deal with. That is, it is better to look at the net interest rate than the trend. That is, it is better to look at the net interest rate than the trend. We are going to change it from one point of view.
+
+The two most important pillars of operation are the five rings and the Chengdu. We can see the actual revenue. The blue is the five rings. The orange is the Chengdu electric.
+
+This is because the whole consumer market is just mentioned. It is said that there is a slight impact on the consumer market, or there is a slight impact on it, so here I am, and there is a slight recession.
+
+That's the same. We can look at the portion of the profit margin just mentioned. That's the OP's word. The five rings are basically a little lower this year, but it's still at a certain level.
+
+It is better to be a little lower than a little lower. It is a little lower than the previous year's performance. Even when compared to the previous 2022 and 2021, it is a state of balance.
+
+The performance of Chengdu Electric is even better. It's already reached 6.59. It's also better than last year. The five rings are basically flat compared to last year. So the entire Gwangju Department Store operation.
+
+Then we have to keep it. We have the structure of the whole profit. That is until the future. The results follow the growth of revenue. This profit will continue to increase. It can inhibit the profit of our entire group.
+
+The most important asset is the commercial real estate we have. Here is a simple explanation for what we are talking about right now. We have a factory in a business property. Along with a laptop factory in Kunshan.
+
+With an 18 ID shopping mall. That property for rent. We have 10 properties for rent. There are currently two online BOCs and one for rent. Gwangju Department Store just mentioned. Currently there are two department stores with a military hotel.
+
+A business. We have a total of 37 properties in total. The current market value is 1325 billion. Next, we will introduce you. Taipei District. Our investment case.
+
+This is the first time we have seen this, we have seen this, we expect the future to be covered, this is the C1, this is the D1, then the C1 talk plan is 53 meat.
+
+D1 is a plan of 70 meats. Below there is an island like that. That's what we're seeing now. Here's what we're seeing in progress. It's still just a stumbling block now. We can see what we're seeing in progress.
+
+It's probably covered here. That's another point of view. Photos. A brief introduction to our Taipei twinxing part. Taipei twinxing we were in. In 2019, we got the form.
+
+At the end of 2019, we signed a contract with the Taipei City Government. The building was built in 2022 and then on November 11 of the same year.
+
+The groundbreaking ceremony took place in 2023. It was different with the height of the two skyscrapers. It was actually. Their completion date wasn't the same. The C1 word was shorter.
+
+D1 is 1718 days. It is the expected completion date of the whole project. It will fall in 2027. It is the development case. We can look at it.
+
+The total area will be about 4,000 square meters. That is the development. It includes the mall office building. The hotel also includes the top. The observation deck. View restaurant.
+
+This case is more special. This is different from the general BOD case. This is where we can split the title. We can look here. Investors can divide the value of the title.
+
+In C1, 37% of D1 is 50%. The actual interest is 50%. The distribution of that interest is still after completion. The overall distribution is subject to the overall planning. The investment amount of the whole case is NT$606 billion.
+
+This includes five stable parts for $148.89 billion. Then look at our future prospects. Here we can see. Here we see there is a profit engine. These three languages. The first.
+
+"This is our Lord, the Most High, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful.
+
+In addition, we are the No. 1 in the Cologne market. That's exactly what it's all about right now. The investment in the whole case is NT$30 billion. Then look at our future prospects. Here we can see. There's a profit engine here.
+
+"This is our third book," he said, "and this is our first book.
+
+That's what it's all about. That's what it's all about. Plus, we're the No. 1 in the Cologne market. That's what we're waiting for right now, the investment in this case is worth NT$30 billion. Let's take a look at our future prospects.
+
+There is a profit engine here. First, this is our laptop business group. This is our main source of revenue. Now, this is the whole AIPC topic.
+
+"This is the way of the righteous, and this is the way of the wicked, and this is the way of the wicked, and this is the way of the righteous, and this is the way of the righteous, and this is the way of the wicked.
+
+"This is our Lord, the Most High, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful.
+
+Then look at our future prospects. Here we see a profit engine. Here we have a profit engine. The first one is our laptop business group. This is our main revenue source.
+
+This is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God.
+
+There is a profit engine here. First, this is our laptop business group. This is our main source of revenue. Now, this is the whole AIPC topic.
+
+"This is the way of the righteous, and this is the way of the wicked, and this is the way of the wicked, and this is the way of the righteous, and this is the way of the righteous, and this is the way of the wicked.
+
+"This is our Lord, the Most High, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful.
+
+Then look at our future prospects. Here we see a profit engine. Here we have a profit engine. The first one is our laptop business group. This is our main revenue source.
+
+This is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God.
+
+There is a profit engine here. First, this is our laptop business group. This is our main source of revenue. Now, this is the whole AIPC topic.
+
+"This is the way of the righteous, and this is the way of the wicked, and this is the way of the wicked, and this is the way of the righteous, and this is the way of the righteous, and this is the way of the wicked.
+
+"This is our Lord, the Most High, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful.
+
+Then look at our future prospects. Here we see a profit engine. Here we have a profit engine. The first one is our laptop business group. This is our main revenue source.
+
+This is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God.
+
+There is a profit engine here. First, this is our laptop business group. This is our main source of revenue. Now, this is the whole AIPC topic.
+
+"This is the way of the righteous, and this is the way of the wicked, and this is the way of the wicked, and this is the way of the righteous, and this is the way of the righteous, and this is the way of the wicked.
+
+"This is our Lord, the Most High, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful.
+
+Then look at our future prospects. Here we see a profit engine. Here we have a profit engine. The first one is our laptop business group. This is our main revenue source.
+
+This is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God.
+
+There is a profit engine here. First, this is our laptop business group. This is our main source of revenue. Now, this is the whole AIPC topic.
+
+"This is the way of the righteous, and this is the way of the wicked, and this is the way of the wicked, and this is the way of the righteous, and this is the way of the righteous, and this is the way of the wicked.
+
+"This is our Lord, the Most High, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful, the Most Merciful.
+
+Then look at our future prospects. Here we see a profit engine. Here we have a profit engine. The first one is our laptop business group. This is our main revenue source.
+
+This is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God, and this is the word of God.
+
+There is a profit engine here. First, this is our laptop business group. This is our main source of revenue. Now, this is the whole AIPC topic.
+
+"This is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, and this is the truth, this is the truth, this is the truth, and this is the truth, this is the truth, and this is the truth.
+
+This is one of our greatest blessings, and this is one of our greatest blessings, and this is one of God's blessings.
+
+Then we will look at our vision, and we will see that there is a profit engine here. First, this is our laptop business group. This is our main revenue source.
+
+This is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God, and this is what we have seen.
+
+There is a profit engine here. First, this is our laptop business group. This is our main source of revenue. Now, this is the whole AIPC topic.
+
+"This is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, this is the truth, and this is the truth, this is the truth, this is the truth, and this is the truth, this is the truth, and this is the truth.
+
+This is our greatest gift to you, and this is our greatest gift to you, and this is our greatest gift to you.
+
+Then look at our vision and see what we have in store for you, and we will see what you have in store for us, and we will see what you have in store for us.
+
+This is the word of God, and this is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God; this is the word of God.
+
+"This is our first book, and this is our last one," he said, "and this is our last one.
+
+We have seen our Lord, and we have seen His glory; we have seen His glory, and we have seen His glory; we have seen His glory; we have seen His glory; we have seen His glory; we have seen His glory; we have seen His glory; we have seen His glory; we have believed, we have believed, we have believed, we have believed, we have believed, we have believed, we have believed, we have believed.
+
+This is the story of the resurrection of the just, and of the just, and of the unjust, and of the unjust, and of the unjust, and of the unjust, and of the unjust, and of the unjust, and of the unjust, and of the unjust, and of the unjust, and of the unjust, and of the unjust, and of the unjust, and of the unjust.
+
+We have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it."
+
+We have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it."
+
+We have seen it, we have seen it, we have seen it, we have seen it, we have seen it, we have seen it."
+
+We see it, we see it, we see it, we see it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+We have seen it, we have seen it, we have seen it.
+
+And we saw it.
+
+After fermentation of AIP electricity issue. After fermentation of AIP electricity issue. This part of our profit will be more stable and more and more stable.
+
+It is our duty to do this, and to do this, and to do this, and to do so, and to do so, and to do so, and to do so, and to do so; and to do so, and to do so, and to do so, and to do so, and to do so, and to do so, and to do so, and to do so, and to do so;
+
+After the recovery of the consumer market. The structure of the profit here is also going to be better. The next triangle is our present. The whole of the future includes the future. We are the whole of the group.
+
+The introduction of the main profit. It is in addition to these three most basic profit structures. The future with us. The burning of our assets. The inflow of cash.
+
+That is in addition to our equity. We can also do other uses like this. That is, the overall EPS in 2024. $3.02. That is until the future.
+
+After this is done, this is us. The future of the whole group. Another potential value. Then we can see that. Now our US gold value is 76.09. That's until this basic.
+
+The three profits have been added. The potential value of this future is added after. In the whole of our. The equity in the shares and the US gold value we believe we can go up again. See EPS. That's what I'm reporting today.
