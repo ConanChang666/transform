@@ -5,14 +5,14 @@
 
 import os, re, time, warnings
 from pathlib import Path
-from transformers import pipeline, AutoTokenizer
+from transformers import pipeline, AutoTokenizer # type: ignore
 
 # --- 靜音 HuggingFace 的 max_length 類警告（僅訊息，不影響結果） ---
 warnings.filterwarnings("ignore", message=".*max_length.*")
 
 # --- 進度列（可選） ---
 try:
-    from tqdm import tqdm     # pip install tqdm
+    from tqdm import tqdm     # type: ignore
 except Exception:
     tqdm = None
 
@@ -35,11 +35,11 @@ DEVICE = 0 if os.environ.get("CUDA_VISIBLE_DEVICES") else -1
 # ====== OpenCC ======
 def _get_opencc():
     try:
-        from opencc import OpenCC
+        from opencc import OpenCC # type: ignore
         _ = OpenCC("s2t.json")
         return OpenCC
     except Exception:
-        from opencc import OpenCC
+        from opencc import OpenCC # type: ignore
         return OpenCC
 OpenCC = _get_opencc()
 _conv_s2t = OpenCC("s2t"); _conv_t2s = OpenCC("t2s")

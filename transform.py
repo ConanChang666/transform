@@ -15,7 +15,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 try:
-    from groq import Groq
+    from groq import Groq # type: ignore
     USE_SDK = True
 except Exception:
     import requests
