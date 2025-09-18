@@ -1,0 +1,133 @@
+<think> OK, users need to sort out the verbatim text as paragraphs and not delete anything. First, I need to carefully check the content provided for each timestamp to make sure there is no omission. Then, to analyze the logical relationship between these sentences and see how to make a reasonable segmentation. For example, the introduction of the colleagues should be coherent, followed by an overview of the company, and then the discussion of financial data.
+
+In addition, some sentences may need to be adjusted in order due to bad or repeated, but the user emphasizes that they cannot be rewritten or deleted, so they can only be ordered in the original order. At the same time, pay attention to the accuracy of the numbers and units, such as "NT$324 billion" is correct. Finally, make sure that the transition between paragraphs is natural and consistent with the smoothness of spoken expression. If there are uncertain places in the process, further confirmation may be required, but according to the existing information, it is best to follow the rules. </think>
+
+(21. 00-22. 00) Hello everyone. (22. 00-26. 00) Before I have yet to officially report to you. (26. 00-29. 00) I would like to introduce a colleague who is with me first. (30. 00-33. 00) This is the Director of Accounting of South Asia Company. (33. 00-35. 00) So Kai Yuen Su. (35. 00-38. 00) We are also the Head of Accounting of the Company.
+
+(39. 00-42. 00) There will be some information about IR in the future. (42. 00-44. 00) If you can't find me, (44. 00-47. 00) or if it is convenient. (47. 00-50. 00) You can also contact him further. (50. 00-52. 00) Waiting. (52. 00-54. 00)
+
+(54. 00-56. 00) You can exchange a video with him. (56. 00-59. 00) Let's get in touch. (61. 00-64. 00) Next, we'll focus on today. (65. 00-67. 00) South Asia's operational overview. (67. 00-71. 00) Make a brief statement with you. (75. 00-78. 00) This page is one of us.
+
+(78. 00-83. 00) A description of the probability that the market value of the baby and the total layout of the baby will be in full swing. (85. 00-87. 00) This year in August. (87. 00-90. 00) The market value of the South Asia company is likely to be. (90. 00-94. 00) NT$324 billion. (94. 00-99. 00) This is likely to be converted into 41 pieces per share. (99. 00-102. 00)
+
+(103. 00-106. 00) South Asia stock slightly increased slightly. (106. 00-108. 00) So the market value of the stock has increased a little more. (108. 00-110. 00) For reference. (110. 00-112. 00) In 2024. (112. 00-115. 00) excluding the trading part of South Asia Technology. (115. 00-120. 00) Last year we were $259 billion.
+
+(120. 00-124. 00) In our main four product categories. (124. 00-127. 00) The largest proportion is electronic materials. (127. 00-129. 00) accounts for 42%. (129. 00-133. 00) followed by 23% of chemical products. (133. 00-136. 00) Next is 19% of sawing products. (136. 00-139. 00) and 15% of plastic processing.
+
+(139. 00-143. 00) The share of revenue from these four products basically. (143. 00-146. 00) In the short term, I think it should be about that. (146. 00-150. 00) The ratio of this size. (151. 00-153. 00) In terms of global layout. (153. 00-157. 00) Of course we now have the main production base in Taiwan. (157. 00-160. 00) In Taiwan, we have 59 production sites.
+
+(160. 00-163. 00) In China, we are also one. (163. 00-165. 00) An important production area. (165. 00-168. 00) There are currently 34 production sites. (168. 00-172. 00) In the United States, we also have 8 production sites. (172. 00-176. 00) There are a total of 101 production sites. (176. 00-181. 00) There are about 29000 employees.
+
+(185. 00-189. 00) In our current major four major products. (189. 00-195. 00) ranks our production capacity by the end of 2024. (196. 00-200. 00) We are the world's largest plastic secondary processing plant. (200. 00-203. 00) In terms of electronic materials. (203. 00-209. 00) has three copper foils, CCLs, and electronic fibers. (209. 00-214. 00) Our production capacity is second in the world.
+
+(214. 00-219. 00) In addition, in the epoxy resin, fiber-repellent parts. (219. 00-222. 00) Our global capacity ranking is third. (222. 00-228. 00) The makeup part includes PA, BPA, EG. (228. 00-231. 00) Our global capacity ranking is fourth. (231. 00-235. 00) Other products are constantly on the back. (235. 00-238. 00)
+
+(238. 00-245. 00) This is our South Asian company's history. (245. 00-247. 00) has been introduced in the past. (247. 00-250. 00) is no longer described here. (252. 00-257. 00) In 2024, our revenue is in the share of our revenue. (258. 00-260. 00) This page is mainly to let you know. (260. 00-262. 00) in our four product categories.
+
+(262. 00-266. 00) Some of the products currently covered. (266. 00-272. 00) and in Taiwan, China, the United States, etc. (272. 00-275. 00) are currently the proportion of revenue. (275. 00-278. 00) We can see that in plastic processing and chemical products. (278. 00-285. 00) the main revenue on the left is mainly in Taiwan. (285. 00-288. 00)
+
+(288. 00-292. 00) The electronic material is currently based in mainland China. (292. 00-295. 00) The revenue ratio is relatively higher. (295. 00-299. 00) The revenue ratio is approximately six-quarter. (299. 00-305. 00) The main revenue of saw products is from the United States. (305. 00-307. 00) followed by Taiwan. (311. 00-315. 00) We look at our consolidated revenue.
+
+(315. 00-319. 00) The first half of 2025 consolidated revenue. (319. 00-324. 00) was a slight increase of $6.3 billion compared to 2024. (324. 00-328. 00) was mainly in terms of electronic materials. (328. 00-333. 00) benefited from some investments in the AI industry. (333. 00-338. 00) was also in terms of communications and automotive demand. (338. 00-343. 00) So overall electronic material acquisitions had some growth in 2024.
+
+(343. 00-348. 00) Together with us in Texas, USA. (348. 00-352. 00) There is that instrumental ethylene glycol product. (352. 00-354. 00) There are also Mailiao in Taiwan. (354. 00-360. 00) Our instrumental ethylene glycol production capacity utilization in both regions. (360. 00-366. 00) There was a relatively significant growth in 2023 compared to that of 2024. (366. 00-368. 00) Total revenue.
+
+(368. 00-375. 00) Our first half of 2025 was an increase compared to last year's 2024. (375. 00-382. 00) As for QOQ comparisons for the first half of this year. (382. 00-387. 00) The consolidated revenue for the second quarter was $657 billion. (387. 00-392. 00) was equivalent to the first quarter of $65 billion.
+
+(398. 00-403. 00) Our negotiations with the U.S. on the equivalent tariffs. (403. 00-407. 00) has not yet been fully determined. (407. 00-411. 00) coupled with some turmoil in the Middle East. (412. 00-415. 00) also includes oil prices and some fluctuations in shipping costs. (415. 00-418. 00) New Taiwan Dollar exchange rates and so on. (418. 00-421. 00) has caused our entire business activities.
+
+(421. 00-423. 00) was a serious interference. (423.1 00-429. 00) was added to the second quarter because there was no Chinese New Year holiday. (429. 00-431. 00) worked more days. (431. 00-434. 00) added to these factors. (434. 00-438. 00) resulted in our consolidated revenue for the second quarter as a whole. (438. 00-442. 00) was only slightly better than the first quarter.
+
+(446. 00-450. 00) As for the part that went before tax. (450. 00-452. 00) The first half of this year's tax experience. (452.1 00-457. 00) is much less than the first half of the year. (457. 00-459. 00) is actually the part of the industry. (459. 00-462. 00) Our operating profit is greater than the same period last year. (462. 00-466. 00)
+
+(466. 00-468. 00) But in other cases. (468. 00-470. 00) includes an equity version of the investment. (470. 00-474. 00) also has a foreign currency exchange water. (474. 00-476. 00) is relatively disadvantageous. (476. 00-478. 00) invests in the equity version of the investment. (478. 00-480. 00) includes Taizuo Petrochemical, Mailiu Electric.
+
+(480. 00-482. 00) There is also South Asia technology. (482. 00-486. 00) Our tax experience. (486. 00-488. 00) has affected the estimate. (488. 00-490. 00) is 26.80 billion, respectively. (490. 00-494. 00) 13.40 billion is 11.80 billion. (494. 00-497. 00) is in May.
+
+(497. 00-500. 00) Due to the rapid increase in the value of the Taiwan Dollar. (500. 00-503. 00) resulted in our second quarter of the exchange margin. (503. 00-506. 00) compared to the first half of the year. (506. 00-509. 00) was a negative 3 billion dollar. (509. 00-511. 00) So the two were added. (511. 00-51. 00) resulted in our pre-tax experience.
+
+(513. 00-515. 00) In the first half of this year. (515. 00-518. 00) was a loss. (518. 00-521. 00) was experienced prior to tax in the second quarter. (521. 00-524. 00) compared to the previous tax in the first quarter. (524. 00-526. 00) was similar. (526. 00-529. 00) saw an increase in the operating profit of the industry.
+
+(529. 00-531. 00) increased by 12.6 billion yuan. (531. 00-533. 00), but invested in the equity version. (533. 00-536. 00) included Taiwanese petrochemicals, South Asia technology. (536. 00-539. 00) decreased by 259 billion yuan. (539. 00-541. 00) and 6.3 billion yuan. (541. 00-543. 00) also had foreign currency exchange benefits.
+
+(543. 00-545. 00) Negative of 27.6 billion yuan. (545. 00-548. 00) also resulted in our second quarter. (548. 00-551. 00) is also in a loss situation. (559. 00-551. 00) Bad. (569. 00-571. 00) In the EPS section. (571. 00-574. 00) Our first half of EPS this year.
+
+(574. 00-578. 00) The part after the tax is 0. 46%. (578. 00-581. 00) The loss is 0. 46%. (581. 00-584. 00) Compared to the first half of the year. (584. 00-587. 00) There are adverse 0. 46%. (
+
+The growth of electronic materials is mainly due to several factors. The growth of electronic materials, coupled with the investment-backed circuit boards, the revenue of the AVM boards has also increased, driving the revenue of electronic materials from 42.4% in the first half of this year, to 44.1% in the first half. As for chemical products, mainly the heat storage in the U.S., the capacity utilization has increased considerably, plus we have also managed to expand, in addition to the global market outside of mainland China, the total sales of the whole heat storage compared to the first half of the first half of the year, so the revenue of the whole chemical products has increased from 21% to 23. 2%. In the first half of the business benefits, the share of OPMAR products, in addition to the second quarter of OPMAR products, in addition to the high-level of OPMAR.
+
+In the second quarter, OPMARGENSE has improved more than the loss of the first quarter. In the second quarter, OPMARGENSE will continue to strive to increase the demand of the third quarter, and we will continue to hope that OPMARGENSE will continue to increase the demand of the third quarter, at least less than the previous low-to-low-number OPMARGENSE, plastic processing products you can see we have mentioned in the past, four products in the preparation, relatively stable products, the second quarter OPMARGENSE also has 7.9%, compared to the first quarter. As for other projects, we are probably in the observation stage now, so the whole capital expenditure, relative to the previous years we will slowly decrease, the following situation changes, and then consider whether to add some new investments, this will give you a reference, the above is a simplified one, let you do a simple explanation.
+
+China's anti-internal donation is of course a good thing for us, but in fact, it is another observation, because it is mainly to eliminate the equipment that has been more than 20 years, the relatively small, not the economic scale of those factories, the large factory parts seem not to be particularly violated, because it is actually the factory of the large factory expansion relatively large, so we need to look at how the later part of this part of the effect will be further, so we need to look again.
+
+The electronic material sector is now developing into a comprehensive supplier of products, including copper foil, fiber, and fiberglass. Among them, our products have been equipped with relevant capacity and capacity so that we can better serve our customers. This second quarter of this year, our electronic material sector has seen a 4% increase in turnover, which is much better than in the past. For this performance enhancement, we believe that the main reason for the change in product composition is that we can better meet the needs of our customers.
+
+For example, we have set up a business development team that is responsible for direct contact with mid-market customers, understanding their needs, and co-developing new materials. The purpose of this is to better grasp the market. Now, some electronics manufacturers in China are starting to raise prices, and we are also considering raising prices. However, we are not waiting until they scale, and our price adjustments are based on customer needs and market conditions.
+
+In terms of the capacity utilization of electronic materials, our copper mold products are slightly higher than other types of products, which is due to some customers having a higher dependency on the supply of our products. As a result, we hope to increase the quotation of these customers. However, some competitive products will be priced according to the market conditions.
+
+Finally, when it comes to the third or fourth quarters of electronic materials, we evaluate the trends in market changes and customer relationships.
+
+In the first quarter, the proportion of high-end here is probably different, so let's take a look at it. It's a bad proportion, I don't have this information, does the director have this information here? There may be no way to provide this number in a short period of time. You just mean that CCL will also be a customer with a higher dependence on us, and we'll be a tester to do the price action.
+
+Is this the season or is it July and August? It should be the second season of the increase in the start of the second quarter. Is there any increase that can be considered? The increase is not necessarily because the situation of hundreds of customers is different. So just the same country is also the second season of the start of the increase.
+
+I believe our industry is the same, so they are rising too. Do you think this is a one-off or a follow-up price? It should look like it will last for a while, because the demand for the entire industry is really not high enough to supply some high-end output.
+
+The country currently accounts for nearly 10% of the revenue of our entire electronic material, and the CCL is about 20% or 23%. Hello, you can ask the same country, because GQ has stopped the product line of three standard products, that is, in South Asia, the ratio of the limited standard products and HBLP series is probably? Of course, we currently have a relatively high capacity or standard products, and HBLP is relatively high.
+
+<think> Ok, now I need to deal with the user's script editing task. The user wants to convert a script from a "per sentence" format to a "paraphrased" format, while not deleting, rewriting or condensing anything. First, I want to read the user's snippet carefully, understand the timestamp and content of each sentence, and then segment it according to the context's coherence.
+
+For example, the first paragraph of the raw data discusses the differences in material characteristics, followed by the content about price adjustment, and then the discussion about product line and market strategy, and finally the questions and conclusions about Taiwan's plasticization. I need to make sure that these logical groupings are preserved during the conversion process. Next, I need to make sure that the corresponding sentences for each time period are correctly combined into paragraphs. For example, timestamps from 2776 to 2788 are discussing the differences in material characteristics and should be combined into a paragraph.
+
+At the same time, pay attention to possible time stamp jumps in the middle, such as content from 2830. 00 to 3227. 00, need to check if there are missing or required parts to merge. Special attention should also be paid to the Q&A section in the conversation to ensure that each question and its answers are presented consistently. For example, questions about Japanese peers and Taiwanese plasticization programs should be handled separately as separate paragraphs to maintain the structure of the conversation.
+
+In addition, be aware of logical connections between sentences, such as timestamps that can be duplicated or misplaced, such as content from 2796. 00 to 2800. 00 and later, ensuring that they are grouped correctly. At the same time, the user emphasizes that nothing must be modified, so the original phrase must be preserved by word-by-word, and only the segmentation is adjusted. This means that it is necessary to carefully handle each timestamp and make sure that there are no omissions or errors. For example, there are some jumpy timestamps in the middle, such as from 2830. 00 to 2838. 00, it is necessary to check whether these sentences are of the same topic and appropriate segmentation.
+
+After completing these steps, read through them again to make sure that no sentences are missing and that the original content is intact and accurate. </think> Its material characteristics must be different. But what is the difference? It really goes beyond my current understanding.
+
+Please ask us about our last value class this year. The price adjusted in the first half of the year like CGL. The price has been adjusted for the first half of the year. It is the value with CGL. What else do you say?
+
+Value. It is not intended for use in electronics. There are also. The use of electronics. Because in fact, the main purpose of apoxy is to use in traditional purposes. Some industrial uses.
+
+Paints, building materials, wind power materials are the materials. They account for relatively large proportions. The proportion of electrons is relatively small. Please ask us what is the main reason for adjusting prices with our customers. Compare with customers.
+
+The market supply and demand. Just what I said. If we have to rely on it, of course, we will try to increase his price. Of course, there are also considerations.
+
+The whole market. Competing with the industry. So we are basically following the market. It's not because of the price supply. In fact, it will succeed. There is space.
+
+We don't just follow the market. We also evaluate our own products. We compete in the market. If the customer needs to rely on us. Of course, we try to increase with him.
+
+If he has other sources of supply, that is, everyone may be competing. Auctions. So there may be a whole series. As we have seen, it is quite common.
+
+I haven't heard of a whole series of changes so far. That's exactly what you're talking about.
+
+Unless it is a comprehensive out-of-stock situation. Of course, everyone is. Including the industry will have this increase in action together. Otherwise, the manufacturers are each to evaluate their own market position.
+
+These are now relatively low-level these have increased prices. Their reason is mainly because they don't make money. We also have something like this. Basically, I think every company will have this kind of product.
+
+They said, "There are two main products, because they think this market is not worthy of their relatives, so they are going to quit and we have this kind of product relative to each company. Of course, we do not exclude these products from the industry.
+
+These may compare to lower-level products. Although the contribution to the overall profit is not so great. At least it can increase our productivity utilization. It can reduce our production costs, as well as a few contributions.
+
+There is no Maori. We may consider stopping it. Ask us if we have Japanese counterparts. This is the area of Poki. If we are now able to convert our products to higher-end products, we are not relatively low-end products.
+
+There are those who will listen to you, and those who will not listen to you, and those who will not listen to you, and those who will not listen to you, and those who will not listen to you, and those who will not listen to you, and those who will not listen to you, and those who will not listen to you, and those who will not listen to you, and those who will not listen to you, and those who will not listen to you, and those who do not listen to you will not listen to you.
+
+And he said unto them, Take heed, and beware of covetousness: for a man's heart is deceitful above all things, and his mind is deceitful above all things, and his mouth is deceitful above all things, and his mouth is deceitful above all things, and his mouth is deceitful above all things, and his mouth is deceitful above all things.
+
+That's because America now also wants us. Buy a little more natural gas. That's what I want to say about this part. This is an assessment of the Group Tax of 300,000 tonnes. To do a little more control. Then the second question is.
+
+Such is the case with those who have gone before; this is the case with those who have gone before; this is the case with those who have gone before; this is the case with those who have gone before us; this is the case with those who have gone before.
+
+I can't answer it here. It should be evaluated first to see how it works, because after all, it might not be great. That said, if it does, I don't think it's going to happen.
+
+But I can't tell you at this point. You may ask where the plasticization is. This may be more clear. Relatively speaking, it's true. Why do we invest in it in the United States?
+
+They are the ones who have gone before them, and they are the ones who have gone before them, and they are the ones who have gone before them, and they are the ones who have gone after them, and they are the ones who have gone after them, and they are the ones who have gone after them, and they are the ones who have gone after them, and they are the ones who have gone after them, and they are the ones who have gone after them, and they are the ones who have gone after them.
+
+This price with our Taiwan. One ton is more than $200. Less than one ton. So the price difference is relatively larger. So if this plasticization is in Taiwan, they will succeed.
+
+I would like to say to our downstream manufacturers in Taiwan. The cost of raw materials should be relatively favorable. It will increase our competitiveness. So if there is no problem with the boss, we will come here first today.
+
+Thank you for sharing. Thank you. Thank you. Thank you. The problem is that you can contact us via e-mail or other means.

@@ -1,0 +1,51 @@
+我先做個幾個提問。然後就是我把這個大的市場大的這個picture。先講一下我們的看法。然後再請董事長給我們做這些detail。我們公司本身detail的這些說明。那我想之前呢。
+
+有跟各位也已經提到就是說。這幾個hyperscaler。它的這個capax是一足計的上升。然後呢因為這種AI data center。就已經是一個很大的上升。那AI data center的建置呢。
+
+有一點點像是arm's reach。它不可能就說停下來。因為它不做其他的competitor都會做。那之前也提到就是說接下來的。兩三年看起來這個trend應該是不會變。那也是要看看就是說他們在這個。
+
+AI data center上面。它的這個營收跟獲利大概會是怎麼樣。我想這個第二季的數字呢。現在幾個hyperscaler應該是除了。應該是Amazon吧。Amazon還沒有公佈其他三家應該都公佈了。
+
+那如果我記得沒有錯的話。Meta應該是第二季好像成長了。差不多22%吧。那這個Alpha。Alpha的話它應該是成長好像39%。所以他們這個業績都上去。
+
+然後呢它的這個capital expenditure。看起來。我記得是有幾家它是公佈它。還要再增加啦。那有幾家是說它一定會維持。所以就說這個看起來就是說。
+
+從它自己本身呢它在上面的spending。是會維持。那它的這個AI。這個business上面已經開始有比較。顯著的成長。那另外一點就是最近這個。
+
+Donald Trump他把他那個叫做。one big beautiful bill通過了。這個法案通過了。那像這個法案裡頭呢。對這個technology sector也算是相當不錯。那就是這種incentive跟credit。
+
+那我看了一些報導我看這個。就是整個incentive的range呢大概是。50到60個billion左右。那這個呢這個變成就是說。這些公司呢他現在做這些spending。事實上在他的稅上面等等。
+
+都非常的有幫助。所以就是說看起來他們這個spending。真的是短期之內應該是不會。不會減少啦。所以是整個在AI data center上面的建置呢就是說。不管是主觀客觀方面呢看起來。
+
+都不錯都不錯。那我們自己的一些發展是不是請董事長跟我們解說一下。Data center或者Data center這邊。其實我們產品現在是蠻齊全的啦。那power當然是。從Data center內部。
+
+不管是這個機櫃內的。或者甚至於延伸到Data center外部。這個我們東西。也都有這些方案都有。那當然Data center內部的有機櫃的。然後有這個板子上面的這些都。
+
+都有。Cooling的話板子上面的。到機櫃的到。liquid to air的liquid to air。liquid to liquid liquid to liquid其實現在都大概還沒開始。那這個我們也蠻齊全的。
+
+那這個都在等著市場的這個需求。那這些應該都ready了不過我們看Cooling這邊。還是比較偏Data center裡面的。那Data center外面的Cooling。外面的Cooling這個我們沒有involve。那剛才各位剛剛提那一家。
+
+它外面的那個大概做蠻多的。所以一定只要有建Data center。大概的業績這方面應該都會不錯。那Data center這個。內部的liquid to air的。我們的market share是非常非常高。
+
+那到了liquid to liquid的這個部分。那就看整個發展因為那個會。牽涉到整個這個。info structure的變動所以那個將來。會發展的速度會怎麼樣。其實我們也在觀察可能。
+
+沒有那麼快我個人是這樣認為。謝謝那我的第二個問題。也是延續一下就是。就是VertiF他們其實有一個。一個強項是關於service。就是說他們在這個整個facility。
+
+的提供上就是以服務的收入。其實也佔了蠻大的一個部分。那未來的數據中心其實。電力需求更強大Cooling的。
+
+需求也更強大就需要更多的服務。可不可以跟我們提點一下就是。台達在service這個部分現在。的佈局的狀況就是包含。人數包含營收的貢獻以及。對於未來成長的一個outlook謝謝。
+
+service這一塊就是走到solution。我們solution這一塊其實都還在。發展的階段主要。還是比較偏產品。
+
+產品這邊當然慢慢延伸到。這個系統的安裝跟後續的。這個產品這個系統保固。跟持續的這個服務這個大概。目前是到這個部分那真正。說獨立的這個service。
+
+目前佔的還很少所以這是。在我們後續在發展solution business。的時候其實是一個很大的議題。那在這邊我們還在持續建立這樣的能力。而且在建立這樣的。團隊在甚至於要。
+
+怎麼去評估它那KPI。這個整個還要這個還有一段時間。我稍微再提一下這個service一邊好了。因為service這邊我們也一直有在看。那你剛剛提到virtip因為它。做這個service很久很久了。
+
+它不叫virtip之前就已經開始做service。那基本上這種service。business是一般來講非常的。fragmented那很多是這種所謂mom and pop shop。那最近有一個有一個趨勢。就是說有些這個private equity。
+
+開始在收購一些這種小的。好好的這種service business。把它集合在一起。那當然我們也是在看這裡頭。這個到底有沒有我們可以參與這一部分。那當然如果在data center你還分成。
+
+這個white space跟gray space。那這個當然傳統上。一般人會覺得這種white space因為都是IT。
