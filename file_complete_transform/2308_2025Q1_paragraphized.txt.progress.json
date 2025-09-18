@@ -1,0 +1,76 @@
+{
+  "done": {
+    "1": {
+      "in_hash": "41221aff0b71bbca8be41ee724132a2e1a0fb3e3",
+      "out_hash": "2cedb2ef4173eb833b8dff97f72ecc64b0c6b1d8",
+      "char_ratio": 0.44287200832466184,
+      "sent_ratio": 0.042435424354243544
+    },
+    "2": {
+      "in_hash": "f73a9207a116067debb68a824fd36f2cd9d2832d",
+      "out_hash": "4bdba87b82708e4e8cb3636fabda5bd3269658a1",
+      "char_ratio": 0.5216844751728472,
+      "sent_ratio": 0.047377326565143825
+    },
+    "3": {
+      "in_hash": "f561fab6e39855c56bbd7dd71959a3c9ad34836d",
+      "out_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "char_ratio": 0.0,
+      "sent_ratio": 0.0
+    },
+    "4": {
+      "in_hash": "c4dc1c2918134acdeb7d9512edfca7842432cdc9",
+      "out_hash": "2da06b7f427ab0609db07e2a78b52970d5383965",
+      "char_ratio": 0.3455267558528428,
+      "sent_ratio": 0.052434456928838954
+    },
+    "5": {
+      "in_hash": "c4a6e9c888f8b806bb9ad6756c5694b2cd4a366b",
+      "out_hash": "e29f8970d96fde6ca413bb23d015fbb319b9ae37",
+      "char_ratio": 0.3323615160349854,
+      "sent_ratio": 0.052823315118397086
+    },
+    "6": {
+      "in_hash": "a9ab6d401eb4f71e5d1c8dd7bce52869d2a64ecd",
+      "out_hash": "b7bfc418fdb265eb5f0132eacc461091dbeb1b7e",
+      "char_ratio": 0.33312408453651393,
+      "sent_ratio": 0.04981549815498155
+    },
+    "7": {
+      "in_hash": "584b003c1a827e31bbca468357031cebf35a03da",
+      "out_hash": "e19fdba77b03f694ab36ad8b3438846694ea5135",
+      "char_ratio": 0.12202256581696615,
+      "sent_ratio": 0.09944751381215469
+    },
+    "8": {
+      "in_hash": "19edd5e80f3cf4d57f8bab9fa559527c873fbe51",
+      "out_hash": "ecf3b7649ac973b2fde15be36d5ebf38e9c7c938",
+      "char_ratio": 0.341967829538333,
+      "sent_ratio": 0.02702702702702703
+    },
+    "9": {
+      "in_hash": "d18abbf7d51b43def10e92adc7b25ebe4ad0b357",
+      "out_hash": "17f5de744a716109824d1235934cd1e4c0513c87",
+      "char_ratio": 0.5458896982310094,
+      "sent_ratio": 0.39855072463768115
+    },
+    "10": {
+      "in_hash": "22e2164b218685a0e92c0519cae77bdc27bc7365",
+      "out_hash": "8d767b30c8de8468d5a2802206275897cff93778",
+      "char_ratio": 0.3496168582375479,
+      "sent_ratio": 0.325
+    }
+  },
+  "order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ]
+}

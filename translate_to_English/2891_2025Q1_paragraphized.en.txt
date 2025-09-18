@@ -1,0 +1,79 @@
+
+
+<think> Ok, now I need to deal with the user-provided transcription content and convert it into paragraph-based form. First, I want to read the user's requirements carefully to ensure that they fully understand their needs. The user emphasizes that no word can be deleted, rewritten, or condensed, so it must remain the same, but combine the original paragraph-provided format into more consistent paragraphs.
+
+For example, financial data about CITIC Bank and Taiwan Life may be categorised into the same paragraph, while the parts of foreign currency loans and deposits may be categorised. Next, I need to pay attention to the conversion point of each topic. For example, when it comes to "net after banking", it may involve different data from different departments, such as "life after life" or "next," which explains the operational performance of CITIC Bank.
+
+For example, when discussing revenue growth, there can be several factors such as net interest income and handling fee income growth. These reasons need to be separated from the results to ensure the consistency of information. In addition, some sentences may be supplemented with explanations, such as "mainly because of higher capital gains from the same period last year", these explanatory sentences usually follow after the results, but can be combined into a paragraph with the results to enhance readability. When processing time or numerical changes, such as "seasonal growth 2%" or "yearly growth 11%", these data points should be combined with the results described to form a clear description.
+
+At the same time, pay attention to the correct position of the timestamp, after each sentence follow the corresponding timestamp, the user may want to keep these timestamps, but the user may omit the example, and need to confirm whether to include them. When processing foreign currency placements, there may be multiple percentages of data, such as "Japan Tokyo Star accounted for 24.7%", these data points should be merged with their respective sub-themes to form a complete paragraph, but each data point remains in their respective sentences without merger or deletion.
+
+At the same time, ensure that all timestamps correspond correctly without missing any information points. If you encounter content duplication or structural confusion, such as when discussing the cost and income of different parts, you need to ensure that each part is correctly classified under the corresponding headings, such as the "cost-effective portion" or "asset quality file", so that readers can find the relevant data more easily. In short, the whole process needs to be handled carefully, keeping its original intention and order, while improving the readability and logicalness of the whole, but must not change the original content or structure.
+
+In terms of life, net income after first quarter decreased by 27%, mainly due to higher capital gains during the same period last year. Net income after the first quarter of FSI increased by 49% and 5% year-on-year. Page 11 illustrates changes in operating income, revenue increased by 10.3% quarter-on-quarter and 12.3% year-on-year. Net interest income grew 5% year-on-quarter, up by 18.9% quarter-on-quarter, while procedures increased by 23.1% year-on-quarter and 11.7% year-on-year. Trading income and other quarter-on-quarter grew by 1.6%, mainly due to higher earnings from derivatives and fixed income.
+
+With regard to corporate loans, there is a growth of 10.5% in terms of government loans, manufacturing and service industries, which grew by 16.2% year-on-year, mainly from government loans, business and service industries, real estate industries and manufacturing industries. Mortgage business dynamics are stable, up by 2.5% quarter-on-quarter, up by 10.2% year-on-year. Unspecified and other lending seasons grew by 1.8% quarter-on-year, up by 16.9% year-on-year. For foreign currency loans, Japan accounted for 24.7%, Thailand LH accounted for 17%, and other overseas banks accounted for 32.5%.
+
+Overseas growth is 13.2% year-on-year, mainly from Thailand LH and Japan Tokyo Star, with double-digit growth. Overseas branches grow 18.8% year-on-year, mainly due to the bright performance of Singapore, Tokyo and India branches, and loans have reached double-digit growth. OBU and DBU loans have grown 36% year-on-year.
+
+The net interest rate rose to 1. 49% in the first quarter if it included SWAP-related income. The overall handling fee grew by 23.1% and 11.7% year-on-year. Wealth management was down 7.8% year-on-year due to high market volatility, affecting product sales and wealth management. However, the sales dynamics continued to grow as compared to the same period last year, leading to a growth of 9.2% year-on-year for fund insurance and structured commodity sales. Credit card handling was down by 3.3% in the fourth quarter of the traditional spending season, but benefited from continued consumption growth, especially in the transportation and leisure culture, which led to a 6.3% year-on-year increase in handling fees.
+
+Due to the impact of U.S. interest rate cuts, donations decreased in the first quarter of 2025 compared to last year, and insurance ratio increased. Bank cost efficiency was 52.1%, which was higher than the previous quarter and the same period last year, mainly due to the growth of operating revenues higher than the growth of operating expenses. In asset quality documents, the overall balance ratio of the first quarter was 0. 49% and the residual portfolio coverage was 323%.
+
+In the first year's premiums were raised significantly to 28.4%. In the first year's premiums, they accounted for 43. 9% in installments and 27.7% in short-footed goods. In foreign currency policies, 46. 4% in short-footed goods accounted for 25.2%. ZTE's channel accounted for 46.5%, mainly due to the growth in investment policy sales.
+
+In the first quarter of 2025, the return on investment after risk 4. 27%, the recurrent return on risk 3. 55%, up from the same period last year. The cost of liability is rising, but the two-frequency loss decreased by six basis points compared to the same period last year, and the performance of Taiwan Life remains positive and poor compared to the return on investment. In terms of risk strategy, in terms of the overall foreign currency investment position, the foreign currency policy accounted for 41%, with the hedge ratio of 27%, the external risk ratio of 21%, and the rest of the OCI equity.
+
+3036 million. Converted into an implicit value per share of the financial control is $15.5. In the actuarial hypothesis section. The reporting rate is assumed to be from 2025 to 2044. NT policy from 3. 69%. After rising to 4. 45%, it remains flat.
+
+Foreign currency policy from 4.3%. Up to 5.3%. Actuarial assumptions are viewable by independent third-party consultant PWC. Page 30 Sensitivity Analysis provides you with a reference. The following is a two-year EV debt. EV increased by 17. 4% in 2024.
+
+The net value of the adjustment increased by 3.8 billion. The value of the effective contract increased by 3.3 billion. The net value of the adjustment is increased by 2024. The net value of the adjustment is mainly derived from the profit of 215 billion.
+
+Other changes have increased by 4.6 billion. Mainly due to the increase in reserve balance for foreign exchange prices. Next, the value of a valid contract changes. The value of a valid contract in 2024 is 158,5 billion. Growth of 2.1% year-on-year. Mainly due to the change in the hypothesis of the withdrawal rate.
+
+A reduction of 2.2 billion. The change in the reporting rate hypothesis increased by 16.1 billion. In addition, the value of the new contract is not deducted from the capital cost of $7.3 billion. In the new contract value.
+
+The following is the paragraph verbatim you have requested:. ** The effect of the new contract change**. [1562.1 32-1564. 20] is 4. 18%. [1564. 76-1567. 16] The foreign currency is 4. 88%. [1569. 20-1572. 48] And that is the question. [1572.2 88-1577. 32] This is a variation in the value of the new contract.
+
+[1577. 48-1580. 44] The number of effects of that. [1582. 92-1588. 04] Mainly one or more effects caused by the rate of return. ** The rate of return impact**. [1590. 48-1591. 80] Can be traced. [1591. 80-1596. 76] That VNP does not have a single rate Equivalent. [1596. 80-1599. 52] Then the one just said.
+
+[1600. 24-1602. 40] The 9 million negative is mostly due to the return rate. [1602. 40-1604. 76] So the VNP here reporting rate is reduced. [1605. 04-1605. 60] Thank you. [1608. 36-1610. 44] I did not correct it. [1610. 48-1614. 48] That is, if the new contract is true. [1610. 32-1618. 88]
+
+[1618. 92-1620. 68] Taiwan Dollar is [1623. 00-1624. 20] 4. 11% [1625. 00-1628. 68] then the foreign currency is 4. 96%. **Trading income and non-Interest Income**. [1629. 32-1631. 24] That's the part about that difference. [1631. 24-1635. 04] I look at the number I don't have in my hand. [1635. 28-1636. 56] Let's explain.
+
+[1637. 76-1638. 48] Thank you. [1639. 32-1642. 00] One part of the new contract influences 900 million. [1642. 04-1644. 80] is the same as the reaction rate. [1644. 84-1645. 76] is relatively similar. [1645. 76-1647. 24] That part is probably one part. [1648. 40-1651. 64] is the number of effects of 1. 0.
+
+[1652. 76-1653. 40] above. **Bank handling fee income**. [1655. 00-1657. 24] Next ask CB Michael Zhang. [1657. 24-1657. 92] Please ask. [1659. 08-1661. 48] Thank you for giving me the opportunity to ask questions. [1661. 48-1663. 84] I have three main questions here.
+
+[1663. 84-1665. 48] The first one I would like to ask. [1665. 88-1669. 40] The handling fee here of the bank and the transaction income. **The impact of the bank's handling fee income**. [1669. 40-1672. 12] What happened in Momentum in April. [1672. 12-1674. 92] The whole market is also volatile. [1674. 92-1676. 72] I do not know the market volatility.
+
+[1676. 72-1680. 04] What an impact it has on our non-Non Interest Income. [1680. 04-1683. 56] What an impact it has on our portfolio and risk-taking ratio. [1684. 28-1686. 72] Then the second I would like to ask. [1686. 96-1689. 76] Is the life here. [1689. 76-1692. 36] This Breakdown of the Investment Portfolio.
+
+[1692. 36-1695. 88] Because we saw our equity in the first quarter. [1698. 56-1701. 28] This policy loan is the proportion of the increase. [1701. 28-1703. 32] The year before was a year of increase in comparison. [1703. 32-1705. 16] Then this is ours. [1706. 24-1707. 84] Overseas Investment Income [1707-1710. 00] Fixed Income is this. [1710. 88-1711. 72]
+
+[1711. 72-1713. 68] So I asked us. [1714. 04-1716. 80] This investment in the future is here. [1716. 80-1719. 24] There will not be any more adjustments. [1719. 24--1721. 08] Because I remember that this year. [1721. 08-1723. 44] We need to reduce some overseas. [1723. 88-1725. 08] This asset.
+
+[1725. 08-1727. 84] Then back to Taiwan. **Bank safe deposition strategy**. [1727. 84-1730. 12] I don't know if there will be any more. [1730. 12-1732. 00] More adjustments. [1732. 00-1735. 24] Then I'd like to ask this again. [1735. 80-1737. 40] Hatching Cost here.
+
+[1737. 40-1748. 68] Because we see the quarterly statement. [1738. 68-1740. 20] Our Hatching Structure. [1740. 20-1742. 40] is not much change. [1742. 40-1744. 64] So we don't know until April. [1744. 64-1746. 64] Now forex is more volatile than one. [1746. 64-1750. 12] We haven't added this to our list.
+
+[1750. 12-1751. 84] The proportion of Hatch thank you. [1754. 96-1755. 56] OK. [1756. 12-1758. 72] First of all, answer the bank about this. [1758. 72-1760. 84] One of the handling fees income. [1760. 84-1763. 04] An effect of April.
+
+The main growth dynamics are some of the current Momentum situation from April to May, and a guide to the potential growth goal for the year ahead. The second problem is to ask about our overseas point of view here Tokyo Star, which may be this year's overall interest rate hike in Japan is not a way to judge how much better it will be than last year including in terms of spreads or profit, and to share how much his impact this year's interest rate difference and profit for all of our central banks, so thanks.
+
+Now is the time to ask a question, if you need to ask a question, please press the new words and numbers on your phone. Next question is KGI Ed Richin, please ask. Regarding Chen, I would like to ask again, I would like to say that there is just the Vice President I talked about preparing for the next, if the level of level 4 of May is more than 5 billion, that means that if the level of reserve is between the end of May 30 to about 2.2, the level of reserve is still the level.
+
+This is what we just mentioned when we look at our foreign exchange price change reserve on May 5th, there are 45 billion, then I think that the 5th of May should be slightly lower than 30 pieces 2, so if we look at the situation of 30 pieces 2 at the end of the month, it should still be a little lower than 30 pieces 2, so if we look at the situation of 30 pieces 2 at the end of the month, it should be the opportunity to maintain the above number should be higher. So, it is said that the sensitivity of the present point is to consider that the value of a lot of Taiwan dollars, which is likely to affect one of our profits before tax, then the next time we will not consider saying that if the foreign exchange price change all the left gold is complete, and then make a one lump sum before the end of the alpha17 death.
+
+In addition, the quality of his assets is also better compared to the same period last year, and the ROE has reached 8.3% in the first quarter. There are some online questions that have just answered, which include the ratio of life uninsured, and just mentioned that we will have some hedges that will stop, which will naturally increase our hedge rate. And there is also the outlook for this year's loan, which we expect to be two-digit growth. Another question is to ask how much income this swap is in May, and the other one is that the interest rate sensitive part has just answered.
+
+This is the first question. The second question is to ask whether the growth of the first quarter is still strong, and the last one is to say that the first year will be a high number, which is not expected to be higher this year. The last part of credit cost guidance is given in this 25 to 30 bp, which is mainly because the first quarter has a strong amount of money, and that is because the total total credit cost is at 33 points.
+
+That generates the let interest income that is generated behind it. That's why you'll see that the loan growth is relatively strong. That month. During that time, his credit cost will increase relatively much. The credit cost will be slightly higher.
+
+So this year. The cap still maintains 25 to 30 bp. It is a view that we still have. The other part of this fee income is guidance. The last time we gave a growth in a high single digit.
+
+Thank you. No problem. There is still time to ask. If you need a question, please press on the phone key. New words and numbers1 thank you. If you need a question, please press on the phone.
+
+The new word and number 1 thank you. There are currently no questions. Thank you very much for your participation. The meeting is over. You can now offline. Thank you again.
