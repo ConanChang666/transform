@@ -17,9 +17,9 @@ except Exception:
     tqdm = None
 
 # ====== 參數 ======
-PARA_DIR   = "/Users/data.t/Desktop/transform/file_complete_transform"
-OUT_ZHTW   = "/Users/data.t/Desktop/transform/translate_to_tranditional_Chinese"
-OUT_EN     = "/Users/data.t/Desktop/transform/translate_to_English"
+PARA_DIR   = "/Users/fiiconan/Desktop/transform/file_complete_transform"
+OUT_ZHTW   = "/Users/fiiconan/Desktop/transform/translate_to_tranditional_Chinese"
+OUT_EN     = "/Users/fiiconan/Desktop/transform/translate_to_English"
 PATTERN    = "*_paragraphized.txt"
 
 SHOW_PROGRESS = True          # True 顯示 per-line 進度；未安裝 tqdm 會自動忽略
