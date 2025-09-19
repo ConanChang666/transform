@@ -1,29 +1,31 @@
 # -*- coding: utf-8 -*-
 """
-watch_and_translate.py（整合版）
-功能：監聽 PARA_DIR，新檔案出現（*_paragraphized.txt）→ 產出三份：
-  1) 繁體 (.zhtw.txt)
-  2) 簡體 (.zhcn.txt)（以繁體為準用 OpenCC 轉換）
-  3) 英文 (.en.txt)（以繁體為準用 zh_hant→en 模型翻譯）
-
-特點：
-- 增量處理（mtime 比較）；
-- 進度列（tqdm；未安裝會自動忽略）；
-- 嚴格 token 切塊（安全模式、encode 後 <= MAX_TOKENS）；
-- 靜音 transformers 的 max_length 類警告（不影響結果）。
+run_pipeline.py（監聽 + 翻譯整合版）
+功能：監聽 PARA_DIR，新檔（*_paragraphized.txt）→ 產出：
+  - 繁體 .zhtw.txt
+  - 簡體 .zhcn.txt（由繁體轉換）
+  - 英文 .en.txt（繁體→英翻譯）
 
 依賴：
-  pip install transformers sentencepiece tqdm opencc-python-reimplemented
-用法：
-  python3 run_pipeline.py
+  pip install transformers sentencepiece tqdm opencc-python-reimplemented torch
+
+用法（主流程會這樣叫）：
+  python run_pipeline.py \
+    --para_dir <PARA_DIR> \
+    --out_zhtw <OUT_ZHTW> \
+    --out_zhcn <OUT_ZHCN> \
+    --out_en   <OUT_EN>
+
+也可直接跑（走預設值）：
+  python run_pipeline.py
 """
 
 import os
 import re
 import time
 import warnings
+import argparse
 from pathlib import Path
-from transformers import pipeline, AutoTokenizer  # type: ignore
 
 # --- 靜音 HuggingFace 的 max_length 類警告（僅訊息，不影響結果） ---
 warnings.filterwarnings("ignore", message=".*max_length.*")
@@ -34,12 +36,14 @@ try:
 except Exception:
     tqdm = None  # 無 tqdm 時自動關閉進度列
 
-# ====== 參數 ======
-PARA_DIR   = "/Users/fiiconan/Desktop/transform/file_complete_transform"
-OUT_ZHTW   = "/Users/fiiconan/Desktop/transform/translate_to_tranditional_Chinese"
-OUT_ZHCN   = "/Users/fiiconan/Desktop/transform/translate_to_simplified_Chinese"
-OUT_EN     = "/Users/fiiconan/Desktop/transform/translate_to_English"
-PATTERN    = "*_paragraphized.txt"
+from transformers import pipeline, AutoTokenizer  # type: ignore
+
+# ====== 預設參數（可被命令列覆蓋） ======
+DEFAULT_PARA_DIR = "/Users/fiiconan/Desktop/transform/file_complete_transform"
+DEFAULT_OUT_ZHTW = "/Users/fiiconan/Desktop/transform/translate_to_tranditional_Chinese"
+DEFAULT_OUT_ZHCN = "/Users/fiiconan/Desktop/transform/translate_to_simplified_Chinese"
+DEFAULT_OUT_EN   = "/Users/fiiconan/Desktop/transform/translate_to_English"
+PATTERN          = "*_paragraphized.txt"
 
 SHOW_PROGRESS = True          # True 顯示 per-line 進度；未安裝 tqdm 會自動忽略
 POLL_INTERVAL = 5             # 每幾秒掃描一次
@@ -49,13 +53,22 @@ MAX_TOKENS = 500              # 每個送入模型的片段，encode 後的 toke
 MAX_LENGTH = 512              # 翻譯時的 max_length
 BATCH_SIZE = 16
 MODEL_ZH_HANT_TO_EN = "HPLT/translate-zh_hant-en-v1.0-hplt_opus"
-DEVICE = 0 if os.environ.get("CUDA_VISIBLE_DEVICES") else -1
 
 # ====== OpenCC ======
-# 以簡單包裝確保在環境允許時可載入；若失敗會 throw，便於及早發現環境問題。
 def _get_opencc():
-    from opencc import OpenCC  # type: ignore
-    _ = OpenCC("s2t.json")
+    try:
+        from opencc import OpenCC  # type: ignore
+    except Exception as e:
+        raise RuntimeError(
+            "OpenCC 載入失敗。請先安裝：pip install opencc-python-reimplemented"
+        ) from e
+    # 這裡務必用 's2t' / 't2s'（不要加 .json）
+    try:
+        _ = OpenCC("s2t")
+    except Exception as e:
+        raise RuntimeError(
+            "OpenCC 初始化失敗，檢查安裝與資源檔（config 目錄）是否完整。"
+        ) from e
     return OpenCC
 
 OpenCC = _get_opencc()
@@ -73,17 +86,14 @@ def is_simplified_line(line: str) -> bool:
     to_t = _conv_s2t.convert(line)
     return _diff(line, to_s) < _diff(line, to_t)
 
-# ====== I/O ======
 def read_lines(p: Path):
     return p.read_text(encoding="utf-8").splitlines()
-
 
 def write_lines(p: Path, lines):
     p.parent.mkdir(parents=True, exist_ok=True)
     p.write_text("\n".join(lines), encoding="utf-8")
 
 # ====== 嚴格 token 切塊（保證 encode 後 ≤ MAX_TOKENS） ======
-
 def smart_split_for_model(text: str, tokenizer, max_tokens: int = MAX_TOKENS):
     if not text.strip():
         return []
@@ -119,14 +129,28 @@ def smart_split_for_model(text: str, tokenizer, max_tokens: int = MAX_TOKENS):
     return chunks
 
 # ====== 翻譯器 ======
+def pick_device_index() -> int:
+    """
+    盡量安全地挑選 device：
+      - 有 torch.cuda 可用 → 0
+      - 否則 → -1（CPU）
+    """
+    try:
+        import torch  # type: ignore
+        if torch.cuda.is_available():
+            return 0
+    except Exception:
+        pass
+    return -1
 
 def build_translator(model_name: str):
+    device_idx = pick_device_index()
     tok = AutoTokenizer.from_pretrained(model_name)
-    pipe = pipeline("translation", model=model_name, tokenizer=tok, device=DEVICE)
+    # 保持相容用法（transformers 新版可改用 device_map="auto"）
+    pipe = pipeline("translation", model=model_name, tokenizer=tok, device=device_idx)
     return pipe, tok
 
 # ====== 簡→繁（含進度列） ======
-
 def normalize_lines_to_traditional(lines):
     out = []
     iterator = enumerate(lines, 1)
@@ -138,7 +162,6 @@ def normalize_lines_to_traditional(lines):
     return out
 
 # ====== 繁→簡（含進度列） ======
-
 def normalize_lines_to_simplified(lines):
     out = []
     iterator = enumerate(lines, 1)
@@ -150,7 +173,6 @@ def normalize_lines_to_simplified(lines):
     return out
 
 # ====== 繁→英（含進度列） ======
-
 def translate_lines_to_en(lines, translator, tokenizer):
     out_lines = []
     iterator = enumerate(lines, 1)
@@ -172,12 +194,10 @@ def translate_lines_to_en(lines, translator, tokenizer):
     return out_lines
 
 # ====== 增量判斷 ======
-
 def is_up_to_date(src: Path, dst: Path) -> bool:
     return dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime
 
 # ====== 單檔處理 ======
-
 def process_file(file: Path, out_zhtw_root: Path, out_zhcn_root: Path, out_en_root: Path, translator, tokenizer):
     out_zhtw = out_zhtw_root / (file.stem + ".zhtw.txt")
     out_zhcn = out_zhcn_root / (file.stem + ".zhcn.txt")
@@ -210,13 +230,7 @@ def process_file(file: Path, out_zhtw_root: Path, out_zhcn_root: Path, out_en_ro
         print(f"[EN  DONE] {file.name} -> {out_en}")
 
 # ====== 主監聽迴圈 ======
-
-def main():
-    para_root = Path(PARA_DIR)
-    out_zhtw_root = Path(OUT_ZHTW); out_zhtw_root.mkdir(parents=True, exist_ok=True)
-    out_zhcn_root = Path(OUT_ZHCN); out_zhcn_root.mkdir(parents=True, exist_ok=True)
-    out_en_root   = Path(OUT_EN);   out_en_root.mkdir(parents=True, exist_ok=True)
-
+def watch_loop(para_root: Path, out_zhtw_root: Path, out_zhcn_root: Path, out_en_root: Path):
     translator, tokenizer = build_translator(MODEL_ZH_HANT_TO_EN)
 
     print(f"[INFO] Watching {para_root} for {PATTERN}")
@@ -239,6 +253,24 @@ def main():
     except KeyboardInterrupt:
         print("\n[INFO] Stopped.")
 
+# ====== CLI ======
+def parse_args():
+    ap = argparse.ArgumentParser(description="Watch para_dir and translate to zhtw/zhcn/en")
+    ap.add_argument("--para_dir", default=DEFAULT_PARA_DIR, help="Paragraphized input directory")
+    ap.add_argument("--out_zhtw", default=DEFAULT_OUT_ZHTW, help="Output directory for Traditional Chinese")
+    ap.add_argument("--out_zhcn", default=DEFAULT_OUT_ZHCN, help="Output directory for Simplified Chinese")
+    ap.add_argument("--out_en",   default=DEFAULT_OUT_EN,   help="Output directory for English")
+    return ap.parse_args()
+
+def main():
+    args = parse_args()
+
+    para_root = Path(args.para_dir)
+    out_zhtw_root = Path(args.out_zhtw); out_zhtw_root.mkdir(parents=True, exist_ok=True)
+    out_zhcn_root = Path(args.out_zhcn); out_zhcn_root.mkdir(parents=True, exist_ok=True)
+    out_en_root   = Path(args.out_en);   out_en_root.mkdir(parents=True, exist_ok=True)
+
+    watch_loop(para_root, out_zhtw_root, out_zhcn_root, out_en_root)
 
 if __name__ == "__main__":
     main()
