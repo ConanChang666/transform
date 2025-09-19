@@ -120,8 +120,8 @@ def ensure_zh_fullwidth_punct(text: str) -> str:
         fixed.append(s)
     return "\n".join(fixed)
 
-# ---------- 語意分段重排 ----------
-TOPIC_CUES = tuple([
+# ---------- 語意分段重排（中英共用） ----------
+TOPIC_CUES_ZH = tuple([
     "首先","先","接著","再來","另外","另一方面","同時","此外","其次",
     "總結","最後","未來","展望","風險","策略","產能","良率","供應鏈",
     "市場","需求","產品","技術","氣冷","水冷","伺服器","財報","營收",
@@ -129,22 +129,55 @@ TOPIC_CUES = tuple([
     "問：","答：","主持人：","發言人：","分析師：","投資人："
 ])
 
-def split_sentences_zh(text: str) -> List[str]:
-    text = re.sub(r"\n+", " ", text)
-    pat = re.compile(r"[^。！？!?]*[。！？!?]|[^。！？!?]+$")
-    sents = [m.group(0).strip() for m in pat.finditer(text)]
-    return [s for s in sents if s]
+TOPIC_CUES_EN = tuple([
+    "First","First,","To start","Next","Then","Additionally","Moreover",
+    "On the other hand","Meanwhile","In addition","Secondly","In summary",
+    "Finally","Outlook","Risks","Strategy","Capacity","Yield",
+    "Supply chain","Market","Demand","Product","Technology",
+    "Cooling","Server","Financials","Revenue","Gross margin",
+    "Cost","Capex","Orders","Customers","Geopolitics","AI","HPC","Q&A",
+    "Q:","A:","Analyst:","Host:","Moderator:"
+])
+
+SPEAKER_TAG_RE = re.compile(
+    r"^(主持人|發言人|分析師|投資人|問|答|Moderator|Host|Speaker|Analyst|Investor|Q|A)\s*[:：]",
+    re.IGNORECASE
+)
+
+def split_sentences(text: str) -> List[str]:
+    """語言自適應斷句：中文用 。！？!?；英文用 .!?，並保護常見英文縮寫（e.g., Dr., U.S.）。"""
+    text = re.sub(r"\n+", " ", text).strip()
+    if not text:
+        return []
+
+    # 若包含中文字元 → 中文規則
+    if ZH_CHAR_RE.search(text):
+        pat = re.compile(r"[^。！？!?]*[。！？!?]|[^。！？!?]+$")
+        return [m.group(0).strip() for m in pat.finditer(text) if m.group(0).strip()]
+
+    # 英文規則：保護常見縮寫的句點，然後以 .!? 斷句
+    abbr = r"(Mr|Ms|Mrs|Dr|Prof|Sr|Jr|vs|e\.g|i\.e|etc|Inc|Ltd|Co|Corp|No|U\.S|U\.K|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\."
+    protected = re.sub(abbr, lambda m: m.group(0).replace(".", "∯"), text, flags=re.IGNORECASE)
+
+    # 以 . ! ? 斷句；允許引號/括號作為句尾；常見大寫/引號/括號開頭視為下一句提示
+    parts = re.split(r"(?<=[.!?])\s+(?=[A-Z\(\"'])", protected)
+    sents = [p.replace("∯", ".").strip() for p in parts if p and p.strip()]
+    return sents
 
 def is_topic_boundary(sent: str) -> bool:
     s = sent.strip()
-    if any(s.startswith(cue) for cue in TOPIC_CUES):
+    # 中英文開頭線索
+    if any(s.startswith(cue) for cue in TOPIC_CUES_ZH):
         return True
-    if re.match(r"^(主持人|發言人|分析師|投資人|問|答)[：:]", s):
+    if any(s.startswith(cue) for cue in TOPIC_CUES_EN):
+        return True
+    # 講者/問答標記
+    if SPEAKER_TAG_RE.match(s):
         return True
     return False
 
 def reflow_to_paragraphs(text: str, min_sent: int = 3, max_sent: int = 6) -> str:
-    sents = split_sentences_zh(text)
+    sents = split_sentences(text)
     paras, buf = [], []
     for s in sents:
         if buf and is_topic_boundary(s) and len(buf) >= max(min_sent, 1):
@@ -154,7 +187,6 @@ def reflow_to_paragraphs(text: str, min_sent: int = 3, max_sent: int = 6) -> str
             paras.append("".join(buf)); buf = []
     if buf: paras.append("".join(buf))
     return "\n\n".join(paras)
-
 # ---------- Prompt ----------
 SYSTEM_PROMPT = """你是一位專業逐字稿整理編輯，任務是將「逐句切開的逐字稿」重排成「可閱讀的段落式逐字稿」。
 **最重要規則：不得刪除、改寫、濃縮任何一句原文內容**。
