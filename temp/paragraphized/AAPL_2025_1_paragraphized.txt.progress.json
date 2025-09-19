@@ -1,0 +1,69 @@
+{
+  "done": {
+    "1": {
+      "in_hash": "756146868ee0c5b3842b9be13c92b6137653b0d0",
+      "out_hash": "dd67338d2a624eeb239b37470978b0e3a15f7369",
+      "char_ratio": 0.5082417582417582,
+      "sent_ratio": 1.0
+    },
+    "2": {
+      "in_hash": "9759ec856fe489dc85b214136916b4ec1f515961",
+      "out_hash": "30d6a4f79479e6889ce30077cc1c2bd7e358e285",
+      "char_ratio": 1.4873183944841173,
+      "sent_ratio": 1.5465116279069768
+    },
+    "3": {
+      "in_hash": "6e6524644e705d5ae42c086bdc726e27a902cc5b",
+      "out_hash": "576d9f7badbbe44616f9b2c0ee7c42afea597820",
+      "char_ratio": 1.0,
+      "sent_ratio": 1.0
+    },
+    "4": {
+      "in_hash": "51157ec16561958322cfc64fb1ceef91f2943321",
+      "out_hash": "1ea7b70acc82d4ee38214831a9830f1725afab31",
+      "char_ratio": 0.3606476938174681,
+      "sent_ratio": 0.7457627118644068
+    },
+    "5": {
+      "in_hash": "8b2c178eec4945eda14635eefc24f6696de6b942",
+      "out_hash": "4ea8b50eda3651882fb2d78f5f1e8b31a90d293b",
+      "char_ratio": 1.0199947382267824,
+      "sent_ratio": 1.0
+    },
+    "6": {
+      "in_hash": "de6109623df7a48a777debb03ad36a587e5e5a41",
+      "out_hash": "ab1b3820087c4291ec7fde656ee16daf86629de2",
+      "char_ratio": 0.12348855158219707,
+      "sent_ratio": 0.18181818181818182
+    },
+    "7": {
+      "in_hash": "543dcc2e34103d200c5596cc9b47afc9f323ccee",
+      "out_hash": "30c888afef86bcba11fa9f87e37e41a58daecdb8",
+      "char_ratio": 0.39610549667241807,
+      "sent_ratio": 0.9508196721311475
+    },
+    "8": {
+      "in_hash": "9e49e55720662a45c2904742275d450bda98a12b",
+      "out_hash": "57b37e79f2e22c71d7d365f80107f6b930ea133c",
+      "char_ratio": 1.239575622995312,
+      "sent_ratio": 1.4090909090909092
+    },
+    "9": {
+      "in_hash": "82bb0e4836a4da6d2c0ea64891b2c048a153d5d0",
+      "out_hash": "9f080716c52967f66867163873fb54ab3d326725",
+      "char_ratio": 1.0167364016736402,
+      "sent_ratio": 1.0208333333333333
+    }
+  },
+  "order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+}

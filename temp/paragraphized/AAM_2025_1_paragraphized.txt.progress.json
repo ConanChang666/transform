@@ -1,0 +1,76 @@
+{
+  "done": {
+    "1": {
+      "in_hash": "e22a4cd455874c23e7b1a5bbdec391b732a1d55d",
+      "out_hash": "0ed96e13fb59a1c50c239b37aab2c57e9144d679",
+      "char_ratio": 1.0,
+      "sent_ratio": 1.0
+    },
+    "2": {
+      "in_hash": "f159c8d1d54d0a966c88ea1851c249669b269825",
+      "out_hash": "ff2ea682be7f12cc4798839976999553d78b4d82",
+      "char_ratio": 1.0,
+      "sent_ratio": 1.0
+    },
+    "3": {
+      "in_hash": "56b2cf8cfe002856aee3030bb2b75f8a8171d76c",
+      "out_hash": "bf457411f5fb198b0116f40b0be7ef3d6ef49010",
+      "char_ratio": 1.0,
+      "sent_ratio": 1.0
+    },
+    "4": {
+      "in_hash": "e67e4cb67be9264ecd81a114344b3557b2e7b4c0",
+      "out_hash": "9badc70326917c93bb4188a6258c908d23924228",
+      "char_ratio": 1.0050357805459846,
+      "sent_ratio": 1.0161290322580645
+    },
+    "5": {
+      "in_hash": "9d75deb3e3c918e7feff519fe52f4a9e82a8214e",
+      "out_hash": "e4ffd3a1c38e5531f765033d8e19b6eff3546959",
+      "char_ratio": 0.3716198815348957,
+      "sent_ratio": 0.8545454545454545
+    },
+    "6": {
+      "in_hash": "2b825ad1651e97cc3fec0d0a7f8c8f0adaa80137",
+      "out_hash": "c7224e17f80e9b5157bb1a6eb8f389cf815653c6",
+      "char_ratio": 0.40787746170678335,
+      "sent_ratio": 0.8181818181818182
+    },
+    "7": {
+      "in_hash": "cf54f2edad1bca33178d6e02abef6d27d68e2d8c",
+      "out_hash": "6fa1ad1079e51d18981115f8e13c546be0187b15",
+      "char_ratio": 0.9908883826879271,
+      "sent_ratio": 0.9841269841269841
+    },
+    "8": {
+      "in_hash": "2dbbe5d1e11486e2b59807d283811567e989157f",
+      "out_hash": "1c7691e6c771a2818740631af0a6c66cd430b8f6",
+      "char_ratio": 0.25325172149961744,
+      "sent_ratio": 0.41379310344827586
+    },
+    "9": {
+      "in_hash": "51619456600145f9158af4ccc40ec1c133ff320e",
+      "out_hash": "c72cd8bdd298b2e1d589258167553cc6a9a614c2",
+      "char_ratio": 0.9889749702026222,
+      "sent_ratio": 0.9803921568627451
+    },
+    "10": {
+      "in_hash": "f4202d16d1c8de41f68ea4d743cc2900c2a3eee7",
+      "out_hash": "e361fe70a2ac42acf04e7f15030a5d36a798b972",
+      "char_ratio": 1.0108761329305136,
+      "sent_ratio": 1.0
+    }
+  },
+  "order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ]
+}
