@@ -194,65 +194,95 @@ def run_paragraphizer():
 def run_translator():
     print("--- 開始執行翻譯程式（監聽模式） ---")
 
-    # 只把「中文分段」交給 run_pipeline 翻譯
-    process = subprocess.Popen(
+    # 目標集合：兩邊段落化檔案（中文 + 英文）
+    def list_basenames(dirpath: Path):
+        return {p.stem for p in dirpath.glob("*.txt")}  # *_paragraphized.txt → stem
+
+    targets_zh = list_basenames(PARA_ZH_DIR)
+    targets_en = list_basenames(PARA_EN_DIR)
+    targets = targets_zh | targets_en
+    total = len(targets)
+    print(f"等待翻譯完成：中文 {len(targets_zh)} + 英文 {len(targets_en)} = 總計 {total} 件")
+
+    # 啟動兩條翻譯監聽
+    procs = []
+
+    # 中文來源：先繁→簡（英文可關閉/開啟）
+    procs.append(subprocess.Popen(
         [
             sys.executable, "run_pipeline.py",
             "--para_dir", str(PARA_ZH_DIR),
             "--out_zhtw", str(ZHTW_OUTPUT_DIR),
             "--out_zhcn", str(ZHCN_OUTPUT_DIR),
             "--out_en",   str(EN_OUTPUT_DIR),
+            "--mode",     "zh",
+            "--pattern",  "*.txt",
+            "--force_s2t",        # 可選：整篇先 s2t 校正夾雜
+            # "--skip_en",        # 若不想產英文就解註這行
         ],
-        stdout=subprocess.PIPE,
-        stderr=subprocess.PIPE,
-        text=True,
-    )
+        stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True
+    ))
 
-    total_files = len(list(PARA_ZH_DIR.glob("*.txt")))
-    print(f"等待 {total_files} 個中文分段檔翻譯完成...")
+    # 英文來源：英→中，**轉繁為真源**，再由繁→簡；不產英文
+    procs.append(subprocess.Popen(
+        [
+            sys.executable, "run_pipeline.py",
+            "--para_dir", str(PARA_EN_DIR),
+            "--out_zhtw", str(ZHTW_OUTPUT_DIR),
+            "--out_zhcn", str(ZHCN_OUTPUT_DIR),
+            "--out_en",   str(EN_OUTPUT_DIR),
+            "--mode",     "en",
+            "--pattern",  "*.txt",
+            "--skip_en",
+        ],
+        stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True
+    ))
 
-    last_done = -1
-
-    def done_count() -> int:
-        return min(
-            len(list(EN_OUTPUT_DIR.glob("*.en.txt"))),
-            len(list(ZHTW_OUTPUT_DIR.glob("*.zhtw.txt"))),
-            len(list(ZHCN_OUTPUT_DIR.glob("*.zhcn.txt"))),
-        )
+    # 進度監看：只看 zhtw/zhcn（英文輸出非必需）
+    last = -1
+    def done_count():
+        # 針對每個目標 basename，確認 zhtw 與 zhcn 是否都已產出
+        done = 0
+        for base in targets:
+            zhtw_ok = (ZHTW_OUTPUT_DIR / f"{base}.zhtw.txt").exists()
+            zhcn_ok = (ZHCN_OUTPUT_DIR / f"{base}.zhcn.txt").exists()
+            if zhtw_ok and zhcn_ok:
+                done += 1
+        return done
 
     try:
         while True:
-            current = done_count()
-            if current != last_done:
-                print(f"已完成：{current}/{total_files}")
-                last_done = current
-
-            if current >= total_files:
+            cur = done_count()
+            if cur != last:
+                print(f"已完成：{cur}/{total}")
+                last = cur
+            if cur >= total:
                 break
 
-            # 也讀一下子行程輸出（避免緩衝塞住）
-            if process.stdout and not process.stdout.closed:
-                line = process.stdout.readline()
-                if line:
-                    line = line.strip()
+            # 讀子行程輸出避免阻塞（可省略）
+            for p in procs:
+                if p.stdout and not p.stdout.closed:
+                    line = p.stdout.readline()
                     if line:
-                        print(f"[translator] {line}")
-
+                        print(f"[translator] {line.strip()}")
             time.sleep(2)
     finally:
-        # 溫和收斂
-        try:
-            process.terminate()
-            process.wait(timeout=10)
-        except Exception:
-            process.kill()
-        # 列出最後錯誤輸出（若有）
-        if process.stderr:
-            err = process.stderr.read()
-            if err:
-                print(err)
+        for p in procs:
+            if p.poll() is None:
+                try:
+                    p.terminate()
+                    p.wait(timeout=10)
+                except Exception:
+                    p.kill()
+        # 印出錯誤訊息（若有）
+        for p in procs:
+            if p.stderr:
+                err = p.stderr.read()
+                if err:
+                    print(err)
 
     print("--- 翻譯程式執行完成 ---")
+
 
 # ======================
 # 4) 寫回資料庫
